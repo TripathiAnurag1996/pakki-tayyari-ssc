@@ -9,8 +9,8 @@ See: .planning/PROJECT.md (updated 2026-04-25)
 
 ## Phase Execution State
 
-- [ ] Phase 0: Project Scaffold
-- [ ] Phase 1: Supabase Setup
+- [x] Phase 0: Project Scaffold
+- [x] Phase 1: Supabase Setup
 - [ ] Phase 2: Data Import
 - [ ] Phase 3: Authentication Pages
 - [ ] Phase 5: API Routes
