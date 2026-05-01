@@ -1,0 +1,195 @@
+[
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Series",
+    "chapter": "Letter Series",
+    "difficulty": "easy",
+    "question_text": "Select the option that will correctly fill all the blanks in the series: m _ n m _ n _ _ n m _ _",
+    "options": ["a a a m n a", "a a m a a n", "m n o o o o", "a a m n m a"],
+    "correct_option": 0,
+    "solution_text": "The pattern follows repetition of 'm a n'. Filling accordingly gives: m a n m a n m a n m a n. Thus, correct option is (0)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Number Logic",
+    "chapter": "Pattern Based",
+    "difficulty": "easy",
+    "question_text": "If 5 + 3 = 16 and 7 + 4 = 33, then 6 + 2 = ?",
+    "options": ["32", "14", "16", "18"],
+    "correct_option": 0,
+    "solution_text": "Pattern: a^2 - b^2. 6^2 - 2^2 = 36 - 4 = 32. Thus, correct option is (0)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Series",
+    "chapter": "Number Series",
+    "difficulty": "easy",
+    "question_text": "What number will replace the question mark? 2, 6, 14, 30, ?, 126",
+    "options": ["46", "60", "62", "64"],
+    "correct_option": 2,
+    "solution_text": "Pattern: multiply by 2 and add 2. 30×2+2=62. Thus, correct option is (2)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Logical Reasoning",
+    "chapter": "Statement and Assumption",
+    "difficulty": "medium",
+    "question_text": "Statement: Excessive use of plastic bags harms the environment. Assumptions: I. Plastic bags are non-biodegradable. II. People are aware of environmental damage caused by plastic.",
+    "options": ["Only I is implicit", "Only II is implicit", "Both I and II are implicit", "Neither I nor II is implicit"],
+    "correct_option": 0,
+    "solution_text": "Assumption I explains why plastic harms environment. II is unrelated. Thus, correct option is (0)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Series",
+    "chapter": "Number Series",
+    "difficulty": "easy",
+    "question_text": "Complete the series: 3, 9, 27, ?, 243",
+    "options": ["54", "72", "81", "90"],
+    "correct_option": 2,
+    "solution_text": "Pattern: multiply by 3. 27×3=81. Thus, correct option is (2)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Polity",
+    "chapter": "Indian Constitution",
+    "difficulty": "easy",
+    "question_text": "Find the odd one out: Article 14, Article 19, Article 21, Article 360",
+    "options": ["Article 14", "Article 19", "Article 21", "Article 360"],
+    "correct_option": 3,
+    "solution_text": "Article 360 is Emergency provision, others are Fundamental Rights. Thus, correct option is (3)."
+  },
+
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Coding-Decoding",
+    "chapter": "Letter Coding",
+    "difficulty": "easy",
+    "question_text": "If CAT is written as 3-1-20 and DOG as 4-15-7, how will PIG be written?",
+    "options": ["16-9-7", "15-9-7", "16-8-7", "15-8-6"],
+    "correct_option": 0,
+    "solution_text": "Alphabet positions: P=16, I=9, G=7. Thus, correct option is (0)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Mathematical Operations",
+    "chapter": "Operator Replacement",
+    "difficulty": "medium",
+    "question_text": "If '+' means '×', '−' means '+', '×' means '÷', and '÷' means '−', find value of 18 − 6 + 12 × 3 ÷ 2",
+    "options": ["8", "40", "10", "12"],
+    "correct_option": 1,
+    "solution_text": "Replace operators → 18+6×12÷3−2 = 40. Thus, correct option is (1)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Accuracy",
+    "chapter": "Identical Sentences",
+    "difficulty": "easy",
+    "question_text": "Choose the address exactly identical to: Flat 402, Emerald Residency, Lake View Road, Pune, Maharashtra – 411016",
+    "options": [
+      "Flat 402 Emerald Residency Lakeview Road Pune Maharashtra 411016",
+      "Flat 402, Emerald Residency, Lake View Rd., Pune, Maharashtra – 411061",
+      "Flat 420, Emerald Residency, Lake View Road, Pune, Maharashtra – 411016",
+      "Flat 402, Emerald Residency, Lake View Road, Pune, Maharashtra – 411016"
+    ],
+    "correct_option": 3,
+    "solution_text": "Only option D matches exactly. Thus, correct option is (3)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Average",
+    "difficulty": "easy",
+    "question_text": "What is the average of the first 7 odd numbers?",
+    "options": ["6", "7", "8", "9"],
+    "correct_option": 1,
+    "solution_text": "Average = middle term = 7. Thus, correct option is (1)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Ratio and Proportion",
+    "difficulty": "easy",
+    "question_text": "Ratio of two numbers is 7:9 and sum is 256. Find numbers.",
+    "options": ["98 and 126", "112 and 144", "119 and 137", "126 and 130"],
+    "correct_option": 1,
+    "solution_text": "Total parts=16, each=16 → numbers=112,144. Thus, correct option is (1)."
+  },
+
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Art and Culture",
+    "chapter": "Indian Classical Dance",
+    "difficulty": "easy",
+    "question_text": "Match the classical dance form with its state of origin: 1. Sattriya 2. Kuchipudi 3. Mohiniyattam",
+    "options": [
+      "1-Assam, 2-Andhra Pradesh, 3-Kerala",
+      "1-Kerala, 2-Assam, 3-Andhra Pradesh",
+      "1-Andhra Pradesh, 2-Kerala, 3-Assam",
+      "1-Assam, 2-Kerala, 3-Andhra Pradesh"
+    ],
+    "correct_option": 0,
+    "solution_text": "Sattriya originates from Assam, Kuchipudi from Andhra Pradesh, and Mohiniyattam from Kerala. Thus, correct option is (0)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Polity",
+    "chapter": "Fundamental Duties",
+    "difficulty": "easy",
+    "question_text": "Which of the following is a fundamental duty under Article 51A of the Indian Constitution?",
+    "options": [
+      "To provide free legal aid",
+      "To protect and improve the natural environment",
+      "To organize village panchayats",
+      "To separate the judiciary from the executive"
+    ],
+    "correct_option": 1,
+    "solution_text": "Article 51A(g) mentions protecting environment. Thus, correct option is (1)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Science",
+    "chapter": "Chemistry",
+    "difficulty": "easy",
+    "question_text": "Which chemical element produces green colour in firework displays?",
+    "options": ["Strontium", "Barium", "Sodium", "Copper"],
+    "correct_option": 1,
+    "solution_text": "Barium produces green color. Thus, correct option is (1)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Geography",
+    "chapter": "Rivers of India",
+    "difficulty": "easy",
+    "question_text": "Which river originates from the Amarkantak Plateau?",
+    "options": ["Godavari", "Narmada", "Krishna", "Kaveri"],
+    "correct_option": 1,
+    "solution_text": "Narmada originates from Amarkantak Plateau. Thus, correct option is (1)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Sports",
+    "chapter": "Important Facts",
+    "difficulty": "easy",
+    "question_text": "What is the standard distance of a Marathon race?",
+    "options": ["21.09 km", "42.195 km", "50 km", "38.5 km"],
+    "correct_option": 1,
+    "solution_text": "Standard marathon distance is 42.195 km. Thus, correct option is (1)."
+  }
+]

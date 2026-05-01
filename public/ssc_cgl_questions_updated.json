@@ -1,0 +1,3362 @@
+[
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "If a % b = a² - b² and a % b = 63, find a and b.",
+    "options": [
+      "9, 6",
+      "10, 7",
+      "8, 1",
+      "7, 4"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given :\nIf a % b = a² - b² and a % b = 63\nNow, we check each options.\nOption (a):  9, 6\n9 - 6= 81 - 36 = 45   63\n Option (b):  10, 7\n10 - 7 = 100 - 49 = 51   63\n Option (c):  8, 1\n8 - 1 = 64 - 1 = 63\n Option (d):  7, 4\n7 - 4 = 49 - 16 = 33   63\nSo, the value of  a = 8 and b = 1 .\nThus, correct option is (c).2 2=\n2 2=\n2 2\n2 2 ="
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Alphabet Test",
+    "difficulty": "medium",
+    "question_text": "How many lett ers will r emain unchanged if the w ord EDUCA TION is arranged alphabetically ?",
+    "options": [
+      "One",
+      "Zero",
+      "Three",
+      "Two"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given : EDUCA TION\nGiven Letters EDUCATION\nAlphabetical Order ACDEINOTU\nTransformed letters: A, C, D, E, I, N, O, T, U\nSo, zero letters will remain unchanged if the word is arranged alphabetically.\nThus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Select the lett er-clust er that will r eplace (?):\nB, F, J, N, R, V , Z, ?",
+    "options": [
+      "A",
+      "C",
+      "B",
+      "D"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given : B, F, J, N, R, V, Z, ?\nLogic : Letters are increasing + 4 place.\nB + 4 = F\nF + 4 = J\n\n\nCopyright © 2026  Adda247J + 4 = N\nN + 4 = R\nR + 4 = V\nV + 4 = Z\nZ + 4 = D\nSo, the missing term is D.\nThus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Blood Relations",
+    "difficulty": "medium",
+    "question_text": "Pointing t o a boy , a w oman said, “He is the son o f my father ’s only daught er.” How is the boy r elated to the w oman?",
+    "options": [
+      "Son",
+      "Brother",
+      "Nephew",
+      "Cousin"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given :\nPointing to a boy, a woman said, “He is the son of my father’s only daughter.”\nFrom the given information blood relation diagram will be.\nSo, the boy is the son of the woman.\nThus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If 4 ⊕ 3 = 19 and 5 ⊕ 2 = 17, then 6 ⊕ 4 = ?",
+    "options": [
+      "24",
+      "28",
+      "34",
+      "32"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given :\nIf 4 ⊕ 3 = 19 and 5 ⊕ 2 = 17\nLogic : (1st number × 2nd number) + (1st number + 2nd number) = 3rd number\nFor, 4 ⊕ 3 = 19\n(4 × 3) + (4 + 3) = 12 + 7 = 19\nFor, 5 ⊕ 2 = 17\n(5 × 2) + (5 + 2) = 10 + 7 = 17\nSimilarly,\n6 ⊕ 4 = ?\n(6 × 4) + (6 + 4) = 24 + 10 = 34\nThus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Mathematical Reasoning",
+    "difficulty": "medium",
+    "question_text": "If 3x + 7 = 28, find x.",
+    "options": [
+      "7",
+      "6",
+      "5\n\nCopyright © 2026  Adda247",
+      "8"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given :\nIf 3x + 7 = 28\nSolution :\n3x + 7 = 28\n3x = 28 - 7\n3x = 21\nx = \nx = 7\nSo, the value of x = 7\nThus, correct option is (a). 321"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Apply the same p attern used in the following gr oup and find the corr ect option.\nMETAL : L ATEM :: FIBER : ?",
+    "options": [
+      "ERFIB",
+      "BIFER",
+      "REBIF",
+      "RIFEB"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given : MET AL : L ATEM :: FIBER : ?\nLogic : Place value of letters are interchanged.\nFor, MET AL : L ATEM\nSimilarly,\nFIBER : ?\nSo, FIBER : REBIF\nThus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If '+' = '-' and '-' = '×', find the v alue o f:\n12 + 4 - 3 = ?",
+    "options": [
+      "5",
+      "0",
+      "1",
+      "3"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given : 12 + 4 - 3 = ?\nGiven Sign +-\nNew Sign -×\nUsing BODMAS rule.\n\nCopyright © 2026  Adda247New equation:  12 - 4 × 3 = ?\n12 - 12 = ?\n? = 0\nThus, correct option is (b).   Operation preference wise\nBrackets\nOrders, of\nDivision\nMultiplication\nAddition\nSubtractionSymbol\n[],,()\n(power),√(root),of\n÷\n×\n+\n−"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Find the odd one out.",
+    "options": [
+      "4 : 16 : 256",
+      "3 : 9 : 81",
+      "5 : 25 : 125",
+      "6 : 36 : 1296"
+    ],
+    "correct_option": 2,
+    "solution_text": "Logic : (1st number) = 2nd number, (2nd number) = 3rd number\nNow, we check each options.\nOption (a):  4 : 16 : 256 (Follow)  \n(4)= 16, (16) = 256  \n Option (b):  3 : 9 : 81 (Follow)  \n(3)= 9, (9) = 81 \n Option (c):  5 : 25 : 125 (Not Follow)\n(5)= 25, (25)   125 \n Option (d):  6 : 36 : 1296 (Follow)  \n(6)= 36, (36) = 1296  \nSo, 5 : 25 : 125  is odd one out.\nThus, correct option is (c).2 2\n2 2\n2 2\n2 2=\n2 2"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Eight people P , Q, R, S, T , U, V , W sit ar ound a cir cle facing the cent er. P is second right o f Q. R is opposit e P. S is immediat e left of R. T is thir d to the\nright o f Q. U is sits t o the immediat e left of S. W is opposit e T. Who is immediat e right o f Q?",
+    "options": [
+      "P",
+      "R",
+      "W",
+      "V"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given:\nEight people P, Q, R, S, T, U, V, W sit around a circle facing the center.\nP is second right of Q.\nR is opposite P.\nS is immediate left of R.\nT is third to the right of Q.\nU is sits to the immediate left of S.\nW is opposite T.\nFrom the given information seating arrangement will be.\nSo, V is immediate right of Q.\nThus, correct option is (d).\n\nCopyright © 2026  Adda247"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Find the missing t erm in the series.\nACE, EGI, IKM, MOQ , ?",
+    "options": [
+      "QSU",
+      "PQS",
+      "QRT",
+      "RSU"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given : ACE, EGI, IKM, MOQ, ?  \nLogic : Letters are increasing + 4 place.\nA + 4 = E, E + 4 = I, I + 4 = M, M + 4 = Q\nC + 4 = G, G + 4 = K, K + 4 = O, O + 4 = S\nE + 4 = I, I + 4 = M, M + 4 = Q, Q + 4 = U\nSo, the missing term is QSU .\nThus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "What will come in place o f (?)\n2, 6, 18, 54, ?",
+    "options": [
+      "108",
+      "324",
+      "216",
+      "162"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given : 6, 18, 54, ?, 486\nLogic : Number are multiply by 3.\n6 × 3 = 18\n18 × 3 = 54\n54 × 3 = 162\n162 × 3 = 486\nSo, the missing term is 162.\nThus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Which w ord cannot be formed fr om DEMOCRA CY?",
+    "options": [
+      "READY",
+      "CORE",
+      "MAYOR",
+      "CAREER"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given : DEMOCRA CY\nNow, we check each options:\nOption (a):  READY → R, E, A, D, Y (possible)\nOption (b):  CORE → C, O, R, E (possible)  \nOption (c):  MAYOR → M, A, Y, O, R (possible)  \nOption (d): CAREER → C, A, R, E, E, R (not possible)  \nNeeds E twice, but DEMOCRA CY has only one E\nSo, CAREER word cannot be formed.\nThus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "What comes next ?\n8, 20, 44, 92, ?\n\nCopyright © 2026  Adda247",
+    "options": [
+      "180",
+      "188",
+      "196",
+      "204"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given : 8, 20, 44, 92, ?\nLogic : Numbers are multiply by 2 and + 4 place.\n8 × 2 + 4 = 20\n20 × 2 + 4 = 44\n44 × 2 + 4 = 92\n92 × 2 + 4 = 188\nSo, the missing term is 188.\nThus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Coding-Decoding",
+    "difficulty": "medium",
+    "question_text": "In a cer tain code language, \"apple is sw eet fruit\" is writt en as \"ka lo mi t e\", \"mango is sw eet\" is writt en as \"lo mi ra\" and \"apple mango fr esh\" is\nwritt en as \"ka ra su \". How is \" sweet\" coded?",
+    "options": [
+      "su",
+      "mi",
+      "ra",
+      "te"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given:\nIn a certain code language, \"apple is sweet fruit\" is written as \"ka lo mi te\", \"mango is sweet\" is written as \"lo mi ra\" and \"apple mango fresh\" is\nwritten as \"ka ra su\".\nSo, the code of sweet is mi.\nThus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Mathematical Reasoning",
+    "difficulty": "medium",
+    "question_text": "The ratio o f two number s is 5 : 7 and their sum is 96. Find the number s.",
+    "options": [
+      "40, 56",
+      "45, 51",
+      "48, 48",
+      "35, 61"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given :\nThe ratio of two numbers is 5 : 7 and their sum is 96.\nSolution :\nLet the two numbers be 5x and 7x.\n5x + 7x = 96\n12x = 96\nx = 8\nThe numbers are:\n5x = 5   8 = 40\n7x = 7   8 = 56\nSo, the numbers are 40, 56 .\nThus, correct option is (a).×\n×"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Blood Relations",
+    "difficulty": "medium",
+    "question_text": "If A is the br other o f B, and B is the mother o f C, how is A r elated to C?",
+    "options": [
+      "Brother",
+      "Father\n\nCopyright © 2026  Adda247",
+      "Uncle",
+      "Cousin"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given :\nIf A is the brother of B, and B is the mother of C.\nFrom the given information blood relation diagram will be,\nSo, A is the uncle of C.\nThus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Coding-Decoding",
+    "difficulty": "medium",
+    "question_text": "If “ROAD” is coded as *4@# and “RE AD” as *@4#, what is the code for “RA OD”?",
+    "options": [
+      "*@#4",
+      "*4#@",
+      "*@4#",
+      "*#@4"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given :\nIf “ROAD” is coded as *4@# and “READ” as *@4#.\nSo, the code of RAOD is *@4# . Because O and A are interchanged.\nThus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "In a t ournament o f 9 play ers, each plays ev ery other play er once. How many mat ches ar e play ed?",
+    "options": [
+      "72",
+      "40",
+      "42",
+      "36"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given :\nTotal number of players = 9\nEach pair of players plays one match\nFormula Used:\nTotal matches in a round-robin tournament:\nNumber of matches =   \nWhere n = number of players\nMatches =   \n=   \n=   \n= 36\nSo, 36 matches are played.\nThus, correct option is (d). 2n(n−1)\n 29×(9−1)\n 29×8\n 272\n\nCopyright © 2026  Adda247"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Identif y the similar addr ess:\n12, Lak e View R oad, Anna Nagar , Chennai - 600040",
+    "options": [
+      "12 Lake View R d Anna Nagar Chennai 600040",
+      "Anna Nagar, 12 Lake R oad, Chennai",
+      "12 Lake R oad, Chennai - 600004",
+      "21 Lake View R oad, Anna Nagar, Chennai"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given:\n12, Lake View R oad, Anna Nagar, Chennai - 600040\nCheck the options:\nOption (a):  12 Lake View R d Anna Nagar Chennai 600040\nSame house number, road (abbreviated), locality, city, and PIN code.\n Option (b): Missing “View”, order changed, and PIN code missing\n Option (c):  Different road name and different PIN code (600004)\n Option (d):  Different house number (21 instead of 12)\nSo, 12 Lake View Rd Anna Nagar Chennai 600040  is identically same.\nThus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Statement :\nOnline education is exp anding rapidly; hence quality standar ds must be maintained.\nAssumptions :\nI. Online education affects learning out comes.\nII. Quality contr ol is necessar y in education.",
+    "options": [
+      "Only I",
+      "Only II",
+      "Both I and II",
+      "Neither I nor II"
+    ],
+    "correct_option": 2,
+    "solution_text": "Statement:\nOnline education is expanding rapidly; hence quality standards must be maintained.\nAssumptions:\nI. Online education affects learning outcomes.\nThe statement argues that because online education is expanding, quality standards must be maintained. This implies that online education does\nhave an impact on learning outcomes → Assumption I is implicit.\nII. Quality control is necessary in education.\nSaying that quality standards must be maintained clearly assumes that quality control is necessary in education → Assumption II is also implicit.\nSo, both I and II  are implicit.\nThus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If 8 $ 3 = 32 and 6 $ 4 = 30, then 5 $ 4 = ?",
+    "options": [
+      "28",
+      "20",
+      "24",
+      "25"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given :\nIf 8 $ 3 = 32 and 6 $ 4 = 30\nLogic : (1st number × 2nd number) + 1st number = 3rd number\nFor, 8 $ 3 = 32\n(8 × 3) + 8 = 24 + 8 = 32\nFor, 6 $ 4 = 20\n(6 × 4) + 6 = 24 + 6 = 30\nSimilarly,\n5 $ 4 = ?\n(5 × 4) + 5 = 20 + 5 = 25\nThus, correct option is (d).\n\nCopyright © 2026  Adda247"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If + means × and - means ÷, which is incorr ect?",
+    "options": [
+      "8 - 2 + 3 = 12",
+      "6 + 3 - 2 = 9",
+      "4 - 2 + 5 = 15",
+      "9 + 1 - 3 = 3"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given :\nGiven Sign +×\nNew Sign -÷\nUsing BODMAS rule.\nNow, we check each options.\nOption (a):  8 − 2 + 3 = 12 (Correct)\n= 8 ÷ 2 × 3\n= 4 × 3\n= 12\n Option (b):  6 + 3 − 2 = 9 (Correct)  \n= 6 × 3 ÷ 2\n= 18 ÷ 2\n= 9\n Option (c):  4 − 2 + 5 = 15 (Incorrect)  \n= 4 ÷ 2 × 5\n= 2 × 5\n= 10  15 \n Option (d):  9 + 1 − 3 = 3 (Correct)  \n= 9 × 1 ÷ 3\n= 9 ÷ 3\n= 3\nThus, correct option is (c).   Operation preference wise\nBrackets\nOrders, of\nDivision\nMultiplication\nAddition\nSubtractionSymbol\n[],,()\n(power),√(root),of\n÷\n×\n+\n−\n="
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Apply the same p attern used in the following gr oup and find the corr ect option.\nCOUNTR Y : FRX QWUB :: SCHOOL : ?",
+    "options": [
+      "VFIPPM",
+      "VFKRR O",
+      "VFJPPN",
+      "VEKPPM"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given : COUNTR Y : FRXQ WUB :: SCHOOL : ?\nLogic : Letters are increasing + 3 place.\nFor, COUNTR Y : FRXQ WUB\nC + 3 = F, O + 3 = R, U + 3 = X, N + 3 = Q, T + 3 = W, R + 3 = U, Y + 3 = B\nSimilarly,\nFor, SCHOOL : ?\nS + 3 = V, C + 3 = F, H + 3 = K, O + 3 = R, O + 3 = R, L + 3 = O\nSo, SCHOOL : VFKRRO\nThus, correct option is (b).\n\nCopyright © 2026  Adda247"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Find the missing t erm:\n3, 7, 15, 31, ?",
+    "options": [
+      "47",
+      "63",
+      "61",
+      "64"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given : 3, 7, 15, 31, ?\nLogic : Numbers are multiply by 2 and + 1 place.\n3 × 2 + 1 = 7\n7 × 2 + 1 = 15\n15 × 2 + 1 = 31\n31 × 2 + 1 = 63\nSo, the missing term is 63.\nThus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "On Electrical Safety Day 2025, MoS P ower and New & R enewable Ener gy Shri Shrip ad Naik unv eiled:",
+    "options": [
+      "National Fire Safety Code",
+      "Suraksha Shakti mascot",
+      "Smart Meter R ollout Initiative",
+      "Grid Digitalization Platform"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (b) Suraksha Shakti mascot.\nExplanation:\n• On Electrical Safety Day 2025 , Shripad Naik , Minister of S tate for P ower and New & R enewable Energy, unveiled the “Suraksha Shakti”\nmascot .\n• The mascot aims to promote electrical safety awareness , safe handling of electrical appliances, and accident prevention.\n• It is part of the government’s broader effort to strengthen public outreach and behavioral change  in electrical safety.\nInformation Booster :\n• Electrical Safety Day focuses on preventing electrical accidents  at workplaces and homes.\n• Awareness campaigns target linemen, technicians, and consumers .\n• Mascots are increasingly used for visual communication and mass awareness .\n• The P ower Ministry regularly issues safety advisories and guidelines .\nAdditional Knowledge :\n• National Fire Safety Code is issued separately under fire safety regulations.\n• Smart meters and grid digitalization are part of power sector reforms , not Electrical Safety Day launches.\n• Electrical safety is critical due to rising electrification and renewable integration ."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "Anglo-Indian nomination in S tate Assemblies was t erminat ed by:",
+    "options": [
+      "Governor's ongoing nomination power",
+      "42nd Amendment",
+      "104th Amendment",
+      "Proportional representation election"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (c) 104th Amendment.\nExplanation:\n• The 104th Constitutional Amendment Act, 2019  ended the nomination of Anglo-Indian members  to State Legislative Assemblies.\n• It retained reservation for SCs and STs , but discontinued Anglo-Indian nomination after 70 years  of the Constitution.\nInformation Booster :\n• The original provision was under Article 333 .\n• The amendment came into force in January 2020 .\n• Anglo-Indian nomination to the Lok Sabha  was also abolished.\n• Reservation for SC/ST s was extended for 10 more years .\nAdditional Knowledge :\n• The Governor earlier had discretionary power to nominate Anglo-Indians if underrepresented.\n• This change reflects evolving demographic and political considerations .\n\nCopyright © 2026  Adda247"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "Which is generally not classified as a w eather p aramet er?",
+    "options": [
+      "Temperature",
+      "Humidity",
+      "Soil pH",
+      "Wind"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (c) Soil pH.\nExplanation:\n• Weather parameters  describe the state of the atmosphere at a given time and place.\n• Temperature, humidity, and wind  are atmospheric variables and are core weather elements.\n• Soil pH  relates to soil chemistry  and agricultural science, not atmospheric conditions.\nInformation Booster :\n• Major weather parameters include temperature, atmospheric pressure, humidity, wind speed/direction, and precipitation .\n• Weather is studied by meteorology , while soil properties fall under pedology/agricultural science .\n• Weather conditions can change hourly or daily , unlike soil pH which changes slowly.\n• Instruments: thermometer (temperature), hygrometer (humidity), anemometer (wind).\nAdditional Knowledge :\n• Soil pH  influences crop productivity and nutrient availability , not weather forecasting.\n• Climate studies consider long-term averages of weather parameters, still excluding soil chemistry.\n• Soil pH becomes relevant in agro-climatic studies , but not as a direct weather parameter."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Indian Culture",
+    "chapter": "Art & Culture",
+    "difficulty": "medium",
+    "question_text": "Which p air corr ectly p airs a temple r oof type with its structural featur e?",
+    "options": [
+      "Latina – rectangular, wagon-like",
+      "Phamsana – flat slabs sloping upward to a ridge",
+      "Valabhi – steeply curving inward",
+      "Latina – wide with tiered steps"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (b) Phamsana – flat slabs sloping upward to a ridge.\nExplanation:\n• Phamsana  type temples have roofs made of flat slabs arranged in horizontal layers , sloping upwards to meet at a ridge.\n• This style is commonly found in Nagari temple architecture .\nInformation Booster :\n• Latina (Rekha-Prasada)  has a curvilinear shikhara , not rectangular.\n• Valabhi  roofs are wagon-vaulted (barrel-shaped) .\n• Phamsana temples are usually smaller subsidiary shrines .\nAdditional Knowledge :\n• Temple roof styles are part of Indian architectural classification  in NCER T Class 11 (Fine Arts/History).\n• Nagara style dominates North India ."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "Strict r egulation o f crick et ball w eight and size in int ernational games ensur es:",
+    "options": [
+      "Advantage to bowlers with heavier balls, batsmen with lighter ones",
+      "Consistent bounce, swing, and equity on uniform pitches",
+      "Cost savings as per IC C rules",
+      "Applies solely to red balls"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (b) Consistent bounce, swing, and equity on uniform pitches.\nExplanation:\n• Standardization of cricket ball weight and circumference  ensures fair play .\n• It allows consistent bounce, swing, and seam movement  across matches.\nInformation Booster :\n• ICC specifies ball weight between 155.9–163 g .\n• Circumference ranges between 22.4–22.9 cm .\n• Applies to red, white, and pink balls .\nAdditional Knowledge :\n• Uniform equipment standards are essential in international sports governance .\n• Variations could unfairly favor bowlers or batters."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "Bharatiya Nagarik Suraksha Sanhita (BNSS) intr oduces:",
+    "options": [
+      "Full replacement of IPC provisions",
+      "Video recording of confessions",
+      "Assumption of guilt",
+      "Elimination of bail provisions"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (b) Video recording of confessions.\nExplanation:\n• The BNSS, 2023  mandates audio-video recording  of confessions and statements to enhance transparency and accountability .\n• This reform aims to reduce coercion, custodial abuse, and evidentiary disputes .\nInformation Booster :\n• BNSS replaces the CrPC, 1973 .\n• Encourages technology-driven criminal procedure .\n• Strengthens safeguards under Article 20(3)  (protection against self-incrimination).\n• Part of the broader overhaul alongside BNS  and BNSS  reforms.\nAdditional Knowledge :\n• IPC provisions are replaced by Bharatiya Nyaya Sanhita (BNS) , not BNSS.\n• Bail provisions continue, with clearer timelines and safeguards."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Indian Culture",
+    "chapter": "Art & Culture",
+    "difficulty": "medium",
+    "question_text": "Order these classical dance forms by their earliest document ed mentions (earliest fir st):\n1. Bharatanatyam\n2. Kathak\n3. Mohiniyattam\n4. Manipuri",
+    "options": [
+      "1–3–2–4",
+      "1–2–4–3",
+      "1–3–4–2",
+      "1–4–3–2"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (b) 1–2–4–3.\nExplanation:\n• Bharatanatyam  has the earliest documented roots  in the Naty a Shastr a (c. 200 BCE–200 CE).\n• Kathak  evolved from ancient storytelling traditions  and temple rituals, gaining prominence during the Bhakti movement .\n• Manipuri  dance finds references in medieval texts and Vaishnavite traditions  of Manipur.\n• Mohiniyattam  developed later in Kerala , with clear documentation from the 16th–17th centuries .\nInformation Booster :\n• Bharatanatyam originated in Tamil Nadu  and is linked with the Devadasi tradition .\n• Kathak flourished under Mughal patronage , incorporating P ersian influences.\n• Manipuri dance is closely associated with Vaishnavism  and Ras Lila themes.\n• Mohiniyattam emphasizes lasya (graceful movements)  and feminine expression.\nAdditional Knowledge :\n• All four are among the eight classical dance forms  recognized by the Sangeet Natak Akademi .\n• The Naty a Shastr a by Bharata Muni  is the foundational text for Indian performing arts.\n• Revival and codification of these dances largely occurred during the 20th century  through cultural reform movements."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "The T utsa tribe o f Arunachal Pradesh obser ves the P ongtu Festiv al mainly t o inv oke blessings fr om which god prior t o millet sowing?\n\nCopyright © 2026  Adda247",
+    "options": [
+      "Donyi-P olo",
+      "Rangkhothak",
+      "Rangfraa",
+      "Nyegi-Nyapa"
+    ],
+    "correct_option": 1,
+    "solution_text": ""
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "What charact erizes the book ‘Hot S tage’?",
+    "options": [
+      "Anthology of contemporary Indian plays addressing societal concerns",
+      "Chronicle of the independence movement",
+      "Mythological fiction",
+      "Narrative of Himalayan journeys"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (a) Anthology of contemporary Indian plays addressing societal concerns.\nExplanation:\n• Hot S tage is an anthology of modern Indian plays .\n\nCopyright © 2026  Adda247• The plays focus on contemporary social issues , personal conflicts, and changing cultural values.\n• The work reflects the evolution of Indian English theatre  in the post-independence period.\nInformation Booster :\n• Hot S tage includes plays by leading contemporary Indian dramatists .\n• Themes often include gender, identity, family, and social norms .\n• Such anthologies are important for understanding modern Indian theatre trends .\n• Frequently referenced in literature and culture-based competitive exams .\nAdditional Knowledge :\n• Option (b)  relates to historical or political non-fiction, not drama.\n• Option (c)  refers to mythological narratives, which Hot S tage is not.\n• Option (d)  describes travel literature, unrelated to theatrical works."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "Asser tion (A): Ir on and st eel qualifies as a heavy industr y.\nReason (R): It uses lightw eight inputs such as cott on and rubber .",
+    "options": [
+      "Both true, R explains A",
+      "Both true, R does not explain A",
+      "A true, R false",
+      "A false, R true"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (c) A true, R false.\nExplanation:\n• Iron and steel  is classified as a heavy industry  due to the use of bulky raw materials , high capital investment, and large-scale production.\n• The reason is incorrect because iron and steel depend on heavy inputs like iron ore, coal, and limestone , not cotton or rubber.\nInformation Booster :\n• Heavy industries are usually energy-intensive and location-oriented .\n• Iron and steel plants are often located near raw material sources .\n• India is among the top steel producers globally .\n• Heavy industries form the base for industrial development .\nAdditional Knowledge :\n• Cotton-based industries belong to light industries ."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "Regarding the 61st National Chess Championship:\n1. GM Kar thik V enkataraman triumphed in Gur gaon, earning ₹6 lakh.\n2. IM Neelash Saha t ook silv er but was edged out in a tiebr eak against Ganguly .",
+    "options": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (c) Both 1 and 2.\nExplanation:\n• Karthik Venkataraman  won the 61st National Chess Championship  held in Gurgaon , securing the winner’s prize of ₹6 lakh .\n• Neelash Saha  finished second  and lost the title on tiebreak , finishing behind Karthik Venkataraman  (ahead of Ganguly  on points before\ntiebreak considerations).\n• Hence, both statements are correct .\nInformation Booster :\n• The National Chess Championship is organized by All India Chess Federation (AICF) .\n• The tournament follows a Swiss-system format .\n• Winning the national title strengthens chances for international representation .\n• Tiebreaks are commonly decided using Sonneborn–Berger or Buchholz systems .\nAdditional Knowledge :\n• Gurgaon  has emerged as a frequent host for national-level chess events  due to strong infrastructure.\n• Indian chess has seen rapid growth with multiple Grandmasters and International Masters  emerging annually.\n• National championships often serve as selection grounds  for continental and global events."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "Asser tion (A): PSL V is ISR O's reliable mainstay launch v ehicle.\nReason (R): PSL V's flexibility allows multi-p ayload launches t o multiple orbits with ex cellent r eliability .",
+    "options": [
+      "Both true, R explains A\n\nCopyright © 2026  Adda247",
+      "Both true, R does not explain A",
+      "A true, R false",
+      "A false, R true"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (a) Both true, R explains A.\nExplanation:\n• The PSLV (Polar Satellite Launch Vehicle)  of ISRO  is regarded as its most reliable workhorse .\n• PSL V’s multi-orbit, multi-satellite capability  and consistently high success rate  explain why it is ISR O’s mainstay.\n• Its versatility across LEO, SSO, and interplanetary missions  underpins this reliability.\nInformation Booster :\n• PSL V first flew successfully in 1994  and has completed numerous consecutive successes .\n• It enabled landmark missions like Chandrayaan-1  and Mars Orbiter Mission .\n• Known globally for rideshare missions  carrying multiple international satellites.\n• Uses a four-stage configuration  with alternating solid and liquid propulsion.\nAdditional Knowledge :\n• GSL V/LVM3 are designed for heavier payloads , not as frequently flown as PSL V.\n• Reliability and flexibility together define a mainstay launch vehicle ."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "IMD W orld Competitiv eness Ranking 2025 shows S witzerland t opping which dimension in both 2024 and 2025?",
+    "options": [
+      "Business Efficiency",
+      "Infrastructure",
+      "Economic P erformance",
+      "Employment"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (b) Infrastructure.\nExplanation:\n• In the IMD World Competitiveness Rankings , Switzerland has consistently ranked first in the Infrastructure dimension .\n• Infrastructure includes basic infrastructure, technological infrastructure, scientific infrastructure, health, and education .\n• Switzerland’s strong public services, advanced research ecosystem, and transport efficiency explain its continued top position.\nInformation Booster :\n• IMD rankings assess countries on Economic Performance, Government Efficiency, Business Efficiency, and Infrastructure .\n• Switzerland is globally known for high-quality transport, healthcare, and digital infrastructure .\n• The rankings are released annually by the IMD World Competitiveness Center, Switzerland .\n• India’s infrastructure ranking has shown gradual improvement in recent years.\nAdditional Knowledge :\n• Business Efficiency  measures productivity and labor markets, where S witzerland ranks high but not always first.\n• Economic Performance  fluctuates based on global growth trends.\n• Employment  is a sub-indicator, not a primary IMD dimension."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Indian Culture",
+    "chapter": "Art & Culture",
+    "difficulty": "medium",
+    "question_text": "Kalbelia dance symbolizes the sinuous motion o f ______.",
+    "options": [
+      "Camels",
+      "Snakes",
+      "Birds",
+      "Horses"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (b) Snakes.\nExplanation:\n• Kalbelia , a classical folk dance of Rajasthan , mimics the graceful, serpentine movements of snakes .\n• It is traditionally performed by the Kalbelia community , historically associated with snake handling.\nInformation Booster :\n• Recognized by UNESCO  as Intangible Cultural Heritage (2010) .\n• Dancers wear black swirling skirts  symbolizing serpents.\n• Accompanied by instruments like been, dholak, and khanjari .\n• Lyrics often draw from Rajasthani folklore .\nAdditional Knowledge :\n• The dance reflects a transition from nomadic traditions to cultural performance .\n• Preservation efforts focus on folk art sustainability and livelihoods .\n\nCopyright © 2026  Adda247"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "On MISHTI Scheme:\n1. Targets mangr ove affor estation via scientific t echniques.\n2. Intr oduced in Budget 2023–24.\n3. Permits commer cial mangr ove leasing.",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "All 1, 2, and 3"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (a) 1 and 2 only.\nExplanation:\n• MISHTI (Mangrove Initiative for Shoreline Habitats & Tangible Incomes)  focuses on scientific mangrove plantation and restoration .\n• It was announced in the Union Budget 2023–24 .\n• The scheme does not permit commercial leasing  of mangroves; conservation remains the priority.\nInformation Booster :\n• MISHTI supports coastal livelihoods and climate resilience .\n• It aligns with India’s Nationally Determined Contributions (NDCs) .\n• Mangroves act as natural carbon sinks (blue carbon) .\n• Implemented through state governments and local bodies .\nAdditional Knowledge :\n• Commercial exploitation of mangroves is restricted under environmental laws .\n• MISHTI complements other initiatives like CAMPA and coastal regulation frameworks ."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "Who claimed India’ s inaugural P aralympic ar chery gold at P aris 2024?",
+    "options": [
+      "Sheetal Devi",
+      "Harvinder Singh",
+      "Rakesh Kumar",
+      "Preethi P al"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (b) Harvinder Singh.\nExplanation:\n• Harvinder Singh won India’s first-ever Paralympic gold medal in archery  at the Paris Paralympics 2024 .\n• He achieved the feat in the men’s individual recurve event , marking a historic milestone for India in para-archery.\n• This victory made archery India’s first gold-medal-winning sport  at the P aralympics.\nInformation Booster :\n• Harvinder Singh also won a bronze medal at Tokyo Paralympics 2020 , India’s first P aralympic medal in archery.\n• He hails from Haryana  and overcame a physical disability caused by childhood illness.\n• India made its Paralympic archery debut in 2012 (London) .\n• Paris 2024 marked a significant improvement  in India’s P aralympic medal performance.\nAdditional Knowledge :\n• Sheetal Devi  is a para-archer known for competing without arms , but she did not win gold at P aris 2024.\n• Rakesh Kumar  is a prominent para-archer, medalist at world events, but not the gold winner here.\n• Preethi Pal  is a para-athlete (track events), not associated with archery."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "Asser tion (A): Chotanagpur Plat eau forms the east ern continuation o f Central Highlands.\nReason (R): It is chiefly drained by Chamb al and Betwa riv ers.",
+    "options": [
+      "Both A and R true, R explains A",
+      "Both true, R does not explain A",
+      "A true, R false",
+      "A false, R true"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (c) A true, R false.\nExplanation:\n• The Chotanagpur Plateau  is indeed the eastern extension of the Central Highlands  of Peninsular India.\n• However, it is mainly drained by rivers like the Damodar, Subarnarekha, and Brahmani , not Chambal and Betwa.\n• Hence, the assertion is correct, but the reason is incorrect.\nInformation Booster :\n\nCopyright © 2026  Adda247• Chotanagpur Plateau spans Jharkhand, Odisha, Chhattisgarh, and West Bengal .\n• It is rich in minerals like coal, iron ore, and bauxite .\n• Chambal and Betwa drain the Malwa and Bundelkhand regions .\n• The plateau has undulating terrain with river valleys .\nAdditional Knowledge :\n• Central Highlands include Malwa Plateau, Bundelkhand, and Baghelkhand .\n• Drainage pattern helps identify physiographic divisions  in Indian geography."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "The BRICS For eign Minist ers' Meeting on 4 June 2018 t ook place in which city ?",
+    "options": [
+      "Pretoria, South Africa",
+      "Brasília, Brazil",
+      "Beijing, China",
+      "New Delhi, India"
+    ],
+    "correct_option": 3,
+    "solution_text": "The correct answer is (d) New Delhi, India.\nExplanation:\n• The BRICS Foreign Ministers’ Meeting  on 4 June 2018  was hosted by New Delhi .\n• India held the BRICS Chairship in 2018 , and New Delhi hosted several preparatory and ministerial meetings ahead of the BRICS Summit.\n• The meeting focused on global governance reforms, multilateralism, and regional security issues .\nInformation Booster :\n• BRICS comprises Brazil, Russia, India, China, and South Africa .\n• India assumed the BRICS chair  on 1 January 2018 .\n• The 10th BRICS Summit (2018)  was later held in Johannesburg, South Africa .\n• BRICS Foreign Ministers’ Meetings help coordinate positions before the annual summit.\nAdditional Knowledge :\n• Pretoria  and Brasília  hosted BRICS meetings during their respective chairships.\n• Beijing  hosted major BRICS events when China held the chair.\n• Hosting rights rotate annually among BRICS member countries."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Indian Polity",
+    "chapter": "Constitution",
+    "difficulty": "medium",
+    "question_text": "Abrogation o f Article 370' s special status for J ammu and Kashmir occurr ed via:",
+    "options": [
+      "Presidential Order under Article 370(3)",
+      "Parliamentary amendment under Article 368",
+      "Presidential Ordinance",
+      "Article 356 Order"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (a) Presidential Order under Article 370(3).\nExplanation:\n• The special status of Jammu and Kashmir  under Article 370  was effectively removed through a Presidential Order issued under Article\n370(3) .\n• This was done with the concurrence of Parliament , as the state was under President’s Rule at the time.\n• The action led to the reorganization of the state into two Union Territories .\nInformation Booster :\n• Article 370 was a temporary provision  in the Constitution.\n• The abrogation took place in August 2019 .\n• Parliament also passed the Jammu and Kashmir Reorganisation Act, 2019 .\n• Fundamental Rights and Central laws became fully applicable  thereafter.\nAdditional Knowledge :\n• Article 368  is used for constitutional amendments, but Article 370 followed a special procedure .\n• Article 356 deals with President’s Rule , not abrogation of special status."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "Which pr ogram enables postmen t o deliv er financial ser vices?",
+    "options": [
+      "NSAP",
+      "IPPB",
+      "PMJAY",
+      "PRAGATI"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (b) IPPB.\nExplanation:\n• India Post Payments Bank (IPPB)  empowers postmen and Gramin Dak Sevaks  to provide banking services at the doorstep .\n• Services include savings accounts, money transfers, bill payments , and DB T facilitation.\nInformation Booster :\n• Launched in 2018  under the Department of Posts .\n• Operates on a paperless, cashless, and biometric-enabled  model.\n• Leverages India P ost’s vast last-mile network .\n• Supports financial inclusion  in rural and remote areas.\nAdditional Knowledge :\n• NSAP is a social assistance  program.\n• PMJ AY is a health insurance  scheme.\n• PRA GATI is a governance review platform ."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "In Teen T aal fr om Hindustani music, the Khali beat falls on the ______ matra.",
+    "options": [
+      "1",
+      "5",
+      "9",
+      "13"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (c) 9.\nExplanation:\n• Teen Taal  consists of 16 matras (beats)  divided into four vibhags of 4 beats each.\n• The Khali (empty beat)  occurs on the 9th matra .\nInformation Booster :\n• Teen T aal vibhag structure: 4 + 4 + 4 + 4 .\n• Sam (most stressed beat) is on 1st matra .\n• Khali indicates absence of clapping , shown by a wave.\nAdditional Knowledge :\n• Teen T aal is the most commonly used taal  in Hindustani music.\n• Taal concepts are covered in Class 10–12 Indian Music (NCERT) ."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "Appr oval by both Houses o f Parliament for a National Emer gency Pr oclamation is needed within:",
+    "options": [
+      "1 month",
+      "3 months",
+      "6 months",
+      "9 months"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (a) 1 month.\nExplanation:\n• Under Article 352 of the Indian Constitution , a National Emergency Proclamation  must be approved by both Houses of Parliament\nwithin one month .\n• Approval requires a special majority  in each House.\n• Without parliamentary approval, the proclamation ceases to operate .\nInformation Booster :\n• Once approved, National Emergency remains in force for six months at a time .\n• It can be extended indefinitely with parliamentary approval every six months.\n• Grounds include war, external aggression, or armed rebellion .\n• The President issues the proclamation on Cabinet advice .\nAdditional Knowledge :\n• The 44th Constitutional Amendment Act, 1978  strengthened safeguards against misuse.\n• Parliamentary control ensures democratic oversight .\n• Emergency provisions are covered in Part XVIII  of the Constitution."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "The 2025 ‘Mangr ove Cell’ pr ogram is associat ed primarily with which stat e?",
+    "options": [
+      "Odisha",
+      "Andhra Pradesh",
+      "Maharashtra\n\nCopyright © 2026  Adda247",
+      "West Bengal"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (c) Maharashtra.\nExplanation:\n• The Mangrove Cell  is a dedicated institutional mechanism of Maharashtra  for conservation, protection, and restoration of mangroves .\n• It functions under the state’s Environment and Climate Change Department .\n• In 2025, the program gained prominence for strengthening coastal ecosystem resilience .\nInformation Booster :\n• Maharashtra has one of the largest mangrove covers  in India.\n• Mangroves protect coastlines from erosion, cyclones, and storm surges .\n• The Mangrove Cell works in coordination with forest and coastal regulation authorities .\n• India’s mangrove cover has increased as per ISFR reports .\nAdditional Knowledge :\n• West Bengal also has mangroves (Sundarbans), but the Mangrove Cell as a named institutional program  is linked to Maharashtra.\n• Mangrove conservation supports blue carbon and climate adaptation goals ."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "Non-metallic minerals in India ar e best described as:",
+    "options": [
+      "Scarce for industrial applications",
+      "Mainly gemstones with little industry role",
+      "Abundant and essential for key sectors",
+      "Secondary to metallic minerals in growth"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (c) Abundant and essential for key sectors.\nExplanation:\n• Non-metallic minerals such as limestone, mica, gypsum, and phosphorite  are abundant in India .\n• They are crucial for cement, fertilizer, construction, and chemical industries .\n• These minerals form the backbone of infrastructure and manufacturing growth .\nInformation Booster :\n• India is one of the largest producers of limestone .\n• Mica belts  are found in Jharkhand, Bihar, and Andhra Pradesh.\n• Gypsum is essential for cement and soil conditioning .\n• Non-metallic minerals are vital for industrialization .\nAdditional Knowledge :\n• Metallic minerals provide raw material, but non-metallic minerals support processing and infrastructure .\n• Industrial growth depends on both metallic and non-metallic resources ."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General Knowledge",
+    "chapter": "Current Affairs",
+    "difficulty": "medium",
+    "question_text": "The initial module o f Bharatiya Antariksh S tation (BAS) is slat ed for launch in:",
+    "options": [
+      "2028",
+      "2030",
+      "2035",
+      "2040"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (a) 2028.\nExplanation:\n• ISRO  has planned the launch of the first module of the Bharatiya Antariksh Station (BAS)  by 2028 .\n• BAS will be India’s indigenous space station , supporting long-duration human spaceflight.\n• The station will be assembled in multiple phases  in low Earth orbit.\nInformation Booster :\n• BAS is expected to operate at an altitude of about 400 km .\n• It will support microgravity experiments  and astronaut training.\n• The project builds upon experience from the Gaganyaan mission .\n• India aims to sustain human presence in space for scientific research .\nAdditional Knowledge :\n• China already operates the Tiangong Space Station .\n• The ISS is a multinational collaboration , unlike BAS which is indigenous.\n• Space stations enhance strategic and technological capabilities .\n\nCopyright © 2026  Adda247"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Profit & Loss",
+    "difficulty": "medium",
+    "question_text": "A shopk eeper sells rice at a discount o f 6% on the mark ed price but uses a w eight that is 25% less than the actual w eight. Find his ov erall pr ofit\npercentage.",
+    "options": [
+      "20.5%",
+      "22.5%",
+      "25.3%",
+      "26.5%"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given:\nDiscount=6%\nWeight used=25% less\nFormula Used:\nProfit %=  ×Cost PriceProfit100\nSolution:\nLet marked price of 1 kg rice=100\nSelling price after discount=100−6=94\nActual weight given=75% =0.75\nCost price of 0.75 kg=75\nProfit=94−75=19\nProfit %=  ×7519100\n=25.33%\nFinal Answer\n25  %31"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Profit & Loss",
+    "difficulty": "medium",
+    "question_text": "The pr ofit made on an ar ticle sold for ₹2400 is equal t o the loss incurr ed when it is sold for ₹2000. What will be the pr ofit or loss per centage if the\narticle is sold for ₹2200?",
+    "options": [
+      "Profit of 2.5%",
+      "Profit of 3.125%",
+      "Loss of 3.125%",
+      "No loss, No profit"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given:\nSelling price with profit=2400\nSelling price with loss=2000\nFormula Used:\nCost Price= 2SP  +SP  1 2\nSolution:\nCP=  22400 +2000\n= 24400\n=2200\n\nCopyright © 2026  Adda247  Selling price=2200\nProfit or Loss=2200 −2200 =0\nProfit/Los s %=0%\nFinal Answer\n0%"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Mensuration",
+    "chapter": "Geometry",
+    "difficulty": "medium",
+    "question_text": "A right cir cular cone has a radius o f 9 cm and a height o f 40 cm. What is its slant height ?",
+    "options": [
+      "41 cm",
+      "42 cm",
+      "43 cm",
+      "45 cm"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given:\nr=9cm\nh=40cm\nFormula Used:\nl=  r+h2 2\nSolution:\nl=  9+402 2\n=  81+1600\n=  1681\n=41\nFinal Answer\n41cm"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "General Math",
+    "difficulty": "medium",
+    "question_text": "If 40% o f P = 0.5 o f Q = 1/8 o f R, find P : Q : R.",
+    "options": [
+      "5 : 4 : 16",
+      "4 : 5 : 16",
+      "2 : 5 : 8",
+      "4 : 5 : 8"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given:\n40% of P=0.5 of Q=   of R81\nFormula Used:\n40% = 52\nSolution:\nLet common value=k\n2\n\nCopyright © 2026  Adda247   P=52k\nP=  25k\n0.5Q=k\n Q=21k\nQ=2k\n R=81k\nR=8k\nP:Q:R= :25k2k:8k\n=5:4:16\nFinal Answer\n5:4:16"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "General Math",
+    "difficulty": "medium",
+    "question_text": "Evaluat e:",
+    "options": [
+      "266.6 km",
+      "285.5 km",
+      "248.6 km",
+      "320 km"
+    ],
+    "correct_option": 2,
+    "solution_text": "15  % of 480 km +3158  % of 300 km31\nGiven:\n15  % of 480 km +3158  % of 300 km31\nSolution:\n15  % of 480+3158  % of 30031\n=  % of 480+346\n % of 3003175\n=  ×346×1001480+  ×3175\n ×1001300\n=  +30046×480\n 300175×300\n=  +30022080175\n=  +10736175\n=73.6+175\n=248.6 km"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Profit & Loss",
+    "difficulty": "medium",
+    "question_text": "A sales agent earns 3% commission on lapt ops priced at ₹40,000 each and 8% commission on print ers priced at ₹8,000 each. If in a w eek he sells 4\nlaptops and 10 print ers, what is his t otal commission for 5 such w eeks?\n\nCopyright © 2026  Adda247",
+    "options": [
+      "₹52,000",
+      "₹50,400",
+      "₹56,000",
+      "₹51,200"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given:\nCommission on laptops=3%\nPrice of one laptop=40,000\nLaptops sold per week=4\nCommission on printers=8%\nPrice of one printer=8,000\nPrinters sold per week=10\nNumber of weeks=5\nFormula Used:\nCommission= ×100RateSelling Price\nSolution:\nCommission on one laptop=  ×100340,000=1,200\nCommission on 4 laptops=4×1,200=4,800\nCommission on one printer=  ×10088,000=640\nCommission on 10 p rinters=10×640=6,400\nTotal commission per week=4,800+6,400=11,200\nTotal commission for 5 weeks=5×11,200\n=56,000\nFinal Answer\n₹56,000"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Mensuration",
+    "chapter": "Geometry",
+    "difficulty": "medium",
+    "question_text": "The radius o f a cir cular plat e is incr eased by 8%. What will be the appr oximat e per centage incr ease in its ar ea?",
+    "options": [
+      "8%",
+      "15%",
+      "16.64%",
+      "17.28%"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given:\nIncrease in radius=8%\nFormula Used:\nNet % change=x+y+  100xy\nSolution:\nArea∝r2\nx=8,y=8\n\nCopyright © 2026  Adda247  Net % increase=8+8+  1008×8\n=16+0.64\n=16.64%\nFinal Answer\n16.64%"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Mensuration",
+    "chapter": "Geometry",
+    "difficulty": "medium",
+    "question_text": "A rectangular prism has a b ase ar ea of 36 cm². If its height is incr eased by 25% fr om the original height o f 12 cm, what is the new v olume?",
+    "options": [
+      "432 cm³",
+      "486 cm³",
+      "504 cm³",
+      "540 cm³"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given:\nBase area=36cm2\nOriginal height=12cm\nIncrease in height=25%\nFormula Used:\nVolume=Base area×Height\nSolution:\n25% of 12= ×1002512=3\nNew height=12+3=15cm\nNew volume=36×15\n=540\nFinal Answer\n540cm3"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Mensuration",
+    "chapter": "Geometry",
+    "difficulty": "medium",
+    "question_text": "A solid metal spher e of radius 6 cm is complet ely immer sed in a v ertical cylindrical v essel containing wat er, causing the wat er lev el to rise by 4 cm.\nWhat is the radius o f the cylinder?",
+    "options": [
+      "4   cm",
+      "5   cm",
+      "6   cm",
+      "8   cm"
+    ],
+    "correct_option": 2,
+    "solution_text": "2\n 2\n 2\n 2\nGiven:\nRadius of sphere=6cm\nRise in water level=4cm\nRadius of cylinder=r\nFormula Used:\n4\n\nCopyright © 2026  Adda247  Volume of sphere=  πR343\nVolume of cylinder=πrh2\nSolution:\nVolume of sphere=  π(6)343\n=288π\nVolume of displaced water=πr×24\n288π=4πr2\nr=272\nr=  =72 6  2\nFinal Answer\n6  cm2"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Time & Distance",
+    "difficulty": "medium",
+    "question_text": "A train cov ers 1.2 km in 1 minut e. How far will it trav el in 2 hour s 15 minut es?",
+    "options": [
+      "162 km",
+      "156 km",
+      "171 km",
+      "168 km"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given:\nDistance covered in 1 minute=1.2km\nTotal time=2hours 15minutes\nFormula Used:\nDistance=Speed×Time\nSolution:\n2hours 15minutes=(2×60)+15=135minutes\nDistance travelled=1.2×135\n=162\nFinal Answer\n162km"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Ratio & Proportion",
+    "difficulty": "medium",
+    "question_text": "Two farmer s, X and Y , hire a field. X k eeps 18 o xen ther e for 5 months and 20 go ats for 3 months. Y k eeps 24 go ats for 7 months and 30 sheep for 6\nmonths. If 2 o xen eat as much as 5 go ats, and 3 go ats eat as much as 4 sheep, what fraction o f the t otal r ent should X p ay?",
+    "options": [
+      "90/196",
+      "95/196",
+      "10/196",
+      "111/196"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given:\n\nCopyright © 2026  Adda247  X:18oxen for 5months,20goat s for 3months\nY:24goat s for 7months,30sheep for 6months\n2oxen=5goat s\n3goat s=4sheep\nFormula Used:\nRent ratio=Equivalent animals×Time\nSolution:\n1ox=  goat s25\n1sheep=  goat s43\nFor X:\n18×  =2545\n45×5=225\n20×3=60\nTotal for X=225+60=285\nFor Y:\n24×7=168\n30×  =4322.5\n22.5×6=135\nTotal for Y=168+135=303\nX:Y=285:303=95:101\nTotal parts=95+101=196\nFinal Answer\n 19695"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Ratio & Proportion",
+    "difficulty": "medium",
+    "question_text": "Three batches o f students hav e average ages 17, 19, and 23 y ears respectiv ely. If their number s are in the ratio 3 : 4 : 6, what is the ov erall av erage\nage o f all the students?",
+    "options": [
+      "19.41",
+      "20.38",
+      "21.20",
+      "18.9"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given:\nAverage ages=17,19,23\nRatio of students=3:4:6\nFormula Used:\nOverall average=  Number ∑(Average×Number) ∑\nSolution:\n\nCopyright © 2026  Adda247  Total ratio=3+4+6=13\nWeighted sum=(17×3)+(19×4)+(23×6)\n=51+76+138\n=265\nOverall average=  13265\n=20.38\nFinal Answer\n20.38years"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Algebra",
+    "difficulty": "medium",
+    "question_text": "The av erage o f 13 number s is 75. If the av erage o f the fir st six number s is 69 and the av erage o f the last six number s is 80, what is the 7th\nnumber?",
+    "options": [
+      "81",
+      "82",
+      "83",
+      "84"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given:\nAverage of 13 n umbers=75\nAverage of first 6 numbers=69\nAverage of last 6 numbers=80\nFormula Used:\nTotal sum=Average×Number\nSolution:\nTotal sum of 13 n umbers=13×75=975\nSum of first 6 numbers=6×69=414\nSum of last 6 numbers=6×80=480\nSum of first 6 an d last 6 numbers=414+480=894\n7th number=975−894\n=81\nFinal Answer\n81"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Algebra",
+    "difficulty": "medium",
+    "question_text": "What is the av erage o f all int egers betw een 200 and 350 that ar e exactly divisible by 11?",
+    "options": [
+      "275",
+      "272",
+      "286",
+      "292"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given:\nIntegers between 200 and 350\nDivisible by 11\nFormula Used:\nAverage=  2First term+Last term\nSolution:\nFirst divisible number=11×19=209\nLast divisible number=11×31=341\nAverage=  2209+341\n=  2550\n=275\nFinal Answer\n275"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Algebra",
+    "difficulty": "medium",
+    "question_text": "How many kilograms o f wheat costing ₹52 per k g must be mix ed with 30 k g of wheat costing ₹40 per k g so that a 20% gain may be obtained by\nselling the mixtur e at ₹54 per k g?",
+    "options": [
+      "18.2 kg",
+      "21.4 kg",
+      "24 kg",
+      "28.5 kg"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given:\nCost of wheat (type 1)=52₹/kg\nCost of wheat (type 2)=40₹/kg\nQuantity at 40₹/kg=30kg\nSelling price of mixture=54₹/kg\nGain=20%\nFormula Used:\nCost Price=  1+  100GainSelling Price\nSolution:\nCP= =1.25445\nLet quantity of wheat at 52₹/kg=x\n=x+3052x+40×3045\n52x+1200 =45x+1350\n7x=150\nx= =715021.4\nFinal Answer\n\nCopyright © 2026  Adda247Exam Hall Method:  \n21.4kg"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Mensuration",
+    "chapter": "Geometry",
+    "difficulty": "medium",
+    "question_text": "A gar dener has 80 m o f fencing wir e. He can use this wir e to enclose either a cir cular lawn or a squar e lawn. If he uses the entir e wir e in each case,\nwhat is the appr oximat e ratio o f the ar ea of the cir cular lawn t o the ar ea of the squar e lawn?",
+    "options": [
+      "1 : 1",
+      "1.21 : 1",
+      "1.27 : 1",
+      "1.57 : 1"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given:\nTotal fencing wire=80m\nFormula Used:\nCircumference of circle=2πr\nArea of circle=πr2\nPerimeter of square=4a\nArea of square=a2\nSolution:\n2πr=80\nr=  π40\nArea of circular lawn=π  (π40)2\n=  π1600\n4a=80\n\nCopyright © 2026  Adda247  a=20\nArea of square lawn=20=2400\nRatio of areas=  :π1600400\n=  :π41\nUsing π=3.14\n=1.27:1\nFinal Answer\n1.27:1"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "General Math",
+    "difficulty": "medium",
+    "question_text": "Simplif y:",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "√3"
+    ],
+    "correct_option": 0,
+    "solution_text": "+ (\n5+ 31)  − (\n5− 31)  (25−310)\nGiven:\n + (5+ 31) − (5− 31) (25−310)\nSolution:\n + (5+ 31) − (5− 31) (25−310)\n=  −\n(5+ )(5− ) 3 3(5− )+(5+ ) 3 3\n 2210\n=  −25−310\n 2210\n=  −2210\n2210\n=0"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Ratio & Proportion",
+    "difficulty": "medium",
+    "question_text": "A family spends on gr oceries, r ent, and other expenses in the ratio 3 : 5 : 2. Next y ear, groceries ar e expect ed to rise by 8%, r ent by 4%, and other\nexpenses t o fall by 10%. What will be the ov erall per centage change in t otal expenditur e?",
+    "options": [
+      "1% decrease",
+      "2.4% increase",
+      "1.2% increase",
+      "0.8% decrease"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given:\nExpenditure ratio (groceries : rent : others)=3:5:2\nIncrease in groceries=8%\nIncrease in rent=4%\nDecrease in other expenses=10%\n\nCopyright © 2026  Adda247  Formula Used:\nOverall % change=  Ratios ∑(Ratio×% change) ∑\nSolution:\nTotal ratio=3+5+2=10\nWeighted change=(3×8)+(5×4)+(2×−10)\n=24+20−20\n=24\nOverall percentage change= 1024\n=2.4%\nFinal Answer\n2.4%increase"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Profit & Loss",
+    "difficulty": "medium",
+    "question_text": "C and D inv ested ₹1,40,000 and ₹1,80,000, r espectiv ely. C remained for 9 months and D for 8 months. If C' s shar e in the pr ofit is ₹18,900, what is\nthe t otal pr ofit?",
+    "options": [
+      "₹40,500",
+      "₹36,000",
+      "₹34,200",
+      "₹38,400"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given:\nInvestment of C=1,40,000 for 9 months\nInvestment of D=1,80,000 for 8 months\nC’s share of profit=18,900\nFormula Used:\nProfit ratio=Capital×Time\nSolution:\nC’s capital-time=1,40,000×9=12,60,000\nD’s capital-time=1,80,000×8=14,40,000\nC:D=12,60,000:14,40,000=7:8\nTotal parts=7+8=15\nValue of 1 part=  =718,9002,700\nTotal profit=15×2,700\n=40,500\nFinal Answer\n₹40,500\n\nCopyright © 2026  Adda247"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Profit & Loss",
+    "difficulty": "medium",
+    "question_text": "A television set is sold for ₹Q and the shopk eeper earns a pr ofit of 25%. During a clearance sale, he marks the same set at 1.4Q and allows a\ndiscount o f 15% on the mark ed price. What is his pr ofit per centage during the sale?",
+    "options": [
+      "45.75%",
+      "40%",
+      "48.75%",
+      "50%"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given:\nOriginal selling price=Q\nOriginal profit=25%\nMarked price during sale=1.4Q\nDiscount=15%\nFormula Used:\nCost Price=  1+  100ProfitSelling Price\nProfit %= ×Cost PriceProfit100\nSolution:\nCP=  =1.25Q0.8Q\nSP=1.4Q×0.85\n=1.19Q\nProfit=1.19Q−0.8Q\n=0.39Q\nProfit %=  ×0.8Q0.39Q100\n=48.75%\nFinal Answer\n48.75%profit"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Profit & Loss",
+    "difficulty": "medium",
+    "question_text": "A trader marks his goods 30% abov e the cost price and then allows a discount o f 12%. What is his pr ofit per centage?",
+    "options": [
+      "14.4%",
+      "15.6%",
+      "16.5%",
+      "18.0%"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given:\nMarked price=30% above cost price\nDiscount=12%\nFormula Used:\nProfit %=  ×CPSP−CP100\nSolution:\n\nCopyright © 2026  Adda247  Let cost price=100\nMarked price=100+30=130\nSelling price=130−12% of 130\n=130−15.6\n=114.4\nProfit=114.4−100=14.4\nProfit %=14.4%\nFinal Answer\n14.4%profit"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Profit & Loss",
+    "difficulty": "medium",
+    "question_text": "A shopk eeper marks his pr oducts 50% abov e the cost price and allows a discount o f 20% on the mark ed price. He also giv es an additional cash\ndiscount o f ₹120 and still mak es a pr ofit of 16% on cost. What is the cost price o f the pr oduct ?",
+    "options": [
+      "₹1,800",
+      "₹3,000",
+      "₹2,200",
+      "₹2,400"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given:\nMarked Price (MP) = 50% above Cost Price (CP)\nDiscount = 20% on MP\nAdditional cash discount = ₹120\nFinal Profit = 16% on CP\nFind Cost Price (CP)\nFormula Used:\nMP = CP × (1 + Markup%)\nSelling Price (SP) = MP × (1 – Discount%) – Cash Discount\nProfit% =   \nSolution:\nLet Cost Price = ₹x\nMarked Price = 1.5x\nAfter 20% discount:\nSP₁ = 1.5x × 0.8 = 1.2x\nAfter additional ₹120 discount:\nFinal SP = 1.2x – 120\nGiven profit = 16%\nSo, Final SP = 1.16x\nTherefore, ×CPSP−CP100\n\nCopyright © 2026  Adda2471.2x – 120 = 1.16x\n0.04x = 120\nx = 3000\nCost Price = ₹3000"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Algebra",
+    "difficulty": "medium",
+    "question_text": "X lent ₹6,000 t o Y for 3 y ears and ₹4,000 t o Z for 2 y ears, both at the same simple int erest rat e. In t otal, he r eceiv ed ₹2,000 as int erest fr om both.\nWhat is the rat e of interest per annum(near est int eger)?",
+    "options": [
+      "8%",
+      "10%",
+      "12%",
+      "15%"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given:\nLoan  to Y=6000  for 3 years\nLoan  to Z=4000  for 2 years\nTotal interest=2000\nFormula Used:\nSimple Interest=  100P×R×T\nSolution:\nSI  =Y =1006000 ×R×3\n 10018000R\nSI =Z =1004000 ×R×2\n 1008000R\n =10018000R+8000R2000\n =10026000R2000\n260R=2000\nR=  =131007.69%\nFinal Answer\n≈8%per annum"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Mensuration",
+    "chapter": "Geometry",
+    "difficulty": "medium",
+    "question_text": "A sect or of a cir cle has a central angle o f 150° and radius 10 cm. Another sect or of the same cir cle has a central angle o f 5π/6 radians. What is the\nratio o f the ar ea of the fir st sect or to that o f the second?",
+    "options": [
+      "3 : 4",
+      "1 : 1",
+      "4 : 5",
+      "5 : 6"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given:\nRadius of circle=10cm\nCentral angle of first sector=150∘\nCentral angle of second sector=  radians65π\nFormula Used:\nArea of sector∝Central angle (same radius)\nSolution:\n150=∘\n =180150π\n65π\nCentral angle of first sector=  65π\nCentral angle of second sector=  65π\nBoth sectors have equal central angles and same radius\nTherefore, areas are equal\nFinal Answer\n1:1"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Ratio & Proportion",
+    "difficulty": "medium",
+    "question_text": "Two men, M and N, r ent a p astur e. M uses 12 cows for 4 months and 18 go ats for 5 months, while N uses 26 go ats for 7 months. If 3 cows ar e\nequiv alent t o 7 go ats, what is M' s shar e of the r ent?",
+    "options": [
+      "101/192",
+      "110/192",
+      "105/192",
+      "60/192"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given:\nM:12cows for 4months,18goat s for 5months\nN:26goat s for 7months\n3cows=7goat s\nFormula Used:\nRent ratio=Equivalent animals×Time\nSolution:\n1cow=  goat s37\nFor M:\n12×  =3728\n28×4=112\n18×5=90\nTotal for M=112+90=202\nFor N:\n26×7=182\n\nCopyright © 2026  Adda247  M:N=202:182=101:91\nTotal parts=101+91=192\nFinal Answer\n 192101"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Select the most appr opriat e ant onym o f the giv en w ord: Polymathic",
+    "options": [
+      "Intellectual",
+      "Uninformed",
+      "Skilled",
+      "Saintly"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct option is (b).\nPolymathic : A polymathic person has knowledge in many different subjects and is learned in several fields. It refers to wide and deep learning across\ndisciplines. (Hindi meaning: बहु िव द ् / बहु- ज्ञा नी)\nExample : She is polymathic, excelling in mathematics, literature, and music.\nUninformed : Someone who lacks knowledge or information; not educated about a topic, hence opposite to being widely learned. (Hindi meaning:\nअन िभ ज्ञ / अन जा न)\nExample : He remained uninformed about the new rules because he never read the notices.\nSynonyms o f Polymathic : learned, erudite, encyclopedic, well-rounded.\nAntonyms o f Polymathic : uninformed, ignorant, uneducated, illiterate.\nMeanings o f all the other giv en options :\nOption A: Int ellectual  – A person with a highly developed mind, interested in serious study and thinking. (Hindi meaning: बौ \u0000\u0000 क)\nOption C: Skilled  – Having ability and expertise gained through training or experience. (Hindi meaning: क ु शल)\nOption D: Saintly  – Extremely virtuous or holy in behavior. (Hindi meaning: स ं त- सदृश  / प िव त्र)\nSo the correct answer is (b)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Select the most appr opriat e ant onym o f the giv en w ord: Eulogy",
+    "options": [
+      "Panegyric",
+      "Tributary",
+      "Castigation",
+      "Pronunciation"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct option is (c).\nEulogy : A speech or piece of writing that praises someone highly, especially a tribute delivered after a person’s death. (Hindi meaning: श्र \u0000ा ं ज िल /\nप्र श ं सा त्मक भा षण)\nExample : She delivered a heartfelt eulogy at her mentor’s funeral.\nCastigation : Severe criticism or reprimand; strong scolding, which is the opposite of praise. (Hindi meaning: क ड़ी िन ं दा / फट का र)\nExample : The officer faced castigation for ignoring the safety protocol.\nSynonyms of Eulogy : tribute, encomium, panegyric, commendation.\n\nCopyright © 2026  Adda247Antonyms of Eulogy : castigation, condemnation, censure, denunciation.\nMeanings of all the other given options :\nOption A: Panegyric  – A public speech or text praising someone enthusiastically. (Hindi meaning: अत्य िध क प्र श ं सा)\nOption B: Tributary  – A smaller river or stream that flows into a larger one; also something contributing support. (Hindi meaning: उपन दी)\nOption D: Pronunciation  – The way a word is spoken; correct articulation. (Hindi meaning: उ \u0000ा रण)\nSo the correct answer is (c)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Conv ert the sent ence pr ovided below fr om its p assiv e voice structur e to an activ e voice structur e:\nIt has been claimed that impor tant data was being disclosed by employ ees within the firm.",
+    "options": [
+      "Someone has claimed that employees were disclosing important data within the firm.",
+      "Important data had been disclosed by employees, it is claimed.",
+      "Employees have allegedly been disclosing important data within the firm.",
+      "The firm was allegedly disclosing employee’s data."
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct option is (a).\nGiven (P assiv e/Imper sonal p assiv e): “It has been claimed that important data was being disclosed by employees within the firm.”\nThis sentence has an impersonal passive opener: It has been claimed that ... . To convert it into active voice, we introduce an agent like\nsomeone/people/they  as the subject, and keep the same tense and meaning.\nKey structur es:\nPassiv e (repor ting structur e): It has been + past participle + that-clause.\nActiv e (repor ting structur e): Someone/They + have + past participle (claimed) + that-clause.\nInside the that -clause : “was being disclosed” (past continuous passive) becomes “were disclosing” (past continuous active), and the agent\n“employees” becomes the subject.\nCorrect conv ersion: “Someone has claimed that employees were disclosing important data within the firm.” This preserves:\nReporting tense: has claimed  (present perfect) remains the same idea.\nAction tense: was being disclosed  → were disclosing  (same time reference, only voice changes).\nMeaning: employees are the doers of the act of disclosure.\nWhy other options ar e incorr ect:\nOption B : Still largely passive and also changes meaning/structure; it does not cleanly convert to active voice and sounds grammatically\nawkward.\nOption C : Changes the form and emphasis; it drops the reporting clause “has been claimed” and changes nuance (allegedly) without a proper\nequivalent for “It has been claimed”.\nOption D : Changes the meaning completely (now the firm is disclosing employees’ data, not employees disclosing important data).\nSo the correct answer is (a)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Rearrange the following sent ences in corr ect or der t o mak e a logical p assage:\n1. The t eam examined the feedb ack r esults.\n2. The findings w ere applied t o enhance the cust omer journey .\n3. A focused pr omotional camp aign was designed.\n4. The information was gather ed thr ough multiple sour ces.",
+    "options": [
+      "1-4-3-2",
+      "3-1-2-4",
+      "4-3-1-2",
+      "4-1-3-2"
+    ],
+    "correct_option": 3,
+    "solution_text": "• First, data must be collected  before any analysis can happen. Hence, sentence 4 (“The information was gathered through multiple sources.”)\nshould come first.\n\nCopyright © 2026  Adda247• After collecting information, the next logical step is analysis/examination . Therefore, sentence 1 (“The team examined the feedback results.”)\ncomes next.\n• Once the team understands the feedback, they can plan an action  based on it. So sentence 3 (“A focused promotional campaign was designed.”)\nfollows.\n• Finally, the outcome/impact of the analysis and action is shown: sentence 2 (“The findings were applied to enhance the customer journey.”) is the\nconcluding result , so it comes last.\nThus, the correct order is 4 → 1 → 3 → 2 , i.e., option (d) ."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "A sent ence is pr ovided in indir ect speech. Fr om the four giv en options, choose the one that most accurat ely conv eys the sent ence in its\ncorresponding dir ect speech.\nThe manager t old the staff that due dat es must be met strictly .",
+    "options": [
+      "“Due dates must be met strictly,” said the manager.",
+      "“You should meet the due dates strictly,” said the manager.",
+      "“Meet the due dates strictly,” the manager said.",
+      "“Due dates are to be met,” said the manager."
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct option is (a).\nGiven Indir ect Speech : “The manager told the staff that due dates must be met strictly.”\nThis is a statement reported with a that-clause . The modal must  expresses obligation/necessity. T o convert into direct speech, we keep the same\nobligation and report it as a quoted statement spoken by the manager.\nRule used (Indir ect to Dir ect):\nRemove the conjunction that and put the reported words inside quotation marks.\nKeep the same modal meaning: must  often remains must  in direct speech to show strict obligation.\nAdd an appropriate reporting tag like said the manager .\nCorrect Dir ect Speech : “Due dates must be met strictly,” said the manager.\nWhy other options ar e incorr ect:\nOption B : Changes the force from strict obligation ( must ) to advice/suggestion ( should ), which weakens the meaning.\nOption C : Converts it into an imperative command (“Meet...”), but the indirect form given is a statement with a that-clause, not a direct\ncommand structure.\nOption D : Alters the original wording and weakens the stress on “strictly”; it is less accurate and incomplete in meaning.\nSo the correct answer is (a)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Select the sent ence containing the homonym o f the highlight ed w ord:\nThe r esear cher cit ed a bailey  in Norman defensiv e design.",
+    "options": [
+      "Bailey presented the findings on Norman fortifications at the seminar.",
+      "The outer bailey encircled the motte and was guarded by watchtowers.",
+      "The soldiers retreated into the bailey when the main gate collapsed.",
+      "A wooden palisade was raised around the bailey for extra protection."
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct option is (a).\nBailey  (highlighted word in the question) is used in the passage to mean a part of a Norman castle: an enclosed courtyard within the defensive walls\n(also called the outer ward). (Hindi meaning: िक ल े का आ ँ गन/ प \u0000र सर)\nA homonym  is a word that has the same pr onunciation  as another word but a differ ent meaning  (and often different origin/spelling).\nHere, bailey  (castle courtyard) is pronounced the same as Bailey  used as a proper noun/surname  (a person’s name). The meanings are completely\ndifferent, but the sound is the same, so it forms a homonym pair in exam context.\n\nCopyright © 2026  Adda247Why option (a) is corr ect:\nIn option (a), Bailey  refers to a person (name), not the castle courtyard.\nIt is pronounced the same as bailey  (courtyard), but meaning differs; hence it is a homonym usage.\nWhy other options ar e incorr ect:\nOptions B, C, D  use bailey  in the same meaning as the highlighted word (castle part), so they are not showing a different meaning.\nSo the correct answer is (a)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "What is the main point o f groupthink as pr esent ed in the p assage?\nRead the p assage and answ er the following questions.\nA common p attern in gr oup decision-making—widely known as gr oupthink—occur s when a t eam’ s hunger for complet e agr eement becomes\nstronger than its willingness t o examine other viewpoints with a critical lens. As a r esult, choices o ften turn defectiv e because disagr eement is\neither quietly silenced fr om within or discouraged thr ough social consequences. Closely link ed to this is social conformity , the t endency t o adjust\none’s opinions or actions t o mat ch the majority—o ften unconsciously—t o gain acceptance or pr event friction. In closely bonded cir cles such as\nboardrooms, policy gr oups, or academic committ ees, individuals may hold b ack opposing ideas due t o fear o f exclusion or damage t o reputation.\nWith time, this shar ed uniformity cr eates mental stagnation, w eakens cr eativity , and incr eases the chance o f strat egic misjudgments. The Bay o f\nPigs episode and the Challenger sp ace shuttle tragedy ar e commonly highlight ed as classic cases wher e groupthink dist orted judgment. Fr om a\npsychological angle, conformity is tied t o our ev olutionar y pull t owar d trib al belonging, wher e standing ap art once carried sur vival thr eats. T oday ,\nthat same impulse shows up thr ough peer pr essur e, workplace norms, and online echo chamber s. Digital platforms int ensif y conformity because\nalgorithms construct per sonalized “bubbles” that confirm existing beliefs while scr eening out conflicting per spectiv es. The antidot e to this\nnarrowed thinking is t o build dissent int o the syst em. When t eams w elcome principled disagr eement, it becomes a mental safety-check against\ntunnel vision. Encouraging an envir onment wher e count erviews ar e valued—not punished—suppor ts str onger , mor e balanced, and mor e resilient\ndecisions. In a time shaped by viral fads, polarized deb ate, and per formativ e agr eement, the brav ery to question the cr owd is both uncommon and\nnecessar y. Real pr ogress gr ows not fr om aut omatic loyalty t o majority norms, but fr om critical pr obing and the ner ve to challenge what feels\ncomfor table.",
+    "options": [
+      "Generating ideas through teamwork",
+      "Prioritizing agreement over evaluation",
+      "Relying only on specialists",
+      "Distributing authority across units"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct option is (b).\nCont ext fr om the p assage : Groupthink is described as a situation where a team’s hunger for complete agreement becomes stronger than its\nwillingness to examine other viewpoints critically. This leads to defective decisions because disagreement is silenced or discouraged.\nWhy option (b) is corr ect:\nOption (b) exactly captures the central idea: agreement is prioritized ov er ev aluation .\nThis matches the passage’s emphasis that critical examination of alternatives is reduced when unanimity becomes the main goal.\nWhy other options ar e incorr ect:\nOption A : Teamwork can generate ideas, but groupthink is specifically about suppressing critical evaluation, not creativity through teamwork.\nOption C : The passage does not claim groupthink is about relying only on specialists.\nOption D : Distributing authority is unrelated; groupthink is about social pressure and conformity within a group.\nSo the correct answer is (b)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "As per the p assage, which ev olutionar y tendency fuels social conformity ?\nRead the p assage and answ er the following questions.\nA common p attern in gr oup decision-making—widely known as gr oupthink—occur s when a t eam’ s hunger for complet e agr eement becomes\nstronger than its willingness t o examine other viewpoints with a critical lens. As a r esult, choices o ften turn defectiv e because disagr eement is\neither quietly silenced fr om within or discouraged thr ough social consequences. Closely link ed to this is social conformity , the t endency t o adjust\none’s opinions or actions t o mat ch the majority—o ften unconsciously—t o gain acceptance or pr event friction. In closely bonded cir cles such as\nboardrooms, policy gr oups, or academic committ ees, individuals may hold b ack opposing ideas due t o fear o f exclusion or damage t o reputation.\nWith time, this shar ed uniformity cr eates mental stagnation, w eakens cr eativity , and incr eases the chance o f strat egic misjudgments. The Bay o f\nPigs episode and the Challenger sp ace shuttle tragedy ar e commonly highlight ed as classic cases wher e groupthink dist orted judgment. Fr om a\npsychological angle, conformity is tied t o our ev olutionar y pull t owar d trib al belonging, wher e standing ap art once carried sur vival thr eats. T oday ,\nthat same impulse shows up thr ough peer pr essur e, workplace norms, and online echo chamber s. Digital platforms int ensif y conformity because\nalgorithms construct per sonalized “bubbles” that confirm existing beliefs while scr eening out conflicting per spectiv es. The antidot e to this\n\nCopyright © 2026  Adda247narrowed thinking is t o build dissent int o the syst em. When t eams w elcome principled disagr eement, it becomes a mental safety-check against\ntunnel vision. Encouraging an envir onment wher e count erviews ar e valued—not punished—suppor ts str onger , mor e balanced, and mor e resilient\ndecisions. In a time shaped by viral fads, polarized deb ate, and per formativ e agr eement, the brav ery to question the cr owd is both uncommon and\nnecessar y. Real pr ogress gr ows not fr om aut omatic loyalty t o majority norms, but fr om critical pr obing and the ner ve to challenge what feels\ncomfor table.",
+    "options": [
+      "Craving for control",
+      "Urge for quick success",
+      "Instinct for tribal belonging and safety",
+      "Desire for comfort and luxury"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct option is (c).\nCont ext fr om the p assage : The passage explains that conformity has an evolutionary root: humans have a pull toward tribal belonging , because in\nearlier times, standing apart could create survival threats. This evolutionary pressure makes people adjust to the majority to gain acceptance and\navoid exclusion.\nWhy option (c) is corr ect:\nOption (c) reflects the passage’s exact explanation: the instinct for belonging and safety within a gr oup fuels conformity.\nThis survival-based psychology later appears as peer pressure, workplace norms, and online echo chambers.\nWhy other options ar e incorr ect:\nOption A : Craving control is not discussed as the evolutionary driver.\nOption B : Urge for quick success is not mentioned as a root cause.\nOption D : Comfort and luxury are not stated as evolutionary reasons for conformity.\nSo the correct answer is (c)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Which incident is mentioned as a r eal-life out come link ed to groupthink?\nRead the p assage and answ er the following questions.\nA common p attern in gr oup decision-making—widely known as gr oupthink—occur s when a t eam’ s hunger for complet e agr eement becomes\nstronger than its willingness t o examine other viewpoints with a critical lens. As a r esult, choices o ften turn defectiv e because disagr eement is\neither quietly silenced fr om within or discouraged thr ough social consequences. Closely link ed to this is social conformity , the t endency t o adjust\none’s opinions or actions t o mat ch the majority—o ften unconsciously—t o gain acceptance or pr event friction. In closely bonded cir cles such as\nboardrooms, policy gr oups, or academic committ ees, individuals may hold b ack opposing ideas due t o fear o f exclusion or damage t o reputation.\nWith time, this shar ed uniformity cr eates mental stagnation, w eakens cr eativity , and incr eases the chance o f strat egic misjudgments. The Bay o f\nPigs episode and the Challenger sp ace shuttle tragedy ar e commonly highlight ed as classic cases wher e groupthink dist orted judgment. Fr om a\npsychological angle, conformity is tied t o our ev olutionar y pull t owar d trib al belonging, wher e standing ap art once carried sur vival thr eats. T oday ,\nthat same impulse shows up thr ough peer pr essur e, workplace norms, and online echo chamber s. Digital platforms int ensif y conformity because\nalgorithms construct per sonalized “bubbles” that confirm existing beliefs while scr eening out conflicting per spectiv es. The antidot e to this\nnarrowed thinking is t o build dissent int o the syst em. When t eams w elcome principled disagr eement, it becomes a mental safety-check against\ntunnel vision. Encouraging an envir onment wher e count erviews ar e valued—not punished—suppor ts str onger , mor e balanced, and mor e resilient\ndecisions. In a time shaped by viral fads, polarized deb ate, and per formativ e agr eement, the brav ery to question the cr owd is both uncommon and\nnecessar y. Real pr ogress gr ows not fr om aut omatic loyalty t o majority norms, but fr om critical pr obing and the ner ve to challenge what feels\ncomfor table.",
+    "options": [
+      "A major peace treaty of the Cold W ar",
+      "Challenger space shuttle disaster",
+      "A national referendum outcome",
+      "A stock-market technology collapse"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct option is (b).\nCont ext fr om the p assage : The passage cites real-world examples where groupthink distorted judgment. It explicitly mentions the Bay o f Pigs\nepisode  and the Challenger sp ace shuttle tragedy  as classic cases.\nWhy option (b) is corr ect:\nOption (b) directly matches one of the incidents named in the passage: the Challenger sp ace shuttle disast er.\nThe passage uses it as evidence that groupthink can lead to serious strategic misjudgments.\nWhy other options ar e incorr ect:\nOption A : No peace treaty is discussed.\nOption C : No national referendum is mentioned.\n\nCopyright © 2026  Adda247Option D : No stock-market or technology crash is cited in the passage.\nSo the correct answer is (b)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "How does the p assage say digital platforms str engthen conformity ?\nRead the p assage and answ er the following questions.\nA common p attern in gr oup decision-making—widely known as gr oupthink—occur s when a t eam’ s hunger for complet e agr eement becomes\nstronger than its willingness t o examine other viewpoints with a critical lens. As a r esult, choices o ften turn defectiv e because disagr eement is\neither quietly silenced fr om within or discouraged thr ough social consequences. Closely link ed to this is social conformity , the t endency t o adjust\none’s opinions or actions t o mat ch the majority—o ften unconsciously—t o gain acceptance or pr event friction. In closely bonded cir cles such as\nboardrooms, policy gr oups, or academic committ ees, individuals may hold b ack opposing ideas due t o fear o f exclusion or damage t o reputation.\nWith time, this shar ed uniformity cr eates mental stagnation, w eakens cr eativity , and incr eases the chance o f strat egic misjudgments. The Bay o f\nPigs episode and the Challenger sp ace shuttle tragedy ar e commonly highlight ed as classic cases wher e groupthink dist orted judgment. Fr om a\npsychological angle, conformity is tied t o our ev olutionar y pull t owar d trib al belonging, wher e standing ap art once carried sur vival thr eats. T oday ,\nthat same impulse shows up thr ough peer pr essur e, workplace norms, and online echo chamber s. Digital platforms int ensif y conformity because\nalgorithms construct per sonalized “bubbles” that confirm existing beliefs while scr eening out conflicting per spectiv es. The antidot e to this\nnarrowed thinking is t o build dissent int o the syst em. When t eams w elcome principled disagr eement, it becomes a mental safety-check against\ntunnel vision. Encouraging an envir onment wher e count erviews ar e valued—not punished—suppor ts str onger , mor e balanced, and mor e resilient\ndecisions. In a time shaped by viral fads, polarized deb ate, and per formativ e agr eement, the brav ery to question the cr owd is both uncommon and\nnecessar y. Real pr ogress gr ows not fr om aut omatic loyalty t o majority norms, but fr om critical pr obing and the ner ve to challenge what feels\ncomfor table.",
+    "options": [
+      "By banning sensitive debates",
+      "By summarizing facts through visuals",
+      "By creating curated echo chambers",
+      "By allowing hidden identities"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct option is (c).\nContext from the passage : The passage clearly states that digital platforms intensify conformity because algorithms construct personalized\n“bubbles”  that confirm existing beliefs and screen out conflicting perspectives. This creates echo chambers  where people repeatedly see the same\nviewpoint, making them more likely to align with the majority opinion.\nWhy option (c) is correct :\nOption (c) directly matches the idea of personalized bubbles  and echo chambers  created by algorithms.\nWhen opposing views are filtered out, people feel their existing view is widely accepted, which strengthens conformity.\nWhy other options are incorrect :\nOption A : The passage never says banning debates is the method; rather, it emphasizes filtering and confirmation.\nOption B : Visual summaries are not discussed as a driver of conformity.\nOption D : Hidden identities are not mentioned; the focus is on algorithmic personalization and screening.\nSo the correct answer is (c)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": ". What r emedy does the p assage r ecommend for gr oupthink and conformity ?\nRead the p assage and answ er the following questions.\nA common p attern in gr oup decision-making—widely known as gr oupthink—occur s when a t eam’ s hunger for complet e agr eement becomes\nstronger than its willingness t o examine other viewpoints with a critical lens. As a r esult, choices o ften turn defectiv e because disagr eement is\neither quietly silenced fr om within or discouraged thr ough social consequences. Closely link ed to this is social conformity , the t endency t o adjust\none’s opinions or actions t o mat ch the majority—o ften unconsciously—t o gain acceptance or pr event friction. In closely bonded cir cles such as\nboardrooms, policy gr oups, or academic committ ees, individuals may hold b ack opposing ideas due t o fear o f exclusion or damage t o reputation.\nWith time, this shar ed uniformity cr eates mental stagnation, w eakens cr eativity , and incr eases the chance o f strat egic misjudgments. The Bay o f\nPigs episode and the Challenger sp ace shuttle tragedy ar e commonly highlight ed as classic cases wher e groupthink dist orted judgment. Fr om a\npsychological angle, conformity is tied t o our ev olutionar y pull t owar d trib al belonging, wher e standing ap art once carried sur vival thr eats. T oday ,\nthat same impulse shows up thr ough peer pr essur e, workplace norms, and online echo chamber s. Digital platforms int ensif y conformity because\nalgorithms construct per sonalized “bubbles” that confirm existing beliefs while scr eening out conflicting per spectiv es. The antidot e to this\nnarrowed thinking is t o build dissent int o the syst em. When t eams w elcome principled disagr eement, it becomes a mental safety-check against\ntunnel vision. Encouraging an envir onment wher e count erviews ar e valued—not punished—suppor ts str onger , mor e balanced, and mor e resilient\ndecisions. In a time shaped by viral fads, polarized deb ate, and per formativ e agr eement, the brav ery to question the cr owd is both uncommon and\n\nCopyright © 2026  Adda247necessar y. Real pr ogress gr ows not fr om aut omatic loyalty t o majority norms, but fr om critical pr obing and the ner ve to challenge what feels\ncomfor table.",
+    "options": [
+      "Appointing more experienced seniors",
+      "Enforcing strict compliance",
+      "Encouraging constructive dissent",
+      "Increasing online reach and connections"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct option is (c).\nCont ext fr om the p assage : The passage states that the antidote to narrowed thinking is to build dissent int o the syst em. It emphasizes that when\nteams welcome principled disagreement, it acts as a mental safety-check against tunnel vision and supports balanced decisions.\nWhy option (c) is corr ect:\nOption (c) exactly reflects the recommended remedy: encouraging constructiv e dissent .\nThe passage stresses that counterviews should be valued, not punished, to reduce conformity and groupthink.\nWhy other options ar e incorr ect:\nOption A : Appointing seniors is not proposed as the solution.\nOption B : Enforcing strict compliance would increase conformity, not reduce it.\nOption D : Increasing online reach is unrelated to preventing groupthink.\nSo the correct answer is (c)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Choose the most suitable option t o replace the highlight ed part of the sent ence:\nNo one knows where is he staying .",
+    "options": [
+      "where is he stay",
+      "where he is staying at",
+      "where he is staying",
+      "where he had stayed is"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct option is (c).\nExplanation : The given sentence is an embedded (indir ect) question  after the clause “No one knows...”. In embedded questions, we do not use\nquestion word order (auxiliary + subject). Instead, we use statement w ord order (subject + verb).\nIncorrect: “where is he staying ” (question order)\nCorrect: “where he is staying ” (statement order)\nGrammatical rule used :\nIn indirect questions after verbs like know , ask, wonder , tell, the structure is: Wh-w ord + subject + v erb.\nDo not place the auxiliary before the subject in indirect questions.\nExample (rule demonstration) : I don’t know wher e she liv es. (Not: where does she live.)\nWhy other options ar e incorr ect:\nOption A : Grammatically incorrect phrase; “stay” form is wrong and question order remains incorrect.\nOption B : Unnecessary and incorrect addition of “at”; “stay” generally does not require “at” in this structure.\nOption D : Wrong tense and incorrect structure; “is” at the end makes the clause ungrammatical.\nSo the correct answer is (c)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Choose the corr ect meaning o f idiom: Blow a fuse",
+    "options": [
+      "To slip away quietly",
+      "To vanish suddenly\n\nCopyright © 2026  Adda247",
+      "To become suddenly angry",
+      "To manage a situation smartly"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct option is (c).\nBlow a fuse : This idiom means to suddenly lose one’s temper or become very angry, similar to an electrical fuse that breaks when overloaded. (Hindi\nidiom/meaning: ग ु \u0000 े स े भ ड़ क उठ ना / आ पा खो द े ना)\nExample : He blew a fuse when he saw the repeated mistakes in the report.\nWhy option (c) is corr ect: Option (c) exactly conveys the idea of sudden anger, which is the standard usage of the idiom in everyday and exam\ncontexts.\nWhy other options ar e incorr ect:\nOption A : “Slip away quietly” means to leave without being noticed, which is unrelated to anger.\nOption B : “Vanish suddenly” indicates disappearance, not emotional outburst.\nOption D : “Manage a situation smartly” means handling cleverly, which is opposite of losing control.\nOther r elated idioms and their meanings :\nFly o ff the handle  – to suddenly become angry. (Hindi: अ चा नक ग ु \u0000ा कर ना)\nLose one’ s temper  – to become angry. (Hindi: ग ु \u0000ा खो द े ना)\nSee r ed – to become furious. (Hindi: बहुत \u0000ो िध त हो ना)\nHit the r oof – to get extremely angry. (Hindi: बहुत भ ड़ क जा ना)\nSo the correct answer is (c)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Select the corr ect option:\nThe new rules, though seemingly driv en by fiscal necessity , were actually a cov ert mov e to __ dissent under “aust erity.”",
+    "options": [
+      "quell",
+      "impugn",
+      "swell",
+      "rebut"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct option is (a).\nExplanation : The sentence suggests that the rules were a hidden attempt to suppr ess or put down  dissent. The verb that best fits this context is\nquell , which means to subdue or calm something (especially unrest, rebellion, or dissent).\nQuell : to suppress, to put an end to, to subdue. (Hindi meaning: द बा ना / शा ं त कर ना)\nExample : The authorities tried to quell the protests before they spread further.\nWhy other options ar e incorr ect:\nOption B: Impugn  – to question or challenge the truth or integrity of someone/something. (Hindi meaning: आ रो प ल गा ना / सत्य ता पर स वा ल\nउ ठा ना) It does not mean suppressing dissent.\nOption C: S well – to grow larger or increase. (Hindi meaning: ब ढ़ ना / फ ू ल ना) This is opposite to the intended meaning.\nOption D: R ebut  – to refute or contradict an argument with evidence. (Hindi meaning: ख ं डन कर ना) This means responding to dissent, not\nsuppressing it.\nSo the correct answer is (a)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Choose the most suitable option t o replace the highlight ed part of the sent ence:\nShe demanded me to swallow the medication .",
+    "options": [
+      "demanded that I swallow the medication",
+      "me swallowing the medication",
+      "that me swallow the medication\n\nCopyright © 2026  Adda247",
+      "to swallow the medication by me"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct option is (a).\nExplanation : The verb demand  does not take the structure “demand + object + to-infinitive” in standard formal English. Instead, it is correctly\nfollowed by a that-clause  (subjunctive pattern) or “demand + noun”. Therefore, “demanded me to swallow” is incorrect.\nCorrect structure : demanded that + subject + base verb  (subjunctive) / or demanded that + subject + should + verb .\nCorrect replacement : “She demanded that I swallow the medication.”\nGrammatical rule used :\nVerbs like demand, insist, recommend, suggest, propose  often take a that-clause  with the base form  of the verb (subjunctive) in formal\nEnglish.\nExample (rule demonstration) : The doctor insisted that he take  rest. (Not: insisted him to take rest.)\nWhy other options are incorrect :\nOption B : Fragment and incorrect structure; it does not form a complete grammatical clause after “demanded”.\nOption C : Wrong object form (“me” instead of “I”) and incorrect clause structure.\nOption D : Passive-like wording is incorrect and unnatural; it changes the structure without fixing the verb pattern.\nInformation booster : In many competitive exams, “He ordered me to...” can be correct, but “He demanded me to...” is usually tested as incorrect\nbecause demand  prefers that-clause  in formal usage.\nSo the correct answer is (a)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Rearrange the following sent ences t o form a coher ent p aragraph:\n1. These influences include how much sunlight is r eceiv ed, the mak e-up o f the atmospher e, and the Ear th’s orbital p ath.\n2. Long-t erm shif ts in Ear th’s climat e are shaped by an intricat e mix o f natural and human-driv en influences.\n3. The most pr ominent human-driv en influence is the r elease o f greenhouse gases fr om industrial pr ocesses.\n4. Together , these components contr ol the planet’ s overall ener gy balance and, as a r esult, its av erage t emperatur e.",
+    "options": [
+      "2, 1, 3, 4",
+      "1, 2, 3, 4",
+      "3, 4, 1, 2",
+      "4, 2, 3, 1"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct option is (a).\nTo form a coherent paragraph, we begin with the general stat ement , then provide examples/details , then specify the human fact or, and finally give\nthe result/conclusion .\nCorrect sequence: 2, 1, 3, 4\nSentence 2  is the best opener because it introduces the main topic: long-term climate shifts are shaped by natural and human-driven\ninfluences.\nSentence 1  logically follows because “These influences” refers back to the influences mentioned in sentence 2 and lists natural examples\n(sunlight, atmosphere, orbital path).\nSentence 3  adds the major human-driven influence (greenhouse gases), completing the “natural + human” idea introduced in sentence 2.\nSentence 4  works as the concluding statement because “T ogether, these components” summarizes the influences and explains their combined\neffect on energy balance and temperature.\nHence, option (a) gives the most logical and grammatically connected order.\nSo the correct answer is (a)\n\nCopyright © 2026  Adda247"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Find the p art of the sent ence that contains an err or:\nThe higher the o ffice was (1)/ the mor e pressing became the need (2)/ for prudence, pr opriety , and (3)/ av oiding o f early disclosur e. (4)",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct_option": 3,
+    "solution_text": "The correct option is (d).\nIdentification o f error: The error lies in part (4): “avoiding o f early disclosure.”\nDetailed explanation : After the preposition for, we typically use a parallel noun/gerund structure. The sentence has “for prudence , propriety , and ...”.\nTo maintain parallelism, the third item should also be a noun (or a properly formed gerund phrase). The phrase “ avoiding o f” is awkward and\nincorrect here; the correct noun form is avoidance , or we can use the gerund without “of” as “avoiding early disclosure.”\nCorrect form  (one correct version): “...for prudence, propriety, and avoidance o f early disclosure.”\nGrammatical rule used :\nParallelism : Items in a list joined by “and” should follow the same grammatical pattern (noun + noun + noun, or gerund + gerund + gerund,\netc.).\nCorrect nominal form : For the idea of ‘the act of avoiding’, the standard noun is avoidance .\nExample (rule demonstration) : The job requires patience , discipline , and attention  to detail. (All nouns are parallel.)\nInformation boost er: In SSC/Banking grammar, “avoid + gerund” is common (avoid doing), but when you need a noun in a list, “avoidance of” is the\npreferred construction.\nSo the correct answer is (d)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Find the p art of the sent ence that contains an err or:\nThe r epor t’s focus on t ech-ut opianism, though praisew orthy, (1)/ ignor e the deep-r ooted inequities (2)/ that continue in data av ailability and\ndigital compet ence (3)/ acr oss demographic and r egional gaps. (4)",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct option is (b).\nIdentification o f error: Part (2) contains the error: “ ignor e the deep-rooted inequities”.\nDetailed explanation : The subject of the sentence is “The r epor t’s focus on t ech-ut opianism” . The headword is focus , which is singular . A singular\nsubject in the present tense takes a verb with -s/-es . Therefore, the verb should be ignor es, not ignor e.\nCorrect sent ence : “The report’s focus on tech-utopianism, though praiseworthy, ignor es the deep-rooted inequities...”\nGrammatical rule used :\nSubject–v erb agr eement : A singular subject requires a singular verb in the present tense (focus ignores).\nIntervening phrases like “though praiseworthy” do not change the number of the subject.\nExample (rule demonstration) : The quality of these products matt ers a lot. (Not: matter.)\nInformation boost er: In long noun phrases, identify the main noun  (here, “focus”) to decide verb agreement, not the nearby nouns (“report”,\n“inequities”).\nSo the correct answer is (b)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "Synonyms",
+    "difficulty": "medium",
+    "question_text": "Select the most appr opriat e synonym o f the giv en w ord: AMORPHOUS",
+    "options": [
+      "Vague",
+      "Clear",
+      "Strict",
+      "Accurate"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct option is (a).\nAmorphous : Lacking a clear shape, form, or structure; not well-defined and without a definite outline. It can also mean something unclear  or\nindistinct  in ideas or plans. (Hindi meaning: अस्पष्ट  / िन रा का र)\nExample : The plan was amorphous and needed a clearer structure before implementation.\nVague : Not clearly expressed, not definite, or lacking clarity; indistinct. This matches the idea of being not well-defined. (Hindi meaning: ध ुं ध ला / अस्पष्ट )\nExample : He gave a vague explanation that did not answer the question properly.\nSynonyms : indistinct, shapeless, nebulous, unclear.\nAntonyms : clear, definite, precise, structured.\nMeanings o f all the other giv en options :\nOption B: Clear  – Easy to understand; well-defined. (Hindi meaning: स्पष्ट)\nOption C: S trict – Very firm about rules and discipline. (Hindi meaning: क ठो र)\nOption D: Accurat e – Correct and without error. (Hindi meaning: स टी क)\nSo the correct answer is (a)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Identif y the corr ect spelling o f the t erm chr omosomal “thr ee copies” .",
+    "options": [
+      "Trissomie",
+      "Trissomy",
+      "Trisomy",
+      "Trisomie"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct option is (c).\n\nCopyright © 2026  Adda247Correct spelling : Trisomy  refers to a genetic condition in which a person has three copies  of a chromosome instead of the usual two. It is commonly\nassociated with conditions like T risomy 21 (Down syndrome). (Hindi meaning: ित्र स ू त्र ता / ती न प्र ित या ँ हो ना)\nExample : Down syndrome is caused by trisomy of chromosome 21.\nWhy option (c) is corr ect: “Trisomy” is the standard scientific spelling used in genetics and medical terminology.\nMeanings o f all the giv en options :\nOption A: T rissomie  – Incorrect spelling (non-standard). (Hindi meaning: गलत व त \u0000 नी)\nOption B: T rissomy  – Incorrect spelling; extra ‘s’. (Hindi meaning: गलत व त \u0000 नी)\nOption C: T risomy  – Correct scientific term for three copies of a chromosome. (Hindi meaning: ित्र स ू त्र ता)\nOption D: T risomie  – Incorrect spelling (non-standard). (Hindi meaning: गलत व त \u0000 नी)\nParts of speech : “Trisomy” is a noun  (a medical/genetic condition name).\nSo the correct answer is (c)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Select the corr ect option:\nSo fragile __ the talks that one disclosur e could sabotage them.",
+    "options": [
+      "are",
+      "were",
+      "is",
+      "was"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct option is (b).\nExplanation : This sentence uses an inversion structure for emphasis: “So + adjective + auxiliary/verb + subject + that ...”. The subject is the talks ,\nwhich is plural, so the verb must also be plural.\nThe clause “that one disclosure could sabotage them” indicates a past/conditional narrative tone; hence, the plural past verb were fits best: “So fragile\nwere the talks that ...”.\nGrammatical rule used :\nSo + adjectiv e + be + subject + that -clause  is a standard emphatic structure using inversion.\nVerb agreement must match the subject: talks  (plural) → were (plural past).\nExample (rule demonstration) : So difficult was the paper that many students could not finish it. (Singular subject → was)\nWhy other options ar e incorr ect:\nOption A (ar e): Present tense plural, but the overall tone is past/conditional; also “could sabotage” commonly aligns with past narration here.\nOption C (is) : Singular and present; subject is plural and tense mismatch occurs.\nOption D (was) : Past but singular; incorrect for the plural subject “talks”.\nSo the correct answer is (b)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Select the corr ect option:\nHer analysis was __ than impr essiv e; it was nearly r evelatory.",
+    "options": [
+      "less",
+      "more",
+      "other",
+      "rather"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct option is (b).\n\nCopyright © 2026  Adda247Explanation : The sentence uses the fixed comparative expression more than  to intensify praise: “Her analysis was more than  impressive; it was nearly\nrevelatory.” This means the analysis was not only impressive but even beyond that level.\nMore than : used to show that something exceeds a particular degree or description. (Hindi meaning: स े भी अ िध क / उस स े क ही ं \u0000ा दा)\nExample : The performance was more than satisfactory; it was outstanding.\nWhy other options ar e incorr ect:\nOption A (less) : “less than impressive” means not impressive, which contradicts “nearly revelatory”.\nOption C (other) : “other than” means except, which does not fit this structure or meaning.\nOption D (rather) : “rather than” is used for contrast/choice, not for this kind of emphasis.\nSo the correct answer is (b)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "A sent ence is pr ovided in dir ect speech. Fr om the four giv en options, choose the one that most accurat ely conv eys the sent ence in its\ncorresponding indir ect speech.\nHe said, “I am not feeling fine. ”",
+    "options": [
+      "He said that he is not feeling fine.",
+      "He said that he was not feeling fine.",
+      "He said that he didn’t feel fine.",
+      "He said he not feeling fine."
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct option is (b).\nGiven Dir ect Speech : He said, “I am not feeling fine.”\nExplanation : The reporting verb is in the past tense ( said), so the tense inside the quotation generally undergoes backshif ting while converting into\nindirect speech. The present continuous “ am not feeling ” changes to past continuous “ was not feeling ”. Also, the pronoun “I” changes to “he”\nbecause the speaker is “he”.\nRules o f conv ersion (Dir ect to Indir ect):\nChange pronouns according to the subject of reporting clause: I → he.\nWhen reporting verb is past, present tense generally shifts to past: am → was.\nRemove quotation marks and use a that-clause: said that .\nCorrect Indir ect Speech : He said that he was not feeling fine.\nWhy other options ar e incorr ect:\nOption A : No backshift; “is” does not match past reporting verb in standard narration rules.\nOption C : Changes the tense/aspect and meaning; “didn’t feel” is simple past and loses the ongoing sense of “am not feeling”.\nOption D : Grammatically incomplete; missing auxiliary and proper clause structure.\nSo the correct answer is (b)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Identif y the corr ect one-w ord substitut e for : “A condition o f disuse or inactivity .”",
+    "options": [
+      "Interregnum",
+      "Destitute",
+      "Lethargy",
+      "Desuetude"
+    ],
+    "correct_option": 3,
+    "solution_text": "The correct option is (d).\nDesuetude : It means a state of disuse , where something is no longer used or has become inactive/obsolete due to long neglect. This perfectly\nmatches “a condition of disuse or inactivity.” (Hindi meaning: अप्रचलन  / उप यो ग स े बा हर हो ना)\nExample : Many old customs have fallen into desuetude over time.\n\nCopyright © 2026  Adda247Meanings o f the other giv en options :\nOption A: Int erregnum  – A period when normal government/leadership is suspended, especially between two reigns. (Hindi meaning: अ ं त रा ल /\nशा स की य \u0000र \u0000\u0000)\nOption B: Destitut e – Extremely poor; lacking basic necessities. (Hindi meaning: द \u0000र द्र / ब े स हा रा)\nOption C: Lethar gy – Lack of energy and enthusiasm; sluggishness. (Hindi meaning: स ु \u0000ी / आलस्य )\nSo the correct answer is (d)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "English Language",
+    "chapter": "Miscellaneous",
+    "difficulty": "medium",
+    "question_text": "Change the following fr om activ e to passiv e:\nWhy did the edit or disr egard the major stylistic irr egularities?",
+    "options": [
+      "Why have the major stylistic irregularities been disregarded by the editor?",
+      "Why are the major stylistic irregularities being disregarded by the editor?",
+      "Why did the major stylistic irregularities be disregarded by the editor?",
+      "Why were the major stylistic irregularities disregarded by the editor?"
+    ],
+    "correct_option": 3,
+    "solution_text": "The correct option is (d).\nGiven Activ e Voice: “Why did the editor disregard the major stylistic irregularities?”\nExplanation : The tense in the active sentence is simple p ast (did disregard). While converting from active to passive in simple past:\nThe object becomes the subject: “the major stylistic irregularities” becomes the subject in passive.\nUse was/w ere + p ast p articiple : since the new subject is plural (irregularities), we use were.\nKeep the agent with “by” when needed: “by the editor”.\nIn a question, place the auxiliary before the subject: “Why were ... disregarded ...?”\nStructur e:\nActiv e voice: Why + did + subject + base verb + object?\nPassiv e voice: Why + was/were + object (as subject) + past participle + by + subject?\nCorrect P assiv e Voice: “Why were the major stylistic irregularities disregarded by the editor?”\nWhy other options ar e incorr ect:\nOption A : Present perfect passive (“have been disregarded”) changes tense from simple past.\nOption B : Present continuous passive (“are being disregarded”) changes tense/aspect.\nOption C : Incorrect passive construction; “did ... be” is grammatically wrong.\nSo the correct answer is (d)"
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Series",
+    "chapter": "Letter Series",
+    "difficulty": "easy",
+    "question_text": "Select the option that will correctly fill all the blanks in the series: m _ n m _ n _ _ n m _ _",
+    "options": [
+      "a a a m n a",
+      "a a m a a n",
+      "m n o o o o",
+      "a a m n m a"
+    ],
+    "correct_option": 0,
+    "solution_text": "The pattern follows repetition of 'm a n'. Filling accordingly gives: m a n m a n m a n m a n. Thus, correct option is (0)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Number Logic",
+    "chapter": "Pattern Based",
+    "difficulty": "easy",
+    "question_text": "If 5 + 3 = 16 and 7 + 4 = 33, then 6 + 2 = ?",
+    "options": [
+      "32",
+      "14",
+      "16",
+      "18"
+    ],
+    "correct_option": 0,
+    "solution_text": "Pattern: a^2 - b^2. 6^2 - 2^2 = 36 - 4 = 32. Thus, correct option is (0)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Series",
+    "chapter": "Number Series",
+    "difficulty": "easy",
+    "question_text": "What number will replace the question mark? 2, 6, 14, 30, ?, 126",
+    "options": [
+      "46",
+      "60",
+      "62",
+      "64"
+    ],
+    "correct_option": 2,
+    "solution_text": "Pattern: multiply by 2 and add 2. 30×2+2=62. Thus, correct option is (2)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Logical Reasoning",
+    "chapter": "Statement and Assumption",
+    "difficulty": "medium",
+    "question_text": "Statement: Excessive use of plastic bags harms the environment. Assumptions: I. Plastic bags are non-biodegradable. II. People are aware of environmental damage caused by plastic.",
+    "options": [
+      "Only I is implicit",
+      "Only II is implicit",
+      "Both I and II are implicit",
+      "Neither I nor II is implicit"
+    ],
+    "correct_option": 0,
+    "solution_text": "Assumption I explains why plastic harms environment. II is unrelated. Thus, correct option is (0)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Series",
+    "chapter": "Number Series",
+    "difficulty": "easy",
+    "question_text": "Complete the series: 3, 9, 27, ?, 243",
+    "options": [
+      "54",
+      "72",
+      "81",
+      "90"
+    ],
+    "correct_option": 2,
+    "solution_text": "Pattern: multiply by 3. 27×3=81. Thus, correct option is (2)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Polity",
+    "chapter": "Indian Constitution",
+    "difficulty": "easy",
+    "question_text": "Find the odd one out: Article 14, Article 19, Article 21, Article 360",
+    "options": [
+      "Article 14",
+      "Article 19",
+      "Article 21",
+      "Article 360"
+    ],
+    "correct_option": 3,
+    "solution_text": "Article 360 is Emergency provision, others are Fundamental Rights. Thus, correct option is (3)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Coding-Decoding",
+    "chapter": "Letter Coding",
+    "difficulty": "easy",
+    "question_text": "If CAT is written as 3-1-20 and DOG as 4-15-7, how will PIG be written?",
+    "options": [
+      "16-9-7",
+      "15-9-7",
+      "16-8-7",
+      "15-8-6"
+    ],
+    "correct_option": 0,
+    "solution_text": "Alphabet positions: P=16, I=9, G=7. Thus, correct option is (0)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Mathematical Operations",
+    "chapter": "Operator Replacement",
+    "difficulty": "medium",
+    "question_text": "If '+' means '×', '−' means '+', '×' means '÷', and '÷' means '−', find value of 18 − 6 + 12 × 3 ÷ 2",
+    "options": [
+      "8",
+      "40",
+      "10",
+      "12"
+    ],
+    "correct_option": 1,
+    "solution_text": "Replace operators → 18+6×12÷3−2 = 40. Thus, correct option is (1)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Accuracy",
+    "chapter": "Identical Sentences",
+    "difficulty": "easy",
+    "question_text": "Choose the address exactly identical to: Flat 402, Emerald Residency, Lake View Road, Pune, Maharashtra – 411016",
+    "options": [
+      "Flat 402 Emerald Residency Lakeview Road Pune Maharashtra 411016",
+      "Flat 402, Emerald Residency, Lake View Rd., Pune, Maharashtra – 411061",
+      "Flat 420, Emerald Residency, Lake View Road, Pune, Maharashtra – 411016",
+      "Flat 402, Emerald Residency, Lake View Road, Pune, Maharashtra – 411016"
+    ],
+    "correct_option": 3,
+    "solution_text": "Only option D matches exactly. Thus, correct option is (3)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Average",
+    "difficulty": "easy",
+    "question_text": "What is the average of the first 7 odd numbers?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "correct_option": 1,
+    "solution_text": "Average = middle term = 7. Thus, correct option is (1)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Ratio and Proportion",
+    "difficulty": "easy",
+    "question_text": "Ratio of two numbers is 7:9 and sum is 256. Find numbers.",
+    "options": [
+      "98 and 126",
+      "112 and 144",
+      "119 and 137",
+      "126 and 130"
+    ],
+    "correct_option": 1,
+    "solution_text": "Total parts=16, each=16 → numbers=112,144. Thus, correct option is (1)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Art and Culture",
+    "chapter": "Indian Classical Dance",
+    "difficulty": "easy",
+    "question_text": "Match the classical dance form with its state of origin: 1. Sattriya 2. Kuchipudi 3. Mohiniyattam",
+    "options": [
+      "1-Assam, 2-Andhra Pradesh, 3-Kerala",
+      "1-Kerala, 2-Assam, 3-Andhra Pradesh",
+      "1-Andhra Pradesh, 2-Kerala, 3-Assam",
+      "1-Assam, 2-Kerala, 3-Andhra Pradesh"
+    ],
+    "correct_option": 0,
+    "solution_text": "Sattriya originates from Assam, Kuchipudi from Andhra Pradesh, and Mohiniyattam from Kerala. Thus, correct option is (0)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Polity",
+    "chapter": "Fundamental Duties",
+    "difficulty": "easy",
+    "question_text": "Which of the following is a fundamental duty under Article 51A of the Indian Constitution?",
+    "options": [
+      "To provide free legal aid",
+      "To protect and improve the natural environment",
+      "To organize village panchayats",
+      "To separate the judiciary from the executive"
+    ],
+    "correct_option": 1,
+    "solution_text": "Article 51A(g) mentions protecting environment. Thus, correct option is (1)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Science",
+    "chapter": "Chemistry",
+    "difficulty": "easy",
+    "question_text": "Which chemical element produces green colour in firework displays?",
+    "options": [
+      "Strontium",
+      "Barium",
+      "Sodium",
+      "Copper"
+    ],
+    "correct_option": 1,
+    "solution_text": "Barium produces green color. Thus, correct option is (1)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Geography",
+    "chapter": "Rivers of India",
+    "difficulty": "easy",
+    "question_text": "Which river originates from the Amarkantak Plateau?",
+    "options": [
+      "Godavari",
+      "Narmada",
+      "Krishna",
+      "Kaveri"
+    ],
+    "correct_option": 1,
+    "solution_text": "Narmada originates from Amarkantak Plateau. Thus, correct option is (1)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Sports",
+    "chapter": "Important Facts",
+    "difficulty": "easy",
+    "question_text": "What is the standard distance of a Marathon race?",
+    "options": [
+      "21.09 km",
+      "42.195 km",
+      "50 km",
+      "38.5 km"
+    ],
+    "correct_option": 1,
+    "solution_text": "Standard marathon distance is 42.195 km. Thus, correct option is (1)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Blood Relations",
+    "difficulty": "medium",
+    "question_text": "P is the sister of Q. R is the father of Q. How is R related to P?",
+    "options": [
+      "Father",
+      "Uncle",
+      "Brother",
+      "Grandfather"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: P is the sister of Q. R is the father of Q. From the given information blood relation diagram will be. So, R is father of P. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Classification",
+    "difficulty": "medium",
+    "question_text": "Find the odd one out:",
+    "options": [
+      "Copper",
+      "Iron",
+      "Gold",
+      "Plastic"
+    ],
+    "correct_option": 3,
+    "solution_text": "Copper, iron and gold are metals. Plastic is a non-metal. So, plastic is odd one out. Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "A 20 L mixture contains milk and water in the ratio 2:3. How much milk must be added to make the ratio 4:3?",
+    "options": [
+      "10 L",
+      "8 L",
+      "5 L",
+      "9 L"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: A 20 L mixture contains milk and water in the ratio 2:3. Solution: Milk : Water = 2 : 3 Total mixture = 20 L Milk = 2/5 * 20 = 8 L Water = 3/5 * 20 = 12 L Let (x) L milk be added. (8 + x)/12 = 4/3 3(8 + x) = 48 8 + x = 16 x = 8 Required milk = 8 L So, 8 L milk must be added to make the ratio 4:3. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If + = ×, - = ÷, × = +, ÷ = -, then find: 24 + 6 - 2 × 4 ÷ 2 = ?",
+    "options": [
+      "76",
+      "72",
+      "78",
+      "74"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given: 24 + 6 - 2 × 4 ÷ 2 = ? Given Sign + - × ÷ New Sign × ÷ + - Using BODMAS rule. New equation: 24 × 6 ÷ 2 + 4 - 2 = ? 24 × 3 + 4 - 2 = ? 72 + 4 - 2 = ? 76 - 2 = ? ? = 74 Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. CFG, EHI, GJK, ILM, ?",
+    "options": [
+      "KNO",
+      "JMN",
+      "JMO",
+      "KMN"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: CFG, EHI, GJK, ILM, ? Logic: Letters are increasing + 2 place. C + 2 = E, E + 2 = G, G + 2 = I, I + 2 = K F + 2 = H, H + 2 = J, J + 2 = L, L + 2 = N G + 2 = I, I + 2 = K, K + 2 = M, M + 2 = O So, the missing term is KNO. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Which of the following is/are identical to the address given?",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "2 and 4",
+      "3 and 4"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: 1. Rohit Kumar, Flat 12A, Sunrise Apartments, Andheri East, Mumbai - 400069 2. Rohit Kumar, Flat 12A, Sunrise Apartments, Andheri East, Mumbai - 400069 3. Rohit Kumar, Flat 12-A, Sunrise Apartments, Andheri East, Mumbai - 400069 4. Rohit Kumar, Flat 12A, Sunrise Apartment, Andheri East, Mumbai - 400069 Now, we check each options. Option (a):1 and 2 Both addresses are exactly the same. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If ‘+’ means ‘×’, ‘-’ means ‘÷’, ‘×’ means ‘+’ and ‘÷’ means ‘-’. Find the value of: 10 ÷ 4 + 6 × 32 - 8 = ?",
+    "options": [
+      "-6",
+      "-8",
+      "-10",
+      "-12"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given: 10 ÷ 4 + 6 × 32 - 8 = ? New equation: 10 - 4 × 6 + 32 ÷ 8 = ? 10 - 24 + 4 = ? 10 - 24 + 4 = ? 14 - 24 = ? ? = - 10 Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "The following equation is correct. Which two signs should be interchanged to correct it? 24 - 6 ÷ 3 × 2 + 4 = 24",
+    "options": [
+      "- and ÷",
+      "× and +",
+      "÷ and ×",
+      "- and +"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given: 24 - 6 ÷ 3 × 2 + 4 = 24 Now, we check each options. Option (d): - and + New equation: 24 + 6 ÷ 3 × 2 - 4 = 24 24 + 2 × 2 - 4 = 24 24 + 4 - 4 = 24 28 - 4 = 24 24 = 24 Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "ROADMAP is to ORADPAM as JOURNEY is to:",
+    "options": [
+      "OJURYEN",
+      "UOJRNEY",
+      "UOJRENY",
+      "OJURNEY"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: ROADMAP is to ORADPAM as JOURNEY is to: Logic: Position of letters are interchanged. So, JOURNEY is to OJURYEN. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If 3 # 2 = 13, 4 # 3 = 25, then 5 # 4 = ?",
+    "options": [
+      "39",
+      "41",
+      "43",
+      "45"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: If 3 # 2 = 13, 4 # 3 = 25 Logic: 1st number^2 + 2nd number^2 = 3rd number For, 3 # 2 = 13, 3^2 + 2^2 = 9 + 4 = 13 For, 4 # 3 = 25, 4^2 + 3^2 = 16 + 9 = 25 Similarly, 5 # 4 = 5^2 + 4^2 = 25 + 16 = 41 Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Logical Reasoning",
+    "chapter": "Syllogism/Logical Deduction",
+    "difficulty": "medium",
+    "question_text": "Statements: A > B = C, D ≤ E < B, F > A Conclusions: I. F > C II. D < A",
+    "options": [
+      "Only I is true",
+      "Only II is true",
+      "Both I and II are true",
+      "Neither I nor II is true"
+    ],
+    "correct_option": 2,
+    "solution_text": "Statements: A > B = C, D ≤ E < B, F > A Conclusions: I. F > C From F > A and A > B = C => F > A > C. Conclusion I is true. II. D < A From D < B and B < A => D < A. Conclusion II is true. So, Both I and II are true. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Rearrange the letters to form the name of a fruit:",
+    "options": [
+      "lpeap",
+      "appel",
+      "paple",
+      "apple"
+    ],
+    "correct_option": 3,
+    "solution_text": "Explanation of all options: Option (d): apple Correct rearrangement forming the fruit name apple. Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Logical Reasoning",
+    "chapter": "Syllogism/Logical Deduction",
+    "difficulty": "medium",
+    "question_text": "Statement: The price of petrol has increased. Conclusions: I. Transportation costs may rise. II. People will stop using vehicles.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correct_option": 0,
+    "solution_text": "Statement: The price of petrol has increased. Conclusions: I. Transportation costs may rise. This logically follows. Petrol is a major input for transportation, so an increase in petrol price can increase transport costs. II. People will stop using vehicles. This does not logically follow. So, Only I follows. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Logical Reasoning",
+    "chapter": "Syllogism/Logical Deduction",
+    "difficulty": "medium",
+    "question_text": "Statement: Online education provides flexibility but requires reliable internet access. Assumptions: I. Students have access to the internet. II. Flexibility improves learning outcomes. III. Internet connectivity is essential for online education.",
+    "options": [
+      "Only I and III are implicit",
+      "Only II and III are implicit",
+      "Only I is implicit",
+      "All are implicit"
+    ],
+    "correct_option": 0,
+    "solution_text": "Statement: Online education provides flexibility but requires reliable internet access. Assumptions: I. Students have access to the internet. This is implicit. III. Internet connectivity is essential for online education. This is implicit. So, Only I and III are implicit. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Pointing to a girl, a woman said, “She is the daughter of my brother’s wife.” How is the girl related to the woman?",
+    "options": [
+      "Mother",
+      "Niece",
+      "Sister",
+      "Cousin"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: Pointing to a girl, a woman said, “She is the daughter of my brother’s wife.” So, the girl is niece of the woman. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Logical Reasoning",
+    "chapter": "Syllogism/Logical Deduction",
+    "difficulty": "medium",
+    "question_text": "Identify the relation between Statement I and Statement II. Statement I: The company’s sales increased this year. Statement II: The company expanded its distribution network.",
+    "options": [
+      "I is the cause and II is the effect",
+      "II is the cause and I is the effect",
+      "Both are independent",
+      "No relation"
+    ],
+    "correct_option": 1,
+    "solution_text": "Statement I: The company’s sales increased this year. This describes a resultor outcome. Statement II: The company expanded its distribution network. This describes an action/cause. Relation: Because expanding the distribution network can lead to higher sales, Statement II is the cause and Statement I is the effect. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "What will come at the place of question mark? 7, 13, 25, 49, ?",
+    "options": [
+      "95",
+      "97",
+      "99",
+      "101"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: 7, 13, 25, 49, ? Logic: Numbers are multiply by 2 and - 1 place. 7 × 2 - 1 = 13 13 × 2 - 1 = 25 25 × 2 - 1 = 49 49 × 2 - 1 = 97 So, the missing term is 97. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If 20% of a number is 40, what is the number?",
+    "options": [
+      "160",
+      "180",
+      "200",
+      "240"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given: If 20% of a number is 40. Solution: 20% of a number = 40 Number = 40 * 100 / 20 = 200 So, 200 is the number. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Choose the address that is the same as the one given below. No. 21, Green Park Residency, Bhopal, Madhya Pradesh - 462001",
+    "options": [
+      "No. 21, Green Park Residency, Bhopal, MP - 462001",
+      "No. 21, Green Park Residency, Bhopal, Madhya Pradesh - 462001",
+      "No. 12, Green Park Residency, Bhopal, Madhya Pradesh - 462001",
+      "No. 21, Green Park Residency, Indore, Madhya Pradesh - 462001"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: No. 21, Green Park Residency, Bhopal, Madhya Pradesh - 462001 Option (b): No. 21, Green Park Residency, Bhopal, Madhya Pradesh - 462001 Matches the given address exactly in all details. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If 7 * 2 = 98 and 9 * 3 = 243, then 5 * 4 = ?",
+    "options": [
+      "100",
+      "120",
+      "125",
+      "140"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: If 7 * 2 = 98 and 9 * 3 = 243 Logic: (1st number)^2 × 2nd number = 3rd number For, 7 * 2 = 98, (7)^2 × 2 = 49 × 2 = 98 For, 9 * 3 = 243, (9)^2 × 3 = 81 × 3 = 243 Similarly, 5 * 4 = (5)^2 × 4 = 25 × 4 = 100 Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "What comes next? 2, 4, 12, 48, ?",
+    "options": [
+      "230",
+      "240",
+      "220",
+      "384"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: 2, 4, 12, 48, ? Logic: Numbers are multiply by natural number from 2. 2 × 2 = 4 4 × 3 = 12 12 × 4 = 48 48 × 5 = 240 So, the missing term is 240. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Logical Reasoning",
+    "chapter": "Syllogism/Logical Deduction",
+    "difficulty": "medium",
+    "question_text": "Statement: Crime rates decreased after better street lighting. Conclusions: I. Visibility reduces crime. II. Criminals prefer darkness.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correct_option": 2,
+    "solution_text": "Statement: Crime rates decreased after better street lighting. Conclusions: I. Visibility reduces crime. Better street lighting improves visibility, which helps reduce crime. II. Criminals prefer darkness. If crime decreases after better lighting, it implies criminals prefer darkness. So, Both follow. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If CAT is coded as BZS, how is DOG coded?",
+    "options": [
+      "CNF",
+      "CPF",
+      "DNF",
+      "BNF"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: If CAT is coded as BZS. Logic: Letters are decreasing - 1 place. For, CAT - BZS, C - 1 = B, A - 1 = Z, T - 1 = S Similarly, DOG - ?, D - 1 = C, O - 1 = N, G - 1 = F So, DOG is coded as CNF. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "What comes next? BDF, EGI, HJL, ?",
+    "options": [
+      "LNP",
+      "KNO",
+      "MPR",
+      "KMO"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given: BDF, EGI, HJL, ? Logic: Letters are increasing + 3 place. B + 3 = E, E + 3 = H, H + 3 = K D + 3 = G, G + 3 = J, J + 3 = M F + 3 = I, I + 3 = L, L + 3 = O So, the missing term is KMO. Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Classification",
+    "difficulty": "medium",
+    "question_text": "Find the odd one out: Mahatma Gandhi, Subhash Chandra Bose, Jawaharlal Nehru, Bhagat Singh, Rani Lakshmibai",
+    "options": [
+      "Mahatma Gandhi",
+      "Subhash Chandra Bose",
+      "Jawaharlal Nehru",
+      "Bhagat Singh"
+    ],
+    "correct_option": 2,
+    "solution_text": "Mahatma Gandhi, Subhash Chandra Bose, Bhagat Singh and Rani Lakshmibai were freedom fighters or revolutionaries. Jawaharlal Nehru was the only one who became the Prime Minister of India. So, Jawaharlal Nehru is odd one out. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "History",
+    "chapter": "Indian History",
+    "difficulty": "medium",
+    "question_text": "Which dynasty is credited with early fortifications around the Delhi region before the Sultanate period?",
+    "options": [
+      "Paramaras",
+      "Chahamanas",
+      "Tomaras",
+      "Palas"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) Tomaras. Explanation: The Tomara dynasty is credited with establishing the first city in the Delhi region, known as 'Dhillika'. Anangpal Tomar, a prominent ruler of this dynasty, is often cited as the founder of Delhi in the 8th century and built the citadel of Lal Kot. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Culture",
+    "chapter": "Art & Culture",
+    "difficulty": "medium",
+    "question_text": "In Hindustani music, the term describing the permitted notes and their sequence in a raga is:",
+    "options": [
+      "Tala",
+      "Bandish",
+      "Aroha–Avaroha",
+      "Laya"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) Aroha–Avaroha. Explanation: In Hindustani Classical Music, every Raga is defined by a specific setof musical notes (Swaras) and the order in which they are played or sung. Aroha refers to the ascending scale of notes in a Raga, while Avaroha refers to the descending scale. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Polity",
+    "chapter": "Indian Constitution",
+    "difficulty": "medium",
+    "question_text": "Which of the following is NOT a feature of the Indian Constitution?",
+    "options": [
+      "Federal system with unitary bias",
+      "Parliamentary form of government",
+      "Presidential form of government",
+      "Secular state"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) Presidential form of government. Explanation: The Indian Constitution provides for a Parliamentary form of government, both at the Centre and in the States. In a Presidential system (like in the USA), the executive is not responsible to the legislature. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Statement 1: The Hubble Space Telescope observes in ultraviolet, visible, and near-infrared regions. Statement 2: Hubble is in a geostationary orbit. Statement 3: Hubble's data led to the discovery of Dark Energy. Which are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) 1 and 3 only. Explanation: Statement 1 is Correct. Statement 2 is Incorrect: Hubble is in Low Earth Orbit (LEO), not a geostationary orbit. Statement 3 is Correct: Its data led to the discovery of Dark Energy. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Economy",
+    "chapter": "Indian Economy",
+    "difficulty": "medium",
+    "question_text": "Statement 1: Inflation reduces purchasing power. Statement 2: Inflation always benefits savers.",
+    "options": [
+      "Only Statement 1 is correct",
+      "Only Statement 2 is correct",
+      "Both are correct",
+      "Neither is correct"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) Only Statement 1 is correct. Explanation: Statement 1 is Correct: Inflation reduces purchasing power. Statement 2 is Incorrect: Inflation generally hurts savers and benefits debtors. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Economy",
+    "chapter": "Indian Economy",
+    "difficulty": "medium",
+    "question_text": "Assertion (A): GST created a unified tax system. Reason (R): It replaced multiple indirect taxes.",
+    "options": [
+      "Both A and R are true and R explains A",
+      "Both true but R not explanation",
+      "A true, R false",
+      "A false, R true"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) Both A and R are true and R explains A. Explanation: Assertion (A) is true because GST created a common national market. Reason (R) is also true and is the direct cause of A. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Economy",
+    "chapter": "Indian Economy",
+    "difficulty": "medium",
+    "question_text": "Liberalisation refers to:",
+    "options": [
+      "Increased government control",
+      "Reduction of trade barriers",
+      "Nationalisation",
+      "Currency demonetisation"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) Reduction of trade barriers. Explanation: Liberalisation refers to the loosening of government regulations and restrictions in exchange for greater participation by private entities. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Which of the following pairs is correctly matched?",
+    "options": [
+      "Wood’s Despatch — Promotion of English education system",
+      "Hunter Commission — Abolition of universities",
+      "Sadler Commission — Focus on primary schooling only",
+      "Raleigh Commission — Vernacular press control"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) Wood’s Despatch — Promotion of English education system. Explanation: Wood’s Despatch (1854) is known as the 'Magna Carta of English Education in India'. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "The Human Development Index mainly considers:",
+    "options": [
+      "Income, health, and education",
+      "Population growth",
+      "Inflation rate",
+      "Export levels"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) Income, health, and education. Explanation: The HDI is based on three key dimensions: 1. Long and healthy life, 2. Knowledge, and 3. A decent standard of living. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Polity",
+    "chapter": "Indian Constitution",
+    "difficulty": "medium",
+    "question_text": "Consider the following statements about the Fifth Schedule of the Indian Constitution:",
+    "options": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) Both 1 and 2. Explanation: Both statements accurately describe the constitutional role and scope of the Fifth Schedule. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Culture",
+    "chapter": "Art & Culture",
+    "difficulty": "medium",
+    "question_text": "Perini Shivatandavam, a vigorous dance tradition associated with warrior rituals and later revived in the 20th century by Nataraja Ramakrishna, is primarily linked to which Indian state?",
+    "options": [
+      "Odisha",
+      "Telangana",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) Telangana. Explanation: Perini Shivatandavam is an ancient dance form thatoriginated in the Kakatiya dynasty of Telangana. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "History",
+    "chapter": "Indian History",
+    "difficulty": "medium",
+    "question_text": "Read the following statements carefully: Statement 1: The dockyard at Lothal indicates maritime trade activity. Statement 2: Harappans used standardized weights for commerce. Which of the following is/are correct?",
+    "options": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) Both 1 and 2. Explanation: Both statements are historically verified facts of the Indus Valley Civilization. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Culture",
+    "chapter": "Art & Culture",
+    "difficulty": "medium",
+    "question_text": "The annual cultural festival that showcases the traditions of multiple Naga tribes is organized to coincide with the Statehood Day of Nagaland. This festival is scheduled every year beginning on which date?",
+    "options": [
+      "1 December",
+      "15 January",
+      "26 November",
+      "5 March"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) 1 December. Explanation: The festival described is the Hornbill Festival. 1st December marks the Statehood Day of Nagaland. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Polity",
+    "chapter": "Indian Constitution",
+    "difficulty": "medium",
+    "question_text": "Which Article deals with the President’s ordinance-making power?",
+    "options": [
+      "Article 110",
+      "Article 123",
+      "Article 356",
+      "Article 368"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) Article 123. Explanation: Article 123 grants the President the power to promulgate ordinances during the recess of Parliament. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Which of the following initiatives focuses on enhancing climate resilience in drought-prone regions through integrated watershed management and community participation?",
+    "options": [
+      "National Afforestation Programme",
+      "Integrated Watershed Management Programme",
+      "Green India Mission",
+      "Desert Development Scheme"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) Integrated Watershed Management Programme. Explanation: The IWMP is designed to restore ecological balance by developing degraded natural resources. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "History",
+    "chapter": "Indian History",
+    "difficulty": "medium",
+    "question_text": "Which Mughal structure is known for its extensive use of red sandstone combined with white marble decoration?",
+    "options": [
+      "Jama Masjid, Delhi",
+      "Agra Fort",
+      "Bibi Ka Maqbara",
+      "Moti Masjid"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) Agra Fort. Explanation: Agra Fort, built by Emperor Akbar, is a prime example of using red sandstone with marble decoration. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Sports",
+    "chapter": "Sports & Games",
+    "difficulty": "medium",
+    "question_text": "India’s first individual Olympic gold medal in athletics was won in:",
+    "options": [
+      "Tokyo Olympics",
+      "Rio Olympics",
+      "Paris Olympics",
+      "Beijing Olympics"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) Tokyo Olympics. Explanation: Neeraj Chopra won the gold medal in the men's Javelin Throw at the Tokyo 2020 Olympics. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Sports",
+    "chapter": "Sports & Games",
+    "difficulty": "medium",
+    "question_text": "In athletics, the term “foul line” is commonly associated with:",
+    "options": [
+      "High jump",
+      "Shot put",
+      "Marathon",
+      "Hurdles"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) Shot put. Explanation: In Shot put, the athlete must stay within a designated circular area marked by a foul line. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Sports",
+    "chapter": "Sports & Games",
+    "difficulty": "medium",
+    "question_text": "The National Games 2022 in India were hosted by:",
+    "options": [
+      "Kerala",
+      "Maharashtra",
+      "Gujarat",
+      "Punjab"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) Gujarat. Explanation: The 36th National Games were held in 2022 across six cities in Gujarat. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Who authored the book “Ignited Minds”?",
+    "options": [
+      "R. Narayan",
+      "P.J. Abdul Kalam",
+      "Vikram Seth",
+      "Amartya Sen"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) A.P.J. Abdul Kalam. Explanation: Ignited Minds was written by Dr. A.P.J. Abdul Kalam. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Polity",
+    "chapter": "Indian Constitution",
+    "difficulty": "medium",
+    "question_text": "Minimum age to become a member of Rajya Sabha is:",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) 30. Explanation: According to Article 84, a person must be at least 30 years of age for Rajya Sabha. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "India and Bhutan mainly coordinate on hydropower development and managementof shared river systems. Which of the following is the primary bilateral mechanism for resolving water-sharing issues between India and Bangladesh?",
+    "options": [
+      "Joint Rivers Commission",
+      "SAARC Water Board",
+      "WTO Mechanism",
+      "UN Water Council"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) Joint Rivers Commission. Explanation: The JRC was established in 1972 to ensure the most effective joint efforts in maximizing the benefits from common river systems. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Triangle",
+    "difficulty": "medium",
+    "question_text": "The area of a triangle is 25 cm². If a similar triangle has sides three times the corresponding sides of the first triangle, find its area.",
+    "options": [
+      "75 cm²",
+      "150 cm²",
+      "225 cm²",
+      "300 cm²"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given: Area of first triangle = 25 cm^2. Ratio of corresponding sides = 1 : 3. Ratio of areas = 1^2 : 3^2 = 1 : 9. Area of second triangle = 25 × 9 = 225 cm^2. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Circle",
+    "difficulty": "medium",
+    "question_text": "From an external point P, two tangents PA and PB are drawn to a circle. If the length of PA is 15 cm, find the length of PB.",
+    "options": [
+      "10 cm",
+      "12 cm",
+      "15 cm",
+      "18 cm"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given: PA = 15 cm. Tangents drawn from an external point to a circle are equal in length. So, PB = PA = 15 cm. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Trigonometry",
+    "chapter": "Trigonometric Ratios",
+    "difficulty": "medium",
+    "question_text": "If sinA + cosA = 7/5, find sin2A.",
+    "options": [
+      "9/25",
+      "24/25",
+      "7/10",
+      "12/25"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: sinA + cosA = 7/5. (sinA + cosA)^2 = (7/5)^2 => 1 + sin2A = 49/25 => sin2A = 49/25 - 1 = 24/25. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Ratio & Proportion",
+    "difficulty": "medium",
+    "question_text": "If A : B = 4 : 5, B : C = 6 : 7, and C : D = 10 : 11, find the compound ratio A : B : C :",
+    "options": [
+      "48 : 60 : 70 : 77",
+      "4 : 5 : 7 : 11",
+      "24 : 30 : 35 : 44",
+      "8 : 10 : 14 : 11"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: A:B=4:5, B:C=6:7, C:D=10:11. A:B:C = 24:30:35. A:B:C:D = 48:60:70:77. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "27³ + 18³ − 45³ + 108 is equal to:",
+    "options": [
+      "−65502",
+      "0",
+      "−46656",
+      "1"
+    ],
+    "correct_option": 0,
+    "solution_text": "Let a=27, b=18, c=-45. a+b+c=0 => a^3+b^3+c^3 = 3abc = 3*27*18*(-45) = -65610. -65610 + 108 = -65502. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Algebra",
+    "chapter": "Coordinate Geometry",
+    "difficulty": "medium",
+    "question_text": "A line L is the perpendicular bisector of the line segment joining points P(4, 6) and Q(10, 2). What is the y-interceptof line L?",
+    "options": [
+      "4",
+      "-6.5",
+      "6",
+      "7"
+    ],
+    "correct_option": 1,
+    "solution_text": "Midpoint M = (7,4). Slope of PQ = -2/3. Slope of L = 3/2. Equation: y-4 = 3/2(x-7) => y = 3/2x - 13/2. y-intercept = -6.5. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Mensuration",
+    "difficulty": "medium",
+    "question_text": "If the radius of a cone is doubled and its height is reduced to half, how does the volume change?",
+    "options": [
+      "Becomes half of the original",
+      "Becomes double of the original",
+      "Remains unchanged",
+      "Becomes four times the original"
+    ],
+    "correct_option": 1,
+    "solution_text": "V = 1/3 * pi * r^2 * h. New V = 1/3 * pi * (2r)^2 * (h/2) = 1/3 * pi * 4r^2 * h/2 = 2 * (1/3 * pi * r^2 * h) = 2V. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Trigonometry",
+    "chapter": "Trigonometric Ratios",
+    "difficulty": "medium",
+    "question_text": "If cotA = 3, find the value of (tanA + cotA).",
+    "options": [
+      "10/3",
+      "4/3",
+      "13/3",
+      "3/10"
+    ],
+    "correct_option": 0,
+    "solution_text": "cotA = 3 => tanA = 1/3. tanA + cotA = 1/3 + 3 = 10/3. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "What is the minimum number of cuts required to divide a cube into 27 equal smaller cubes?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "correct_option": 2,
+    "solution_text": "27 = 3^3. Cuts required = (3-1) + (3-1) + (3-1) = 2 + 2 + 2 = 6. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Triangle",
+    "difficulty": "medium",
+    "question_text": "A triangle can have:",
+    "options": [
+      "Two obtuse angles",
+      "One acute angle and two right angles",
+      "Only one obtuse angle",
+      "Three angles each equal to 70°"
+    ],
+    "correct_option": 2,
+    "solution_text": "Sum of angles = 180. Only one obtuse angle is possible. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Algebra",
+    "chapter": "Algebraic Identities",
+    "difficulty": "medium",
+    "question_text": "If a = 0.01, b = 0.02, c = −0.03 and a + b + c = 0, find (a³ + b³ + c³) ÷ (3abc).",
+    "options": [
+      "−1",
+      "0",
+      "1",
+      "2"
+    ],
+    "correct_option": 2,
+    "solution_text": "If a+b+c=0, then a^3+b^3+c^3 = 3abc. So (3abc)/(3abc) = 1. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Triangle",
+    "difficulty": "medium",
+    "question_text": "A circle is inscribed in a right-angled triangle whose perpendicular sides are 9 cm and 12 cm. Find the radius of the inscribed circle.",
+    "options": [
+      "2 cm",
+      "3 cm",
+      "4 cm",
+      "5 cm"
+    ],
+    "correct_option": 1,
+    "solution_text": "a=9, b=12, c=15. r = (a+b-c)/2 = (9+12-15)/2 = 3 cm. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Algebra",
+    "chapter": "Algebraic Identities",
+    "difficulty": "medium",
+    "question_text": "Simplify: sqrt(17 + 12*sqrt(2))",
+    "options": [
+      "4 + √2",
+      "2 + 3√2",
+      "3 + 2√2",
+      "5 + √4"
+    ],
+    "correct_option": 2,
+    "solution_text": "17 + 12*sqrt(2) = (3 + 2*sqrt(2))^2. So sqrt is 3 + 2*sqrt(2). Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Trigonometry",
+    "chapter": "Trigonometric Ratios",
+    "difficulty": "medium",
+    "question_text": "If cosθ = 5/13 and θ lies in the first quadrant, find the value of sinθ.",
+    "options": [
+      "12/13",
+      "5/12",
+      "13/12",
+      "12/5"
+    ],
+    "correct_option": 0,
+    "solution_text": "sin^2 = 1 - cos^2 = 1 - 25/169 = 144/169. sin = 12/13. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Ratio & Proportion",
+    "difficulty": "medium",
+    "question_text": "A sector of a circle subtends an angle of 90° at the centre and has radius 6 cm. Another sector of the same circle subtends an angle of π/2 radians. Find the ratio of the areas of the two sectors.",
+    "options": [
+      "1 : 2",
+      "2 : 1",
+      "1 : 1",
+      "3 : 2"
+    ],
+    "correct_option": 2,
+    "solution_text": "90 degrees = pi/2 radians. Since angles and radii are same, areas are same. Ratio 1:1. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Algebra",
+    "chapter": "Algebraic Identities",
+    "difficulty": "medium",
+    "question_text": "Find the value of x = sqrt(15 + sqrt(15 + sqrt(15 + ...)))",
+    "options": [
+      "3",
+      "2",
+      "(1 + sqrt(61))/2",
+      "4"
+    ],
+    "correct_option": 2,
+    "solution_text": "x = sqrt(15 + x) => x^2 - x - 15 = 0. x = (1 + sqrt(1 + 60))/2 = (1 + sqrt(61))/2. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Percentage",
+    "difficulty": "medium",
+    "question_text": "A shopkeeper buys 9 pens for the marked price of 8 pens. He sells each pen after allowing a discountof 5% on the marked price. Find his profit percentage.",
+    "options": [
+      "10%",
+      "25%",
+      "875%",
+      "15%"
+    ],
+    "correct_option": 2,
+    "solution_text": "Let MP of 1 pen = 100. CP of 9 pens = 800. SP of 1 pen = 95. SP of 9 pens = 855. Profit = 55. Profit % = 55/800 * 100 = 6.875%. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Algebra",
+    "chapter": "Algebraic Identities",
+    "difficulty": "medium",
+    "question_text": "If x + y = 7 and xy = 10, find: (x³ + y³)² - 9x²y²(x + y)²",
+    "options": [
+      "24011",
+      "−26411",
+      "12255",
+      "−12251"
+    ],
+    "correct_option": 1,
+    "solution_text": "x^3+y^3 = (x+y)^3 - 3xy(x+y) = 343 - 210 = 133. (133)^2 - 9(100)(49) = 17689 - 44100 = -26411. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Algebra",
+    "chapter": "Coordinate Geometry",
+    "difficulty": "medium",
+    "question_text": "Find the slope of the line 4x − 5y = 10.",
+    "options": [
+      "4/5",
+      "−5/4",
+      "5/4",
+      "−4/5"
+    ],
+    "correct_option": 0,
+    "solution_text": "5y = 4x - 10 => y = 4/5x - 2. Slope = 4/5. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Interest",
+    "difficulty": "medium",
+    "question_text": "₹800 is lent at a certain rate of simple interest. After 4 months, another ₹1200 is lent at a rate which is twice the original rate. If the total simple interest after 1 year is ₹96, find the original rate.",
+    "options": [
+      "4%",
+      "5%",
+      "8%",
+      "7%"
+    ],
+    "correct_option": 0,
+    "solution_text": "800*R*1/100 + 1200*2R*(2/3)/100 = 96 => 8R + 16R = 96 => 24R = 96 => R = 4. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Height & Distance",
+    "difficulty": "medium",
+    "question_text": "A tower casts a shadow of 15 meters on the ground. If the heightof the tower is 15√3 meters, find the angle of elevation of the sun.",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "75°"
+    ],
+    "correct_option": 2,
+    "solution_text": "tan(theta) = 15*sqrt(3)/15 = sqrt(3) => theta = 60. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Mensuration",
+    "difficulty": "medium",
+    "question_text": "The volume of a hemisphere is numerically equal to three times its curved surface area. Find the radius of the hemisphere.",
+    "options": [
+      "9 cm",
+      "5 cm",
+      "12 cm",
+      "14 cm"
+    ],
+    "correct_option": 0,
+    "solution_text": "2/3 * pi * r^3 = 3 * 2 * pi * r^2 => 2/3 * r = 6 => r = 9. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Interest",
+    "difficulty": "medium",
+    "question_text": "A sum of ₹12000 is divided into two parts and lent at 6% and 11% simple interest respectively. If the total annual interest earned is ₹960, find the amount lent at 11%.",
+    "options": [
+      "₹5000",
+      "₹4800",
+      "₹7000",
+      "₹8000"
+    ],
+    "correct_option": 1,
+    "solution_text": "0.11x + 0.06(12000-x) = 960 => 0.05x + 720 = 960 => 0.05x = 240 => x = 4800. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Trigonometry",
+    "chapter": "Trigonometric Ratios",
+    "difficulty": "medium",
+    "question_text": "Pipe A can fill a tank in 18 minutes and Pipe B can fill it in 36 minutes. Both are opened together. After 6 minutes, the rate of Pipe A becomes half and Pipe B’s rate becomes double. How many more minutes are required to fill the tank?",
+    "options": [
+      "5 min",
+      "6 min",
+      "7 min",
+      "8 min"
+    ],
+    "correct_option": 1,
+    "solution_text": "Rates: A=2, B=1. Total=36. In 6 min, 18 units done. Left=18. New rates: A=1, B=2. New total rate=3. Time = 18/3 = 6 min. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Grammar",
+    "chapter": "Direct/Indirect Speech",
+    "difficulty": "medium",
+    "question_text": "He said to me, “You ought to study harder.”",
+    "options": [
+      "He said me that I ought to study harder.",
+      "He told me that I ought to study harder.",
+      "He told me that you ought to study harder.",
+      "He told that I ought to study harder."
+    ],
+    "correct_option": 1,
+    "solution_text": "“said to me” changes to “told me”. “You” changes to “I”. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "Synonyms",
+    "difficulty": "medium",
+    "question_text": "Select the most appropriate synonym of the given word: EXIGUOUS",
+    "options": [
+      "Meagre",
+      "Immense",
+      "Redundant",
+      "Plentiful"
+    ],
+    "correct_option": 0,
+    "solution_text": "Exiguous means very small or scanty. Meagre is the synonym. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "Spelling Test",
+    "difficulty": "medium",
+    "question_text": "Find the word that is spelled correctly and means the quality of being harshly sarcastic.",
+    "options": [
+      "Causticity",
+      "Caustisity",
+      "Caustyciti",
+      "Costicity"
+    ],
+    "correct_option": 0,
+    "solution_text": "Causticity is the correct spelling. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Grammar",
+    "chapter": "Direct/Indirect Speech",
+    "difficulty": "medium",
+    "question_text": "The envoy said thatonly after the truce would talks commence.",
+    "options": [
+      "“Talks commence only after the truce,” said the envoy.",
+      "“Only after the truce, talks would commence,” said the envoy.",
+      "“Only after the truce will talks commence,” said the envoy.",
+      "“Talks would commence once the truce is declared,” said the envoy."
+    ],
+    "correct_option": 2,
+    "solution_text": "“would commence” in indirect becomes “will commence” in direct. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "Antonyms",
+    "difficulty": "medium",
+    "question_text": "Select the most appropriate antonym of the given word. Abrogate",
+    "options": [
+      "Rescind",
+      "Annul",
+      "Ratify",
+      "Repeal"
+    ],
+    "correct_option": 2,
+    "solution_text": "Abrogate means to abolish. Ratify means to approve. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "One Word Substitution",
+    "difficulty": "medium",
+    "question_text": "Choose the correctone-word substitute for: “Extremely ancient; belonging to a very remote period.”",
+    "options": [
+      "Antiquated",
+      "Medieval",
+      "Antediluvian",
+      "Obsolete"
+    ],
+    "correct_option": 2,
+    "solution_text": "Antediluvian means extremely ancient. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "Synonyms",
+    "difficulty": "medium",
+    "question_text": "Select the most appropriate synonym of the given word: LUMINOUS",
+    "options": [
+      "Gloomy",
+      "Murky",
+      "Opaque",
+      "Resplendent"
+    ],
+    "correct_option": 3,
+    "solution_text": "Luminous means shining. Resplendent is the synonym. Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Choose the correct meaning of idiom: To chew over an idea",
+    "options": [
+      "Eat noisily",
+      "Wander aimlessly in thought",
+      "Think deeply and repeatedly",
+      "Prepare aggressively for conflict"
+    ],
+    "correct_option": 2,
+    "solution_text": "To chew over means to think deeply. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "One Word Substitution",
+    "difficulty": "medium",
+    "question_text": "Choose the correctone-word substitute for: “A person who advocates reform or improvement.”",
+    "options": [
+      "Traditionalist",
+      "Reactionary",
+      "Reformer",
+      "Absolutist"
+    ],
+    "correct_option": 2,
+    "solution_text": "Reformer is the one who advocates reform. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Grammar",
+    "chapter": "Error Spotting",
+    "difficulty": "medium",
+    "question_text": "Find the partof the sentence that contains an error: Seldom had the tribunal entertained an appeal (1)/ so lacking in substance, nor so plainly designed (2)/ to invite publicity rather than justice. (3)/ No error (4)/",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct_option": 1,
+    "solution_text": "Error in part (2). “nor” should be “or” for parallel structure with “seldom”. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Change the following from active to passive: They were broadcasting the match at 8 pm.",
+    "options": [
+      "The match is broadcast at 8 pm.",
+      "The match was broadcast at 8 pm.",
+      "The match was being broadcast at 8 pm.",
+      "The match has been broadcast at 8 pm."
+    ],
+    "correct_option": 2,
+    "solution_text": "Past continuous “were broadcasting” becomes “was being broadcast”. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Choose the correctoption: The sociologist’s conclusions were so contentious that they were initially ____.",
+    "options": [
+      "dismissed",
+      "applauded",
+      "endorsed",
+      "implemented"
+    ],
+    "correct_option": 0,
+    "solution_text": "Contentious means controversial, so they were likely dismissed. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Grammar",
+    "chapter": "Error Spotting",
+    "difficulty": "medium",
+    "question_text": "Find the partof the sentence that contains an error: The revised guideline states (1)/ that every employee must comply with (2)/ the conduct policy (3)/ regardless of their designation. (4)/",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct_option": 3,
+    "solution_text": "“every employee” is singular, so “their” should be “his/her”. Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Convert the sentence provided below from its passive voice structure to an active voice structure: A decision has been made to get the manuscript reviewed by an external committee.",
+    "options": [
+      "An external committee has reviewed the manuscript.",
+      "The manuscript is being reviewed by an external committee.",
+      "They have decided to get the manuscript reviewed by an external committee.",
+      "The manuscript was reviewed by the committee as per the decision."
+    ],
+    "correct_option": 2,
+    "solution_text": "Active form: “They have decided...”. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Select the most appropriate option to substitute the underlined segment in the given sentence. She is confidentof to clear the interview.",
+    "options": [
+      "of to clear",
+      "that she clears",
+      "of clearing the",
+      "on clearing interview"
+    ],
+    "correct_option": 2,
+    "solution_text": "“confidentof clearing the”. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Reading Comprehension",
+    "chapter": "Passage Based",
+    "difficulty": "medium",
+    "question_text": "What concern does the passage raise about Yoga’s worldwide popularity?",
+    "options": [
+      "Lack of studios",
+      "Dilution of its philosophical foundation",
+      "Shortage of practitioners",
+      "Excess control by Indian agencies"
+    ],
+    "correct_option": 1,
+    "solution_text": "The passage mentions dilution of philosophical foundation. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Which option best represents the Ayurvedic view of illness, as discussed?",
+    "options": [
+      "Destroying pathogens through antibiotics",
+      "Using synthetic drugs for instant relief",
+      "Rebalancing the body through lifestyle and routine",
+      "Correcting genetic defects directly"
+    ],
+    "correct_option": 2,
+    "solution_text": "Ayurveda focuses on rebalancing the body. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Reading Comprehension",
+    "chapter": "Passage Based",
+    "difficulty": "medium",
+    "question_text": "What risk linked to institutional promotion of AYUSH is mentioned in the passage?",
+    "options": [
+      "Rising production costs",
+      "Increased rural joblessness",
+      "Traditional knowledge holders being sidelined",
+      "Dependence on foreign investors"
+    ],
+    "correct_option": 2,
+    "solution_text": "Marginalization of traditional knowledge holders. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "What position does the author take regarding combining traditional medicine with modern healthcare?",
+    "options": [
+      "Traditional systems should replace allopathy",
+      "Modern medicine must reject tradition",
+      "Integration can work with humility and regulation",
+      "Both should remain strictly separate"
+    ],
+    "correct_option": 2,
+    "solution_text": "Integration with humility and regulation. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Reading Comprehension",
+    "chapter": "Passage Based",
+    "difficulty": "medium",
+    "question_text": "According to the passage, what is essential for the continued relevance of Yoga and traditional medicine in India?",
+    "options": [
+      "Complete isolation from modern science",
+      "Preserving philosophical depth while applying rigorous scrutiny",
+      "Ignoring clinical trials",
+      "Focusing only on commercial appeal"
+    ],
+    "correct_option": 1,
+    "solution_text": "Preserving depth while applying scrutiny. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "Spelling Test",
+    "difficulty": "medium",
+    "question_text": "Find the word that is spelled correctly and means light, witty banter.",
+    "options": [
+      "Persiflage",
+      "Persiflaige",
+      "Persiphlege",
+      "Persiflagee"
+    ],
+    "correct_option": 0,
+    "solution_text": "Persiflage is the correct spelling. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Grammar",
+    "chapter": "Direct/Indirect Speech",
+    "difficulty": "medium",
+    "question_text": "The researcher said, “We have been observing this phenomenon for months.”",
+    "options": [
+      "The researcher said they had been observing that phenomenon for months.",
+      "The researcher said they have been observing this phenomenon for months.",
+      "The researcher said that they were observing that phenomenon.",
+      "The researcher said that we had observed this phenomenon."
+    ],
+    "correct_option": 0,
+    "solution_text": "“have been observing” becomes “had been observing”. “this” becomes “that”. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Select the sentence containing the homonym of the highlighted word: The bishop denounced the act as simony, citing church law.",
+    "options": [
+      "The cleric was charged with simony for selling sacred offices.",
+      "Historians noted that simony corrupted many medieval appointments.",
+      "The chemist measured the simony of the compound under pressure.",
+      "Simony was condemned repeatedly by reform councils."
+    ],
+    "correct_option": 2,
+    "solution_text": "In (C), simony is used as a scientific property, which is a homonym usage. Thus, correct option is (c)."
+  }
+]

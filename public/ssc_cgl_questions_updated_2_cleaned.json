@@ -1,0 +1,1506 @@
+[
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Blood Relations",
+    "difficulty": "medium",
+    "question_text": "P is the sister of Q. R is the father of Q. How is R related to P?",
+    "options": [
+      "Father",
+      "Uncle",
+      "Brother",
+      "Grandfather"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: P is the sister of Q. R is the father of Q. From the given information blood relation diagram will be. So, R is father of P. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Classification",
+    "difficulty": "medium",
+    "question_text": "Find the odd one out:",
+    "options": [
+      "Copper",
+      "Iron",
+      "Gold",
+      "Plastic"
+    ],
+    "correct_option": 3,
+    "solution_text": "Copper, iron and gold are metals. Plastic is a non-metal. So, plastic is odd one out. Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "A 20 L mixture contains milk and water in the ratio 2:3. How much milk must be added to make the ratio 4:3?",
+    "options": [
+      "10 L",
+      "8 L",
+      "5 L",
+      "9 L"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: A 20 L mixture contains milk and water in the ratio 2:3. Solution: Milk : Water = 2 : 3 Total mixture = 20 L Milk = 2/5 * 20 = 8 L Water = 3/5 * 20 = 12 L Let (x) L milk be added. (8 + x)/12 = 4/3 3(8 + x) = 48 8 + x = 16 x = 8 Required milk = 8 L So, 8 L milk must be added to make the ratio 4:3. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If + = ×, - = ÷, × = +, ÷ = -, then find: 24 + 6 - 2 × 4 ÷ 2 = ?",
+    "options": [
+      "76",
+      "72",
+      "78",
+      "74"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given: 24 + 6 - 2 × 4 ÷ 2 = ? Given Sign + - × ÷ New Sign × ÷ + - Using BODMAS rule. New equation: 24 × 6 ÷ 2 + 4 - 2 = ? 24 × 3 + 4 - 2 = ? 72 + 4 - 2 = ? 76 - 2 = ? ? = 74 Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. CFG, EHI, GJK, ILM, ?",
+    "options": [
+      "KNO",
+      "JMN",
+      "JMO",
+      "KMN"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: CFG, EHI, GJK, ILM, ? Logic: Letters are increasing + 2 place. C + 2 = E, E + 2 = G, G + 2 = I, I + 2 = K F + 2 = H, H + 2 = J, J + 2 = L, L + 2 = N G + 2 = I, I + 2 = K, K + 2 = M, M + 2 = O So, the missing term is KNO. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Which of the following is/are identical to the address given?",
+    "options": [
+      "1 and 2",
+      "1 and 3",
+      "2 and 4",
+      "3 and 4"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: 1. Rohit Kumar, Flat 12A, Sunrise Apartments, Andheri East, Mumbai - 400069 2. Rohit Kumar, Flat 12A, Sunrise Apartments, Andheri East, Mumbai - 400069 3. Rohit Kumar, Flat 12-A, Sunrise Apartments, Andheri East, Mumbai - 400069 4. Rohit Kumar, Flat 12A, Sunrise Apartment, Andheri East, Mumbai - 400069 Now, we check each options. Option (a):1 and 2 Both addresses are exactly the same. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If ‘+’ means ‘×’, ‘-’ means ‘÷’, ‘×’ means ‘+’ and ‘÷’ means ‘-’. Find the value of: 10 ÷ 4 + 6 × 32 - 8 = ?",
+    "options": [
+      "-6",
+      "-8",
+      "-10",
+      "-12"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given: 10 ÷ 4 + 6 × 32 - 8 = ? New equation: 10 - 4 × 6 + 32 ÷ 8 = ? 10 - 24 + 4 = ? 10 - 24 + 4 = ? 14 - 24 = ? ? = - 10 Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "The following equation is correct. Which two signs should be interchanged to correct it? 24 - 6 ÷ 3 × 2 + 4 = 24",
+    "options": [
+      "- and ÷",
+      "× and +",
+      "÷ and ×",
+      "- and +"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given: 24 - 6 ÷ 3 × 2 + 4 = 24 Now, we check each options. Option (d): - and + New equation: 24 + 6 ÷ 3 × 2 - 4 = 24 24 + 2 × 2 - 4 = 24 24 + 4 - 4 = 24 28 - 4 = 24 24 = 24 Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "ROADMAP is to ORADPAM as JOURNEY is to:",
+    "options": [
+      "OJURYEN",
+      "UOJRNEY",
+      "UOJRENY",
+      "OJURNEY"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: ROADMAP is to ORADPAM as JOURNEY is to: Logic: Position of letters are interchanged. So, JOURNEY is to OJURYEN. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If 3 # 2 = 13, 4 # 3 = 25, then 5 # 4 = ?",
+    "options": [
+      "39",
+      "41",
+      "43",
+      "45"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: If 3 # 2 = 13, 4 # 3 = 25 Logic: 1st number^2 + 2nd number^2 = 3rd number For, 3 # 2 = 13, 3^2 + 2^2 = 9 + 4 = 13 For, 4 # 3 = 25, 4^2 + 3^2 = 16 + 9 = 25 Similarly, 5 # 4 = 5^2 + 4^2 = 25 + 16 = 41 Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Logical Reasoning",
+    "chapter": "Syllogism/Logical Deduction",
+    "difficulty": "medium",
+    "question_text": "Statements: A > B = C, D ≤ E < B, F > A Conclusions: I. F > C II. D < A",
+    "options": [
+      "Only I is true",
+      "Only II is true",
+      "Both I and II are true",
+      "Neither I nor II is true"
+    ],
+    "correct_option": 2,
+    "solution_text": "Statements: A > B = C, D ≤ E < B, F > A Conclusions: I. F > C From F > A and A > B = C => F > A > C. Conclusion I is true. II. D < A From D < B and B < A => D < A. Conclusion II is true. So, Both I and II are true. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Rearrange the letters to form the name of a fruit:",
+    "options": [
+      "lpeap",
+      "appel",
+      "paple",
+      "apple"
+    ],
+    "correct_option": 3,
+    "solution_text": "Explanation of all options: Option (d): apple Correct rearrangement forming the fruit name apple. Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Logical Reasoning",
+    "chapter": "Syllogism/Logical Deduction",
+    "difficulty": "medium",
+    "question_text": "Statement: The price of petrol has increased. Conclusions: I. Transportation costs may rise. II. People will stop using vehicles.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correct_option": 0,
+    "solution_text": "Statement: The price of petrol has increased. Conclusions: I. Transportation costs may rise. This logically follows. Petrol is a major input for transportation, so an increase in petrol price can increase transport costs. II. People will stop using vehicles. This does not logically follow. So, Only I follows. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Logical Reasoning",
+    "chapter": "Syllogism/Logical Deduction",
+    "difficulty": "medium",
+    "question_text": "Statement: Online education provides flexibility but requires reliable internet access. Assumptions: I. Students have access to the internet. II. Flexibility improves learning outcomes. III. Internet connectivity is essential for online education.",
+    "options": [
+      "Only I and III are implicit",
+      "Only II and III are implicit",
+      "Only I is implicit",
+      "All are implicit"
+    ],
+    "correct_option": 0,
+    "solution_text": "Statement: Online education provides flexibility but requires reliable internet access. Assumptions: I. Students have access to the internet. This is implicit. III. Internet connectivity is essential for online education. This is implicit. So, Only I and III are implicit. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "Pointing to a girl, a woman said, “She is the daughter of my brother’s wife.” How is the girl related to the woman?",
+    "options": [
+      "Mother",
+      "Niece",
+      "Sister",
+      "Cousin"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: Pointing to a girl, a woman said, “She is the daughter of my brother’s wife.” So, the girl is niece of the woman. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Logical Reasoning",
+    "chapter": "Syllogism/Logical Deduction",
+    "difficulty": "medium",
+    "question_text": "Identify the relation between Statement I and Statement II. Statement I: The company’s sales increased this year. Statement II: The company expanded its distribution network.",
+    "options": [
+      "I is the cause and II is the effect",
+      "II is the cause and I is the effect",
+      "Both are independent",
+      "No relation"
+    ],
+    "correct_option": 1,
+    "solution_text": "Statement I: The company’s sales increased this year. This describes a resultor outcome. Statement II: The company expanded its distribution network. This describes an action/cause. Relation: Because expanding the distribution network can lead to higher sales, Statement II is the cause and Statement I is the effect. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "What will come at the place of question mark? 7, 13, 25, 49, ?",
+    "options": [
+      "95",
+      "97",
+      "99",
+      "101"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: 7, 13, 25, 49, ? Logic: Numbers are multiply by 2 and - 1 place. 7 × 2 - 1 = 13 13 × 2 - 1 = 25 25 × 2 - 1 = 49 49 × 2 - 1 = 97 So, the missing term is 97. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If 20% of a number is 40, what is the number?",
+    "options": [
+      "160",
+      "180",
+      "200",
+      "240"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given: If 20% of a number is 40. Solution: 20% of a number = 40 Number = 40 * 100 / 20 = 200 So, 200 is the number. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Choose the address that is the same as the one given below. No. 21, Green Park Residency, Bhopal, Madhya Pradesh - 462001",
+    "options": [
+      "No. 21, Green Park Residency, Bhopal, MP - 462001",
+      "No. 21, Green Park Residency, Bhopal, Madhya Pradesh - 462001",
+      "No. 12, Green Park Residency, Bhopal, Madhya Pradesh - 462001",
+      "No. 21, Green Park Residency, Indore, Madhya Pradesh - 462001"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: No. 21, Green Park Residency, Bhopal, Madhya Pradesh - 462001 Option (b): No. 21, Green Park Residency, Bhopal, Madhya Pradesh - 462001 Matches the given address exactly in all details. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If 7 * 2 = 98 and 9 * 3 = 243, then 5 * 4 = ?",
+    "options": [
+      "100",
+      "120",
+      "125",
+      "140"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: If 7 * 2 = 98 and 9 * 3 = 243 Logic: (1st number)^2 × 2nd number = 3rd number For, 7 * 2 = 98, (7)^2 × 2 = 49 × 2 = 98 For, 9 * 3 = 243, (9)^2 × 3 = 81 × 3 = 243 Similarly, 5 * 4 = (5)^2 × 4 = 25 × 4 = 100 Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "What comes next? 2, 4, 12, 48, ?",
+    "options": [
+      "230",
+      "240",
+      "220",
+      "384"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: 2, 4, 12, 48, ? Logic: Numbers are multiply by natural number from 2. 2 × 2 = 4 4 × 3 = 12 12 × 4 = 48 48 × 5 = 240 So, the missing term is 240. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Logical Reasoning",
+    "chapter": "Syllogism/Logical Deduction",
+    "difficulty": "medium",
+    "question_text": "Statement: Crime rates decreased after better street lighting. Conclusions: I. Visibility reduces crime. II. Criminals prefer darkness.",
+    "options": [
+      "Only I follows",
+      "Only II follows",
+      "Both follow",
+      "Neither follows"
+    ],
+    "correct_option": 2,
+    "solution_text": "Statement: Crime rates decreased after better street lighting. Conclusions: I. Visibility reduces crime. Better street lighting improves visibility, which helps reduce crime. II. Criminals prefer darkness. If crime decreases after better lighting, it implies criminals prefer darkness. So, Both follow. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "If CAT is coded as BZS, how is DOG coded?",
+    "options": [
+      "CNF",
+      "CPF",
+      "DNF",
+      "BNF"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: If CAT is coded as BZS. Logic: Letters are decreasing - 1 place. For, CAT - BZS, C - 1 = B, A - 1 = Z, T - 1 = S Similarly, DOG - ?, D - 1 = C, O - 1 = N, G - 1 = F So, DOG is coded as CNF. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Series",
+    "difficulty": "medium",
+    "question_text": "What comes next? BDF, EGI, HJL, ?",
+    "options": [
+      "LNP",
+      "KNO",
+      "MPR",
+      "KMO"
+    ],
+    "correct_option": 3,
+    "solution_text": "Given: BDF, EGI, HJL, ? Logic: Letters are increasing + 3 place. B + 3 = E, E + 3 = H, H + 3 = K D + 3 = G, G + 3 = J, J + 3 = M F + 3 = I, I + 3 = L, L + 3 = O So, the missing term is KMO. Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Reasoning",
+    "subtopic": "Verbal Reasoning",
+    "chapter": "Classification",
+    "difficulty": "medium",
+    "question_text": "Find the odd one out: Mahatma Gandhi, Subhash Chandra Bose, Jawaharlal Nehru, Bhagat Singh, Rani Lakshmibai",
+    "options": [
+      "Mahatma Gandhi",
+      "Subhash Chandra Bose",
+      "Jawaharlal Nehru",
+      "Bhagat Singh"
+    ],
+    "correct_option": 2,
+    "solution_text": "Mahatma Gandhi, Subhash Chandra Bose, Bhagat Singh and Rani Lakshmibai were freedom fighters or revolutionaries. Jawaharlal Nehru was the only one who became the Prime Minister of India. So, Jawaharlal Nehru is odd one out. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "History",
+    "chapter": "Indian History",
+    "difficulty": "medium",
+    "question_text": "Which dynasty is credited with early fortifications around the Delhi region before the Sultanate period?",
+    "options": [
+      "Paramaras",
+      "Chahamanas",
+      "Tomaras",
+      "Palas"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) Tomaras. Explanation: The Tomara dynasty is credited with establishing the first city in the Delhi region, known as 'Dhillika'. Anangpal Tomar, a prominent ruler of this dynasty, is often cited as the founder of Delhi in the 8th century and built the citadel of Lal Kot. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Culture",
+    "chapter": "Art & Culture",
+    "difficulty": "medium",
+    "question_text": "In Hindustani music, the term describing the permitted notes and their sequence in a raga is:",
+    "options": [
+      "Tala",
+      "Bandish",
+      "Aroha–Avaroha",
+      "Laya"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) Aroha–Avaroha. Explanation: In Hindustani Classical Music, every Raga is defined by a specific setof musical notes (Swaras) and the order in which they are played or sung. Aroha refers to the ascending scale of notes in a Raga, while Avaroha refers to the descending scale. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Polity",
+    "chapter": "Indian Constitution",
+    "difficulty": "medium",
+    "question_text": "Which of the following is NOT a feature of the Indian Constitution?",
+    "options": [
+      "Federal system with unitary bias",
+      "Parliamentary form of government",
+      "Presidential form of government",
+      "Secular state"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) Presidential form of government. Explanation: The Indian Constitution provides for a Parliamentary form of government, both at the Centre and in the States. In a Presidential system (like in the USA), the executive is not responsible to the legislature. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Statement 1: The Hubble Space Telescope observes in ultraviolet, visible, and near-infrared regions. Statement 2: Hubble is in a geostationary orbit. Statement 3: Hubble's data led to the discovery of Dark Energy. Which are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) 1 and 3 only. Explanation: Statement 1 is Correct. Statement 2 is Incorrect: Hubble is in Low Earth Orbit (LEO), not a geostationary orbit. Statement 3 is Correct: Its data led to the discovery of Dark Energy. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Economy",
+    "chapter": "Indian Economy",
+    "difficulty": "medium",
+    "question_text": "Statement 1: Inflation reduces purchasing power. Statement 2: Inflation always benefits savers.",
+    "options": [
+      "Only Statement 1 is correct",
+      "Only Statement 2 is correct",
+      "Both are correct",
+      "Neither is correct"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) Only Statement 1 is correct. Explanation: Statement 1 is Correct: Inflation reduces purchasing power. Statement 2 is Incorrect: Inflation generally hurts savers and benefits debtors. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Economy",
+    "chapter": "Indian Economy",
+    "difficulty": "medium",
+    "question_text": "Assertion (A): GST created a unified tax system. Reason (R): It replaced multiple indirect taxes.",
+    "options": [
+      "Both A and R are true and R explains A",
+      "Both true but R not explanation",
+      "A true, R false",
+      "A false, R true"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) Both A and R are true and R explains A. Explanation: Assertion (A) is true because GST created a common national market. Reason (R) is also true and is the direct cause of A. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Economy",
+    "chapter": "Indian Economy",
+    "difficulty": "medium",
+    "question_text": "Liberalisation refers to:",
+    "options": [
+      "Increased government control",
+      "Reduction of trade barriers",
+      "Nationalisation",
+      "Currency demonetisation"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) Reduction of trade barriers. Explanation: Liberalisation refers to the loosening of government regulations and restrictions in exchange for greater participation by private entities. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Which of the following pairs is correctly matched?",
+    "options": [
+      "Wood’s Despatch — Promotion of English education system",
+      "Hunter Commission — Abolition of universities",
+      "Sadler Commission — Focus on primary schooling only",
+      "Raleigh Commission — Vernacular press control"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) Wood’s Despatch — Promotion of English education system. Explanation: Wood’s Despatch (1854) is known as the 'Magna Carta of English Education in India'. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "The Human Development Index mainly considers:",
+    "options": [
+      "Income, health, and education",
+      "Population growth",
+      "Inflation rate",
+      "Export levels"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) Income, health, and education. Explanation: The HDI is based on three key dimensions: 1. Long and healthy life, 2. Knowledge, and 3. A decent standard of living. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Polity",
+    "chapter": "Indian Constitution",
+    "difficulty": "medium",
+    "question_text": "Consider the following statements about the Fifth Schedule of the Indian Constitution:",
+    "options": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) Both 1 and 2. Explanation: Both statements accurately describe the constitutional role and scope of the Fifth Schedule. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Culture",
+    "chapter": "Art & Culture",
+    "difficulty": "medium",
+    "question_text": "Perini Shivatandavam, a vigorous dance tradition associated with warrior rituals and later revived in the 20th century by Nataraja Ramakrishna, is primarily linked to which Indian state?",
+    "options": [
+      "Odisha",
+      "Telangana",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) Telangana. Explanation: Perini Shivatandavam is an ancient dance form thatoriginated in the Kakatiya dynasty of Telangana. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "History",
+    "chapter": "Indian History",
+    "difficulty": "medium",
+    "question_text": "Read the following statements carefully: Statement 1: The dockyard at Lothal indicates maritime trade activity. Statement 2: Harappans used standardized weights for commerce. Which of the following is/are correct?",
+    "options": [
+      "Only 1",
+      "Only 2",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) Both 1 and 2. Explanation: Both statements are historically verified facts of the Indus Valley Civilization. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Culture",
+    "chapter": "Art & Culture",
+    "difficulty": "medium",
+    "question_text": "The annual cultural festival that showcases the traditions of multiple Naga tribes is organized to coincide with the Statehood Day of Nagaland. This festival is scheduled every year beginning on which date?",
+    "options": [
+      "1 December",
+      "15 January",
+      "26 November",
+      "5 March"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) 1 December. Explanation: The festival described is the Hornbill Festival. 1st December marks the Statehood Day of Nagaland. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Polity",
+    "chapter": "Indian Constitution",
+    "difficulty": "medium",
+    "question_text": "Which Article deals with the President’s ordinance-making power?",
+    "options": [
+      "Article 110",
+      "Article 123",
+      "Article 356",
+      "Article 368"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) Article 123. Explanation: Article 123 grants the President the power to promulgate ordinances during the recess of Parliament. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Which of the following initiatives focuses on enhancing climate resilience in drought-prone regions through integrated watershed management and community participation?",
+    "options": [
+      "National Afforestation Programme",
+      "Integrated Watershed Management Programme",
+      "Green India Mission",
+      "Desert Development Scheme"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) Integrated Watershed Management Programme. Explanation: The IWMP is designed to restore ecological balance by developing degraded natural resources. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "History",
+    "chapter": "Indian History",
+    "difficulty": "medium",
+    "question_text": "Which Mughal structure is known for its extensive use of red sandstone combined with white marble decoration?",
+    "options": [
+      "Jama Masjid, Delhi",
+      "Agra Fort",
+      "Bibi Ka Maqbara",
+      "Moti Masjid"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) Agra Fort. Explanation: Agra Fort, built by Emperor Akbar, is a prime example of using red sandstone with marble decoration. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Sports",
+    "chapter": "Sports & Games",
+    "difficulty": "medium",
+    "question_text": "India’s first individual Olympic gold medal in athletics was won in:",
+    "options": [
+      "Tokyo Olympics",
+      "Rio Olympics",
+      "Paris Olympics",
+      "Beijing Olympics"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) Tokyo Olympics. Explanation: Neeraj Chopra won the gold medal in the men's Javelin Throw at the Tokyo 2020 Olympics. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Sports",
+    "chapter": "Sports & Games",
+    "difficulty": "medium",
+    "question_text": "In athletics, the term “foul line” is commonly associated with:",
+    "options": [
+      "High jump",
+      "Shot put",
+      "Marathon",
+      "Hurdles"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) Shot put. Explanation: In Shot put, the athlete must stay within a designated circular area marked by a foul line. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Sports",
+    "chapter": "Sports & Games",
+    "difficulty": "medium",
+    "question_text": "The National Games 2022 in India were hosted by:",
+    "options": [
+      "Kerala",
+      "Maharashtra",
+      "Gujarat",
+      "Punjab"
+    ],
+    "correct_option": 2,
+    "solution_text": "The correct answer is (C) Gujarat. Explanation: The 36th National Games were held in 2022 across six cities in Gujarat. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Who authored the book “Ignited Minds”?",
+    "options": [
+      "R. Narayan",
+      "P.J. Abdul Kalam",
+      "Vikram Seth",
+      "Amartya Sen"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) A.P.J. Abdul Kalam. Explanation: Ignited Minds was written by Dr. A.P.J. Abdul Kalam. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "Polity",
+    "chapter": "Indian Constitution",
+    "difficulty": "medium",
+    "question_text": "Minimum age to become a member of Rajya Sabha is:",
+    "options": [
+      "25",
+      "30",
+      "35",
+      "40"
+    ],
+    "correct_option": 1,
+    "solution_text": "The correct answer is (B) 30. Explanation: According to Article 84, a person must be at least 30 years of age for Rajya Sabha. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "General Knowledge",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "India and Bhutan mainly coordinate on hydropower development and managementof shared river systems. Which of the following is the primary bilateral mechanism for resolving water-sharing issues between India and Bangladesh?",
+    "options": [
+      "Joint Rivers Commission",
+      "SAARC Water Board",
+      "WTO Mechanism",
+      "UN Water Council"
+    ],
+    "correct_option": 0,
+    "solution_text": "The correct answer is (A) Joint Rivers Commission. Explanation: The JRC was established in 1972 to ensure the most effective joint efforts in maximizing the benefits from common river systems. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Triangle",
+    "difficulty": "medium",
+    "question_text": "The area of a triangle is 25 cm². If a similar triangle has sides three times the corresponding sides of the first triangle, find its area.",
+    "options": [
+      "75 cm²",
+      "150 cm²",
+      "225 cm²",
+      "300 cm²"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given: Area of first triangle = 25 cm^2. Ratio of corresponding sides = 1 : 3. Ratio of areas = 1^2 : 3^2 = 1 : 9. Area of second triangle = 25 × 9 = 225 cm^2. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Circle",
+    "difficulty": "medium",
+    "question_text": "From an external point P, two tangents PA and PB are drawn to a circle. If the length of PA is 15 cm, find the length of PB.",
+    "options": [
+      "10 cm",
+      "12 cm",
+      "15 cm",
+      "18 cm"
+    ],
+    "correct_option": 2,
+    "solution_text": "Given: PA = 15 cm. Tangents drawn from an external point to a circle are equal in length. So, PB = PA = 15 cm. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Trigonometry",
+    "chapter": "Trigonometric Ratios",
+    "difficulty": "medium",
+    "question_text": "If sinA + cosA = 7/5, find sin2A.",
+    "options": [
+      "9/25",
+      "24/25",
+      "7/10",
+      "12/25"
+    ],
+    "correct_option": 1,
+    "solution_text": "Given: sinA + cosA = 7/5. (sinA + cosA)^2 = (7/5)^2 => 1 + sin2A = 49/25 => sin2A = 49/25 - 1 = 24/25. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Ratio & Proportion",
+    "difficulty": "medium",
+    "question_text": "If A : B = 4 : 5, B : C = 6 : 7, and C : D = 10 : 11, find the compound ratio A : B : C :",
+    "options": [
+      "48 : 60 : 70 : 77",
+      "4 : 5 : 7 : 11",
+      "24 : 30 : 35 : 44",
+      "8 : 10 : 14 : 11"
+    ],
+    "correct_option": 0,
+    "solution_text": "Given: A:B=4:5, B:C=6:7, C:D=10:11. A:B:C = 24:30:35. A:B:C:D = 48:60:70:77. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "27³ + 18³ − 45³ + 108 is equal to:",
+    "options": [
+      "−65502",
+      "0",
+      "−46656",
+      "1"
+    ],
+    "correct_option": 0,
+    "solution_text": "Let a=27, b=18, c=-45. a+b+c=0 => a^3+b^3+c^3 = 3abc = 3*27*18*(-45) = -65610. -65610 + 108 = -65502. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Algebra",
+    "chapter": "Coordinate Geometry",
+    "difficulty": "medium",
+    "question_text": "A line L is the perpendicular bisector of the line segment joining points P(4, 6) and Q(10, 2). What is the y-interceptof line L?",
+    "options": [
+      "4",
+      "-6.5",
+      "6",
+      "7"
+    ],
+    "correct_option": 1,
+    "solution_text": "Midpoint M = (7,4). Slope of PQ = -2/3. Slope of L = 3/2. Equation: y-4 = 3/2(x-7) => y = 3/2x - 13/2. y-intercept = -6.5. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Mensuration",
+    "difficulty": "medium",
+    "question_text": "If the radius of a cone is doubled and its height is reduced to half, how does the volume change?",
+    "options": [
+      "Becomes half of the original",
+      "Becomes double of the original",
+      "Remains unchanged",
+      "Becomes four times the original"
+    ],
+    "correct_option": 1,
+    "solution_text": "V = 1/3 * pi * r^2 * h. New V = 1/3 * pi * (2r)^2 * (h/2) = 1/3 * pi * 4r^2 * h/2 = 2 * (1/3 * pi * r^2 * h) = 2V. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Trigonometry",
+    "chapter": "Trigonometric Ratios",
+    "difficulty": "medium",
+    "question_text": "If cotA = 3, find the value of (tanA + cotA).",
+    "options": [
+      "10/3",
+      "4/3",
+      "13/3",
+      "3/10"
+    ],
+    "correct_option": 0,
+    "solution_text": "cotA = 3 => tanA = 1/3. tanA + cotA = 1/3 + 3 = 10/3. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "What is the minimum number of cuts required to divide a cube into 27 equal smaller cubes?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "3"
+    ],
+    "correct_option": 2,
+    "solution_text": "27 = 3^3. Cuts required = (3-1) + (3-1) + (3-1) = 2 + 2 + 2 = 6. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Triangle",
+    "difficulty": "medium",
+    "question_text": "A triangle can have:",
+    "options": [
+      "Two obtuse angles",
+      "One acute angle and two right angles",
+      "Only one obtuse angle",
+      "Three angles each equal to 70°"
+    ],
+    "correct_option": 2,
+    "solution_text": "Sum of angles = 180. Only one obtuse angle is possible. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Algebra",
+    "chapter": "Algebraic Identities",
+    "difficulty": "medium",
+    "question_text": "If a = 0.01, b = 0.02, c = −0.03 and a + b + c = 0, find (a³ + b³ + c³) ÷ (3abc).",
+    "options": [
+      "−1",
+      "0",
+      "1",
+      "2"
+    ],
+    "correct_option": 2,
+    "solution_text": "If a+b+c=0, then a^3+b^3+c^3 = 3abc. So (3abc)/(3abc) = 1. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Triangle",
+    "difficulty": "medium",
+    "question_text": "A circle is inscribed in a right-angled triangle whose perpendicular sides are 9 cm and 12 cm. Find the radius of the inscribed circle.",
+    "options": [
+      "2 cm",
+      "3 cm",
+      "4 cm",
+      "5 cm"
+    ],
+    "correct_option": 1,
+    "solution_text": "a=9, b=12, c=15. r = (a+b-c)/2 = (9+12-15)/2 = 3 cm. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Algebra",
+    "chapter": "Algebraic Identities",
+    "difficulty": "medium",
+    "question_text": "Simplify: sqrt(17 + 12*sqrt(2))",
+    "options": [
+      "4 + √2",
+      "2 + 3√2",
+      "3 + 2√2",
+      "5 + √4"
+    ],
+    "correct_option": 2,
+    "solution_text": "17 + 12*sqrt(2) = (3 + 2*sqrt(2))^2. So sqrt is 3 + 2*sqrt(2). Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Trigonometry",
+    "chapter": "Trigonometric Ratios",
+    "difficulty": "medium",
+    "question_text": "If cosθ = 5/13 and θ lies in the first quadrant, find the value of sinθ.",
+    "options": [
+      "12/13",
+      "5/12",
+      "13/12",
+      "12/5"
+    ],
+    "correct_option": 0,
+    "solution_text": "sin^2 = 1 - cos^2 = 1 - 25/169 = 144/169. sin = 12/13. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Ratio & Proportion",
+    "difficulty": "medium",
+    "question_text": "A sector of a circle subtends an angle of 90° at the centre and has radius 6 cm. Another sector of the same circle subtends an angle of π/2 radians. Find the ratio of the areas of the two sectors.",
+    "options": [
+      "1 : 2",
+      "2 : 1",
+      "1 : 1",
+      "3 : 2"
+    ],
+    "correct_option": 2,
+    "solution_text": "90 degrees = pi/2 radians. Since angles and radii are same, areas are same. Ratio 1:1. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Algebra",
+    "chapter": "Algebraic Identities",
+    "difficulty": "medium",
+    "question_text": "Find the value of x = sqrt(15 + sqrt(15 + sqrt(15 + ...)))",
+    "options": [
+      "3",
+      "2",
+      "(1 + sqrt(61))/2",
+      "4"
+    ],
+    "correct_option": 2,
+    "solution_text": "x = sqrt(15 + x) => x^2 - x - 15 = 0. x = (1 + sqrt(1 + 60))/2 = (1 + sqrt(61))/2. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Percentage",
+    "difficulty": "medium",
+    "question_text": "A shopkeeper buys 9 pens for the marked price of 8 pens. He sells each pen after allowing a discountof 5% on the marked price. Find his profit percentage.",
+    "options": [
+      "10%",
+      "25%",
+      "875%",
+      "15%"
+    ],
+    "correct_option": 2,
+    "solution_text": "Let MP of 1 pen = 100. CP of 9 pens = 800. SP of 1 pen = 95. SP of 9 pens = 855. Profit = 55. Profit % = 55/800 * 100 = 6.875%. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Algebra",
+    "chapter": "Algebraic Identities",
+    "difficulty": "medium",
+    "question_text": "If x + y = 7 and xy = 10, find: (x³ + y³)² - 9x²y²(x + y)²",
+    "options": [
+      "24011",
+      "−26411",
+      "12255",
+      "−12251"
+    ],
+    "correct_option": 1,
+    "solution_text": "x^3+y^3 = (x+y)^3 - 3xy(x+y) = 343 - 210 = 133. (133)^2 - 9(100)(49) = 17689 - 44100 = -26411. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Algebra",
+    "chapter": "Coordinate Geometry",
+    "difficulty": "medium",
+    "question_text": "Find the slope of the line 4x − 5y = 10.",
+    "options": [
+      "4/5",
+      "−5/4",
+      "5/4",
+      "−4/5"
+    ],
+    "correct_option": 0,
+    "solution_text": "5y = 4x - 10 => y = 4/5x - 2. Slope = 4/5. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Interest",
+    "difficulty": "medium",
+    "question_text": "₹800 is lent at a certain rate of simple interest. After 4 months, another ₹1200 is lent at a rate which is twice the original rate. If the total simple interest after 1 year is ₹96, find the original rate.",
+    "options": [
+      "4%",
+      "5%",
+      "8%",
+      "7%"
+    ],
+    "correct_option": 0,
+    "solution_text": "800*R*1/100 + 1200*2R*(2/3)/100 = 96 => 8R + 16R = 96 => 24R = 96 => R = 4. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Height & Distance",
+    "difficulty": "medium",
+    "question_text": "A tower casts a shadow of 15 meters on the ground. If the heightof the tower is 15√3 meters, find the angle of elevation of the sun.",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "75°"
+    ],
+    "correct_option": 2,
+    "solution_text": "tan(theta) = 15*sqrt(3)/15 = sqrt(3) => theta = 60. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Geometry & Mensuration",
+    "chapter": "Mensuration",
+    "difficulty": "medium",
+    "question_text": "The volume of a hemisphere is numerically equal to three times its curved surface area. Find the radius of the hemisphere.",
+    "options": [
+      "9 cm",
+      "5 cm",
+      "12 cm",
+      "14 cm"
+    ],
+    "correct_option": 0,
+    "solution_text": "2/3 * pi * r^3 = 3 * 2 * pi * r^2 => 2/3 * r = 6 => r = 9. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Arithmetic",
+    "chapter": "Interest",
+    "difficulty": "medium",
+    "question_text": "A sum of ₹12000 is divided into two parts and lent at 6% and 11% simple interest respectively. If the total annual interest earned is ₹960, find the amount lent at 11%.",
+    "options": [
+      "₹5000",
+      "₹4800",
+      "₹7000",
+      "₹8000"
+    ],
+    "correct_option": 1,
+    "solution_text": "0.11x + 0.06(12000-x) = 960 => 0.05x + 720 = 960 => 0.05x = 240 => x = 4800. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "Mathematics",
+    "subtopic": "Trigonometry",
+    "chapter": "Trigonometric Ratios",
+    "difficulty": "medium",
+    "question_text": "Pipe A can fill a tank in 18 minutes and Pipe B can fill it in 36 minutes. Both are opened together. After 6 minutes, the rate of Pipe A becomes half and Pipe B’s rate becomes double. How many more minutes are required to fill the tank?",
+    "options": [
+      "5 min",
+      "6 min",
+      "7 min",
+      "8 min"
+    ],
+    "correct_option": 1,
+    "solution_text": "Rates: A=2, B=1. Total=36. In 6 min, 18 units done. Left=18. New rates: A=1, B=2. New total rate=3. Time = 18/3 = 6 min. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Grammar",
+    "chapter": "Direct/Indirect Speech",
+    "difficulty": "medium",
+    "question_text": "He said to me, “You ought to study harder.”",
+    "options": [
+      "He said me that I ought to study harder.",
+      "He told me that I ought to study harder.",
+      "He told me that you ought to study harder.",
+      "He told that I ought to study harder."
+    ],
+    "correct_option": 1,
+    "solution_text": "“said to me” changes to “told me”. “You” changes to “I”. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "Synonyms",
+    "difficulty": "medium",
+    "question_text": "Select the most appropriate synonym of the given word: EXIGUOUS",
+    "options": [
+      "Meagre",
+      "Immense",
+      "Redundant",
+      "Plentiful"
+    ],
+    "correct_option": 0,
+    "solution_text": "Exiguous means very small or scanty. Meagre is the synonym. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "Spelling Test",
+    "difficulty": "medium",
+    "question_text": "Find the word that is spelled correctly and means the quality of being harshly sarcastic.",
+    "options": [
+      "Causticity",
+      "Caustisity",
+      "Caustyciti",
+      "Costicity"
+    ],
+    "correct_option": 0,
+    "solution_text": "Causticity is the correct spelling. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Grammar",
+    "chapter": "Direct/Indirect Speech",
+    "difficulty": "medium",
+    "question_text": "The envoy said thatonly after the truce would talks commence.",
+    "options": [
+      "“Talks commence only after the truce,” said the envoy.",
+      "“Only after the truce, talks would commence,” said the envoy.",
+      "“Only after the truce will talks commence,” said the envoy.",
+      "“Talks would commence once the truce is declared,” said the envoy."
+    ],
+    "correct_option": 2,
+    "solution_text": "“would commence” in indirect becomes “will commence” in direct. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "Antonyms",
+    "difficulty": "medium",
+    "question_text": "Select the most appropriate antonym of the given word. Abrogate",
+    "options": [
+      "Rescind",
+      "Annul",
+      "Ratify",
+      "Repeal"
+    ],
+    "correct_option": 2,
+    "solution_text": "Abrogate means to abolish. Ratify means to approve. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "One Word Substitution",
+    "difficulty": "medium",
+    "question_text": "Choose the correctone-word substitute for: “Extremely ancient; belonging to a very remote period.”",
+    "options": [
+      "Antiquated",
+      "Medieval",
+      "Antediluvian",
+      "Obsolete"
+    ],
+    "correct_option": 2,
+    "solution_text": "Antediluvian means extremely ancient. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "Synonyms",
+    "difficulty": "medium",
+    "question_text": "Select the most appropriate synonym of the given word: LUMINOUS",
+    "options": [
+      "Gloomy",
+      "Murky",
+      "Opaque",
+      "Resplendent"
+    ],
+    "correct_option": 3,
+    "solution_text": "Luminous means shining. Resplendent is the synonym. Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Choose the correct meaning of idiom: To chew over an idea",
+    "options": [
+      "Eat noisily",
+      "Wander aimlessly in thought",
+      "Think deeply and repeatedly",
+      "Prepare aggressively for conflict"
+    ],
+    "correct_option": 2,
+    "solution_text": "To chew over means to think deeply. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "One Word Substitution",
+    "difficulty": "medium",
+    "question_text": "Choose the correctone-word substitute for: “A person who advocates reform or improvement.”",
+    "options": [
+      "Traditionalist",
+      "Reactionary",
+      "Reformer",
+      "Absolutist"
+    ],
+    "correct_option": 2,
+    "solution_text": "Reformer is the one who advocates reform. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Grammar",
+    "chapter": "Error Spotting",
+    "difficulty": "medium",
+    "question_text": "Find the partof the sentence that contains an error: Seldom had the tribunal entertained an appeal (1)/ so lacking in substance, nor so plainly designed (2)/ to invite publicity rather than justice. (3)/ No error (4)/",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct_option": 1,
+    "solution_text": "Error in part (2). “nor” should be “or” for parallel structure with “seldom”. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Change the following from active to passive: They were broadcasting the match at 8 pm.",
+    "options": [
+      "The match is broadcast at 8 pm.",
+      "The match was broadcast at 8 pm.",
+      "The match was being broadcast at 8 pm.",
+      "The match has been broadcast at 8 pm."
+    ],
+    "correct_option": 2,
+    "solution_text": "Past continuous “were broadcasting” becomes “was being broadcast”. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Choose the correctoption: The sociologist’s conclusions were so contentious that they were initially ____.",
+    "options": [
+      "dismissed",
+      "applauded",
+      "endorsed",
+      "implemented"
+    ],
+    "correct_option": 0,
+    "solution_text": "Contentious means controversial, so they were likely dismissed. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Grammar",
+    "chapter": "Error Spotting",
+    "difficulty": "medium",
+    "question_text": "Find the partof the sentence that contains an error: The revised guideline states (1)/ that every employee must comply with (2)/ the conduct policy (3)/ regardless of their designation. (4)/",
+    "options": [
+      "(1)",
+      "(2)",
+      "(3)",
+      "(4)"
+    ],
+    "correct_option": 3,
+    "solution_text": "“every employee” is singular, so “their” should be “his/her”. Thus, correct option is (d)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Convert the sentence provided below from its passive voice structure to an active voice structure: A decision has been made to get the manuscript reviewed by an external committee.",
+    "options": [
+      "An external committee has reviewed the manuscript.",
+      "The manuscript is being reviewed by an external committee.",
+      "They have decided to get the manuscript reviewed by an external committee.",
+      "The manuscript was reviewed by the committee as per the decision."
+    ],
+    "correct_option": 2,
+    "solution_text": "Active form: “They have decided...”. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Select the most appropriate option to substitute the underlined segment in the given sentence. She is confidentof to clear the interview.",
+    "options": [
+      "of to clear",
+      "that she clears",
+      "of clearing the",
+      "on clearing interview"
+    ],
+    "correct_option": 2,
+    "solution_text": "“confidentof clearing the”. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Reading Comprehension",
+    "chapter": "Passage Based",
+    "difficulty": "medium",
+    "question_text": "What concern does the passage raise about Yoga’s worldwide popularity?",
+    "options": [
+      "Lack of studios",
+      "Dilution of its philosophical foundation",
+      "Shortage of practitioners",
+      "Excess control by Indian agencies"
+    ],
+    "correct_option": 1,
+    "solution_text": "The passage mentions dilution of philosophical foundation. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Which option best represents the Ayurvedic view of illness, as discussed?",
+    "options": [
+      "Destroying pathogens through antibiotics",
+      "Using synthetic drugs for instant relief",
+      "Rebalancing the body through lifestyle and routine",
+      "Correcting genetic defects directly"
+    ],
+    "correct_option": 2,
+    "solution_text": "Ayurveda focuses on rebalancing the body. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Reading Comprehension",
+    "chapter": "Passage Based",
+    "difficulty": "medium",
+    "question_text": "What risk linked to institutional promotion of AYUSH is mentioned in the passage?",
+    "options": [
+      "Rising production costs",
+      "Increased rural joblessness",
+      "Traditional knowledge holders being sidelined",
+      "Dependence on foreign investors"
+    ],
+    "correct_option": 2,
+    "solution_text": "Marginalization of traditional knowledge holders. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "What position does the author take regarding combining traditional medicine with modern healthcare?",
+    "options": [
+      "Traditional systems should replace allopathy",
+      "Modern medicine must reject tradition",
+      "Integration can work with humility and regulation",
+      "Both should remain strictly separate"
+    ],
+    "correct_option": 2,
+    "solution_text": "Integration with humility and regulation. Thus, correct option is (c)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Reading Comprehension",
+    "chapter": "Passage Based",
+    "difficulty": "medium",
+    "question_text": "According to the passage, what is essential for the continued relevance of Yoga and traditional medicine in India?",
+    "options": [
+      "Complete isolation from modern science",
+      "Preserving philosophical depth while applying rigorous scrutiny",
+      "Ignoring clinical trials",
+      "Focusing only on commercial appeal"
+    ],
+    "correct_option": 1,
+    "solution_text": "Preserving depth while applying scrutiny. Thus, correct option is (b)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Vocabulary",
+    "chapter": "Spelling Test",
+    "difficulty": "medium",
+    "question_text": "Find the word that is spelled correctly and means light, witty banter.",
+    "options": [
+      "Persiflage",
+      "Persiflaige",
+      "Persiphlege",
+      "Persiflagee"
+    ],
+    "correct_option": 0,
+    "solution_text": "Persiflage is the correct spelling. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "Grammar",
+    "chapter": "Direct/Indirect Speech",
+    "difficulty": "medium",
+    "question_text": "The researcher said, “We have been observing this phenomenon for months.”",
+    "options": [
+      "The researcher said they had been observing that phenomenon for months.",
+      "The researcher said they have been observing this phenomenon for months.",
+      "The researcher said that they were observing that phenomenon.",
+      "The researcher said that we had observed this phenomenon."
+    ],
+    "correct_option": 0,
+    "solution_text": "“have been observing” becomes “had been observing”. “this” becomes “that”. Thus, correct option is (a)."
+  },
+  {
+    "exam": "SSC CGL",
+    "subject": "English",
+    "subtopic": "General",
+    "chapter": "General",
+    "difficulty": "medium",
+    "question_text": "Select the sentence containing the homonym of the highlighted word: The bishop denounced the act as simony, citing church law.",
+    "options": [
+      "The cleric was charged with simony for selling sacred offices.",
+      "Historians noted that simony corrupted many medieval appointments.",
+      "The chemist measured the simony of the compound under pressure.",
+      "Simony was condemned repeatedly by reform councils."
+    ],
+    "correct_option": 2,
+    "solution_text": "In (C), simony is used as a scientific property, which is a homonym usage. Thus, correct option is (c)."
+  }
+]
