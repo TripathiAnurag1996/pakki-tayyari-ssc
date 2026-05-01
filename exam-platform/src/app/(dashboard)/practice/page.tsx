@@ -1,12 +1,38 @@
 import { PracticeForm } from '@/components/practice/practice-form'
 import { SubjectWithSubtopics } from '@/types'
 import { BookOpen, Sparkles } from 'lucide-react'
+import { createClient } from '@/lib/supabase/server'
 
 async function getSubjects(): Promise<SubjectWithSubtopics[]> {
-  const baseUrl = process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000'
-  const res = await fetch(`${baseUrl}/api/subjects`, { cache: 'no-store' })
-  if (!res.ok) return []
-  return res.json()
+  try {
+    const supabase = await createClient()
+    const { data, error } = await supabase
+      .from('questions')
+      .select('subject, subtopic, chapter')
+
+    if (error || !data) return []
+
+    // Build subject → subtopic → chapters hierarchy
+    const organizedData: SubjectWithSubtopics[] = []
+    data.forEach((item: { subject: string; subtopic: string; chapter: string }) => {
+      let subjectObj = organizedData.find(s => s.subject === item.subject)
+      if (!subjectObj) {
+        subjectObj = { subject: item.subject, subtopics: [] }
+        organizedData.push(subjectObj)
+      }
+      let subtopicObj = subjectObj.subtopics.find((st) => st.subtopic === item.subtopic)
+      if (!subtopicObj) {
+        subtopicObj = { subtopic: item.subtopic, chapters: [] }
+        subjectObj.subtopics.push(subtopicObj)
+      }
+      if (item.chapter && !subtopicObj.chapters.includes(item.chapter)) {
+        subtopicObj.chapters.push(item.chapter)
+      }
+    })
+    return organizedData
+  } catch {
+    return []
+  }
 }
 
 export default async function PracticePage() {
