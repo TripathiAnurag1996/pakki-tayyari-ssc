@@ -158,7 +158,7 @@ export function PracticeForm({ subjects }: PracticeFormProps) {
         <div className="px-2">
           <Slider
             value={questionCount}
-            onValueChange={setQuestionCount}
+            onValueChange={(val) => setQuestionCount(typeof val === 'number' ? [val] : [...val])}
             max={100}
             min={5}
             step={5}
