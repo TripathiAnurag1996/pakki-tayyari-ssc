@@ -68,6 +68,17 @@
   --input: #e2e8f0;
   --ring: #4f46e5;
   --radius: 1.25rem;
+
+  /* Login page light mode surfaces */
+  --login-bg: #f4f4f8;
+  --login-card-bg: rgba(255,255,255,0.85);
+  --login-card-border: rgba(99,102,241,0.15);
+  --login-input-bg: rgba(99,102,241,0.04);
+  --login-input-border: rgba(99,102,241,0.15);
+  --login-label: #71717a;
+  --login-text: #09090b;
+  --login-muted: #52525b;
+  --login-divider: rgba(0,0,0,0.06);
 }
 
 .dark {
@@ -96,6 +107,49 @@
   --sidebar-accent: #0a0a0a;
   --sidebar-accent-foreground: #f8fafc;
   --sidebar-border: rgba(255, 255, 255, 0.05);
+
+  /* Login page dark mode surfaces */
+  --login-bg: #020202;
+  --login-card-bg: rgba(255,255,255,0.02);
+  --login-card-border: rgba(255,255,255,0.05);
+  --login-input-bg: rgba(255,255,255,0.04);
+  --login-input-border: rgba(255,255,255,0.10);
+  --login-label: #71717a;
+  --login-text: #f8fafc;
+  --login-muted: #a1a1aa;
+  --login-divider: rgba(255,255,255,0.05);
+}
+
+/* Login page adaptive utility classes */
+.login-page {
+  background-color: var(--login-bg);
+  color: var(--login-text);
+  transition: background-color 0.4s ease, color 0.4s ease;
+}
+
+.login-card {
+  background: var(--login-card-bg);
+  border-color: var(--login-card-border) !important;
+  backdrop-filter: blur(32px);
+  -webkit-backdrop-filter: blur(32px);
+}
+
+.login-input {
+  background: var(--login-input-bg) !important;
+  border-color: var(--login-input-border) !important;
+  color: var(--login-text) !important;
+}
+
+.login-label {
+  color: var(--login-label);
+}
+
+.login-muted {
+  color: var(--login-muted);
+}
+
+.login-divider {
+  border-color: var(--login-divider) !important;
 }
 
 /* Obsidian Design System Tokens */
@@ -165,6 +219,7 @@
   content: "";
   position: absolute;
   inset: 0;
+  pointer-events: none;
   background: radial-gradient(circle at var(--mouse-x, 50%) var(--mouse-y, 50%), rgba(99, 102, 241, 0.05) 0%, transparent 80%);
   opacity: 0;
   transition: opacity 0.3s;
